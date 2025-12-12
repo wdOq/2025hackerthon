@@ -1,0 +1,515 @@
+2025-11-29 15:11:11,626 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 15:20:54,461 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 15:20:54,461 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 15:23:08,386 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 15:23:08,445 - INFO - Step03 results: 7/2915 papers have alternatives
+2025-11-29 15:23:08,446 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 15:23:26,019 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 15:23:26,019 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 19:25:00,849 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 19:35:10,537 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 19:35:10,537 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 19:37:13,689 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 19:37:13,741 - INFO - Step03 results: 8/2915 papers have alternatives
+2025-11-29 19:37:13,742 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 19:37:33,329 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 19:37:33,341 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 19:37:37,399 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:37:42,875 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:37:42,875 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 19:37:47,499 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:37:47,506 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 19:37:47,506 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 19:37:47,517 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 19:37:51,861 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:37:51,873 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 19:37:51,873 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 19:37:51,874 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 19:37:56,368 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:37:56,377 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 19:37:56,377 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 19:37:56,382 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 19:37:56,383 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 19:37:59,135 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:38:03,889 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:38:03,889 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 19:38:08,339 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:38:08,349 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 19:38:08,349 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 19:38:08,352 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 19:38:12,618 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:38:12,634 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 19:38:12,634 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 19:38:12,644 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 19:38:18,578 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 19:38:18,578 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 19:38:18,578 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 19:38:18,593 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 19:38:18,593 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 20:38:39,266 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 20:48:37,835 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 20:48:37,836 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 20:50:49,544 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 20:50:49,592 - INFO - Step03 results: 8/2915 papers have alternatives
+2025-11-29 20:50:49,594 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 20:51:10,102 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 20:51:10,102 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 20:51:14,347 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 20:51:19,947 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 20:51:19,948 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 20:51:24,443 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 20:51:24,450 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 20:51:24,450 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 20:51:24,459 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 20:51:28,664 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 20:51:28,682 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 20:51:28,682 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 20:51:28,684 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 20:51:33,133 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 20:51:33,143 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 20:51:33,143 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 21:37:05,420 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 21:46:55,413 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 21:46:55,413 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 21:49:03,592 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 21:49:03,646 - INFO - Step03 results: 8/2915 papers have alternatives
+2025-11-29 21:49:03,647 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 21:49:24,194 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 21:49:24,194 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 21:49:27,229 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:31,582 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:31,582 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 21:49:35,876 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:35,876 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 21:49:35,876 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 21:49:35,893 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 21:49:40,337 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:40,352 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 21:49:40,352 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 21:49:40,365 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 21:49:45,547 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:45,547 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 21:49:45,547 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 21:49:45,559 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 21:49:45,560 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 21:49:45,560 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 21:49:48,770 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:52,583 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:52,583 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 21:49:56,936 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:49:56,953 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 21:49:56,954 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 21:49:56,954 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:02,117 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:02,136 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 21:50:02,136 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 21:50:02,137 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:07,016 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:07,031 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 21:50:07,031 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 21:50:07,039 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 21:50:07,040 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 21:50:07,040 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 21:50:10,527 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:14,566 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:14,567 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:18,676 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:18,694 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 21:50:18,694 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 21:50:18,694 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:23,470 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:23,486 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 21:50:23,486 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 21:50:23,495 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:28,919 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:28,939 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 21:50:28,939 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 21:50:28,940 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 21:50:28,941 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 21:50:28,941 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 21:50:32,530 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:36,635 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:36,635 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:41,142 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:41,158 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 21:50:41,159 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 21:50:41,160 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:46,324 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:46,324 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 21:50:46,324 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 21:50:46,338 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 21:50:51,170 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 21:50:51,170 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 21:50:51,170 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 21:50:51,185 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 21:50:51,185 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 21:50:51,186 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:21:00,520 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 22:30:53,170 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 22:30:53,170 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 22:33:09,605 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 22:33:09,658 - INFO - Step03 results: 4/2915 papers have alternatives
+2025-11-29 22:33:09,658 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 22:33:20,968 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 22:33:20,968 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 22:33:24,566 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:30,300 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:30,301 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:33:34,625 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:34,642 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:33:34,643 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:33:34,644 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:33:39,445 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:39,445 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:33:39,460 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:33:39,461 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:33:43,894 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:43,910 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:33:43,910 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:33:43,912 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:33:43,912 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:33:43,912 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:33:47,999 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:51,748 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:51,748 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:33:56,924 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:33:56,942 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:33:56,942 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:33:56,943 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:01,724 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:01,741 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:34:01,741 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:34:01,742 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:06,582 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:06,598 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:34:06,598 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:34:06,600 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:34:06,600 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:34:06,600 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:34:09,970 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:13,768 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:13,768 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:17,894 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:17,912 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:34:17,912 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:34:17,912 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:22,343 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:22,364 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:34:22,364 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:34:22,365 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:27,554 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:27,566 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:34:27,570 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:34:27,572 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:34:27,572 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:34:27,572 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:34:31,216 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:36,533 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:36,534 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:40,687 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:40,703 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:34:40,703 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:34:40,711 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:45,716 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:45,728 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:34:45,728 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:34:45,729 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:34:51,566 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:34:51,566 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:34:51,566 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:34:51,577 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:34:51,577 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:34:51,578 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:34:54,866 - INFO - Step 01 completed successfully for Butyl D-glucoside
+2025-11-29 22:35:00,736 - INFO - Step 02 completed successfully for Butyl D-glucoside
+2025-11-29 22:35:00,736 - INFO - Searching for alternatives in last 10 years for Butyl D-glucoside
+2025-11-29 22:35:04,526 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:35:04,545 - INFO - Step03 results: 0/29 papers have alternatives
+2025-11-29 22:35:04,545 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:35:04,546 - INFO - Searching for alternatives in last 20 years for Butyl D-glucoside
+2025-11-29 22:35:09,602 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:35:09,619 - INFO - Step03 results: 0/71 papers have alternatives
+2025-11-29 22:35:09,620 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:35:09,622 - INFO - Searching for alternatives in last 30 years for Butyl D-glucoside
+2025-11-29 22:35:14,291 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:35:14,291 - INFO - Step03 results: 0/87 papers have alternatives
+2025-11-29 22:35:14,291 - INFO - Reached maximum search range of 30 years for Butyl D-glucoside. No alternatives found.
+2025-11-29 22:35:14,307 - INFO - Created no paper found file: final_output\20251129_11107340.json
+2025-11-29 22:35:14,308 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_11107340.json
+2025-11-29 22:35:14,308 - WARNING - Step 03 failed for Butyl D-glucoside, skipping remaining steps
+2025-11-29 22:45:01,341 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 22:54:46,420 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 22:54:46,420 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 22:56:54,173 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 22:56:54,222 - INFO - Step03 results: 6/2915 papers have alternatives
+2025-11-29 22:56:54,223 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 22:57:10,203 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 22:57:10,204 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 22:57:14,686 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:20,495 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:20,496 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:57:24,769 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:24,782 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:57:24,782 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:57:24,782 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:57:29,703 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:29,714 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:57:29,715 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:57:29,716 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:57:34,817 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:34,832 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:57:34,832 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:57:34,832 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:57:34,833 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:57:34,833 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:57:41,223 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:46,477 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:46,477 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:57:50,980 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:50,997 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:57:50,997 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:57:50,998 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:57:56,483 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:57:56,494 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:57:56,495 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:57:56,495 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:02,133 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:02,148 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:58:02,148 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:58:02,149 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:58:02,149 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:58:02,149 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:58:06,351 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:11,671 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:11,672 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:16,850 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:16,860 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:58:16,861 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:58:16,861 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:21,890 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:21,895 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:58:21,895 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:58:21,901 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:27,177 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:27,189 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:58:27,189 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:58:27,190 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:58:27,190 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:58:27,191 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:58:30,860 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:36,566 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:36,566 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:41,429 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:41,446 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 22:58:41,446 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:58:41,447 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:46,432 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:46,447 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 22:58:46,448 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:58:46,448 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 22:58:51,721 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 22:58:51,737 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 22:58:51,737 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 22:58:51,738 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 22:58:51,738 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 22:58:51,738 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 22:58:54,833 - INFO - Step 01 completed successfully for Butyl D-glucoside
+2025-11-29 22:59:00,765 - INFO - Step 02 completed successfully for Butyl D-glucoside
+2025-11-29 22:59:00,766 - INFO - Searching for alternatives in last 10 years for Butyl D-glucoside
+2025-11-29 22:59:05,181 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:59:05,187 - INFO - Step03 results: 0/29 papers have alternatives
+2025-11-29 22:59:05,187 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 22:59:05,194 - INFO - Searching for alternatives in last 20 years for Butyl D-glucoside
+2025-11-29 22:59:10,316 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:59:10,323 - INFO - Step03 results: 0/71 papers have alternatives
+2025-11-29 22:59:10,323 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 22:59:10,323 - INFO - Searching for alternatives in last 30 years for Butyl D-glucoside
+2025-11-29 22:59:15,208 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 22:59:15,223 - INFO - Step03 results: 0/87 papers have alternatives
+2025-11-29 22:59:15,224 - INFO - Reached maximum search range of 30 years for Butyl D-glucoside. No alternatives found.
+2025-11-29 22:59:15,225 - INFO - Created no paper found file: final_output\20251129_11107340.json
+2025-11-29 22:59:15,225 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_11107340.json
+2025-11-29 22:59:15,225 - WARNING - Step 03 failed for Butyl D-glucoside, skipping remaining steps
+2025-11-29 23:00:36,740 - INFO - Step 01 completed successfully for substitutes
+2025-11-29 23:09:33,445 - INFO - Step 02 completed successfully for substitutes
+2025-11-29 23:09:33,446 - INFO - Searching for alternatives in last 10 years for substitutes
+2025-11-29 23:12:00,128 - INFO - Step 03 completed successfully for substitutes
+2025-11-29 23:12:00,171 - INFO - Step03 results: 91/3029 papers have alternatives
+2025-11-29 23:12:00,173 - INFO - Found alternatives for substitutes within 10 years
+2025-11-29 23:15:34,575 - INFO - Step 04 completed successfully for substitutes
+2025-11-29 23:15:34,575 - INFO - Pipeline completed for substitutes
+2025-11-29 23:32:57,333 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-29 23:42:39,199 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-29 23:42:39,204 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-29 23:44:49,097 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-29 23:44:49,164 - INFO - Step03 results: 8/2915 papers have alternatives
+2025-11-29 23:44:49,165 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-29 23:45:08,928 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-29 23:45:08,928 - INFO - Pipeline completed for ethylbenzene
+2025-11-29 23:45:12,190 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:17,752 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:17,758 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:22,250 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:22,266 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 23:45:22,266 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 23:45:22,269 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:27,811 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:27,827 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 23:45:27,827 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 23:45:27,827 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:32,891 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:32,908 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 23:45:32,908 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 23:45:32,909 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 23:45:32,909 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 23:45:32,910 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 23:45:37,452 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:42,640 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:42,640 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:46,858 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:46,877 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 23:45:46,877 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 23:45:46,878 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:51,844 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:51,858 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 23:45:51,858 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 23:45:51,858 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 23:45:56,963 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:45:56,973 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 23:45:56,974 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 23:45:56,975 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 23:45:56,975 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 23:45:56,975 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 23:46:01,039 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:06,528 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:06,528 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:11,134 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:11,148 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 23:46:11,148 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 23:46:11,148 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:16,634 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:16,645 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 23:46:16,645 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 23:46:16,646 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:21,162 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:21,172 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 23:46:21,173 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 23:46:21,174 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 23:46:21,174 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 23:46:21,174 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 23:46:24,771 - INFO - Step 01 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:29,193 - INFO - Step 02 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:29,194 - INFO - Searching for alternatives in last 10 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:33,624 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:33,640 - INFO - Step03 results: 0/10 papers have alternatives
+2025-11-29 23:46:33,640 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 23:46:33,640 - INFO - Searching for alternatives in last 20 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:39,124 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:39,145 - INFO - Step03 results: 0/34 papers have alternatives
+2025-11-29 23:46:39,145 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 23:46:39,145 - INFO - Searching for alternatives in last 30 years for Benzoyl chloride, dichloro-
+2025-11-29 23:46:43,613 - INFO - Step 03 completed successfully for Benzoyl chloride, dichloro-
+2025-11-29 23:46:43,623 - INFO - Step03 results: 0/46 papers have alternatives
+2025-11-29 23:46:43,623 - INFO - Reached maximum search range of 30 years for Benzoyl chloride, dichloro-. No alternatives found.
+2025-11-29 23:46:43,624 - INFO - Created no paper found file: final_output\20251129_17944.json
+2025-11-29 23:46:43,624 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_17944.json
+2025-11-29 23:46:43,624 - WARNING - Step 03 failed for Benzoyl chloride, dichloro-, skipping remaining steps
+2025-11-29 23:46:47,589 - INFO - Step 01 completed successfully for Butyl D-glucoside
+2025-11-29 23:46:53,592 - INFO - Step 02 completed successfully for Butyl D-glucoside
+2025-11-29 23:46:53,592 - INFO - Searching for alternatives in last 10 years for Butyl D-glucoside
+2025-11-29 23:46:58,702 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 23:46:58,718 - INFO - Step03 results: 0/29 papers have alternatives
+2025-11-29 23:46:58,718 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-29 23:46:58,718 - INFO - Searching for alternatives in last 20 years for Butyl D-glucoside
+2025-11-29 23:47:03,090 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 23:47:03,094 - INFO - Step03 results: 0/71 papers have alternatives
+2025-11-29 23:47:03,094 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-29 23:47:03,094 - INFO - Searching for alternatives in last 30 years for Butyl D-glucoside
+2025-11-29 23:47:07,156 - INFO - Step 03 completed successfully for Butyl D-glucoside
+2025-11-29 23:47:07,171 - INFO - Step03 results: 0/87 papers have alternatives
+2025-11-29 23:47:07,171 - INFO - Reached maximum search range of 30 years for Butyl D-glucoside. No alternatives found.
+2025-11-29 23:47:07,171 - INFO - Created no paper found file: final_output\20251129_11107340.json
+2025-11-29 23:47:07,171 - INFO - Created no paper found file: D:\User\Adison\desktop\GreenChem-Aide\37chemicals\20251129_11107340.json
+2025-11-29 23:47:07,171 - WARNING - Step 03 failed for Butyl D-glucoside, skipping remaining steps
+2025-11-29 23:48:19,937 - INFO - Step 01 completed successfully for substitutes
+2025-11-29 23:48:26,546 - ERROR - Step 02 failed for substitutes with return code 3221225786
+2025-11-30 00:10:58,227 - INFO - Step 01 completed successfully for allyl alcohol
+2025-11-30 00:17:54,297 - INFO - Step 02 completed successfully for allyl alcohol
+2025-11-30 00:17:54,298 - INFO - Searching for alternatives in last 10 years for allyl alcohol
+2025-11-30 00:18:57,715 - INFO - Step 03 completed successfully for allyl alcohol
+2025-11-30 00:18:57,739 - INFO - Step03 results: 0/1221 papers have alternatives
+2025-11-30 00:18:57,739 - INFO - No alternatives found in 10 years. Extending search to 20 years...
+2025-11-30 00:18:57,745 - INFO - Searching for alternatives in last 20 years for allyl alcohol
+2025-11-30 00:20:35,443 - INFO - Step 03 completed successfully for allyl alcohol
+2025-11-30 00:20:35,490 - INFO - Step03 results: 0/2990 papers have alternatives
+2025-11-30 00:20:35,494 - INFO - No alternatives found in 20 years. Extending search to 30 years...
+2025-11-30 00:20:35,496 - INFO - Searching for alternatives in last 30 years for allyl alcohol
+2025-11-30 00:22:40,310 - INFO - Step 03 completed successfully for allyl alcohol
+2025-11-30 00:22:40,366 - INFO - Step03 results: 1/4270 papers have alternatives
+2025-11-30 00:22:40,368 - INFO - Found alternatives for allyl alcohol within 30 years
+2025-11-30 00:22:46,109 - INFO - Step 04 completed successfully for allyl alcohol
+2025-11-30 00:22:46,109 - INFO - Pipeline completed for allyl alcohol
+2025-11-30 01:05:14,374 - INFO - Step 01 completed successfully for ethylbenzene
+2025-11-30 01:14:53,185 - INFO - Step 02 completed successfully for ethylbenzene
+2025-11-30 01:14:53,186 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-11-30 01:17:02,440 - INFO - Step 03 completed successfully for ethylbenzene
+2025-11-30 01:17:02,485 - INFO - Step03 results: 5/2915 papers have alternatives
+2025-11-30 01:17:02,490 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-11-30 01:17:15,664 - INFO - Step 04 completed successfully for ethylbenzene
+2025-11-30 01:17:15,664 - INFO - Pipeline completed for ethylbenzene
+2025-11-30 01:26:17,990 - INFO - Step 01 completed successfully for 1,2-dichloroethane
+2025-11-30 01:33:32,376 - INFO - Step 02 completed successfully for 1,2-dichloroethane
+2025-11-30 01:33:32,377 - INFO - Searching for alternatives in last 10 years for 1,2-dichloroethane
+2025-11-30 01:34:42,502 - INFO - Step 03 completed successfully for 1,2-dichloroethane
+2025-11-30 01:34:42,532 - INFO - Step03 results: 4/1214 papers have alternatives
+2025-11-30 01:34:42,533 - INFO - Found alternatives for 1,2-dichloroethane within 10 years
+2025-11-30 01:34:56,261 - INFO - Step 04 completed successfully for 1,2-dichloroethane
+2025-11-30 01:34:56,261 - INFO - Pipeline completed for 1,2-dichloroethane
+2025-12-12 00:49:10,831 - INFO - Step 01 completed successfully for 1,2-dichloroethane
+2025-12-12 00:56:09,228 - INFO - Step 02 completed successfully for 1,2-dichloroethane
+2025-12-12 00:56:09,228 - INFO - Searching for alternatives in last 10 years for 1,2-dichloroethane
+2025-12-12 00:57:16,188 - INFO - Step 03 completed successfully for 1,2-dichloroethane
+2025-12-12 00:57:16,215 - INFO - Step03 results: 4/1220 papers have alternatives
+2025-12-12 00:57:16,215 - INFO - Found alternatives for 1,2-dichloroethane within 10 years
+2025-12-12 00:57:27,470 - INFO - Step 04 completed successfully for 1,2-dichloroethane
+2025-12-12 00:57:27,476 - INFO - Pipeline completed for 1,2-dichloroethane
+2025-12-12 01:12:52,035 - INFO - Step 01 completed successfully for acrylonitrile
+2025-12-12 01:22:06,689 - INFO - Step 02 completed successfully for acrylonitrile
+2025-12-12 01:22:06,690 - INFO - Searching for alternatives in last 10 years for acrylonitrile
+2025-12-12 01:24:45,608 - INFO - Step 03 completed successfully for acrylonitrile
+2025-12-12 01:24:45,657 - INFO - Step03 results: 8/2924 papers have alternatives
+2025-12-12 01:24:45,658 - INFO - Found alternatives for acrylonitrile within 10 years
+2025-12-12 01:25:09,939 - INFO - Step 04 completed successfully for acrylonitrile
+2025-12-12 01:25:09,940 - INFO - Pipeline completed for acrylonitrile
+2025-12-12 01:35:19,959 - INFO - Step 01 completed successfully for bisphenol A
+2025-12-12 01:44:52,434 - INFO - Step 02 completed successfully for bisphenol A
+2025-12-12 01:44:52,435 - INFO - Searching for alternatives in last 10 years for bisphenol A
+2025-12-12 01:49:13,762 - INFO - Step 03 completed successfully for bisphenol A
+2025-12-12 01:49:13,826 - INFO - Step03 results: 63/4535 papers have alternatives
+2025-12-12 01:49:13,826 - INFO - Found alternatives for bisphenol A within 10 years
+2025-12-12 01:52:00,049 - INFO - Step 04 completed successfully for bisphenol A
+2025-12-12 01:52:00,049 - INFO - Pipeline completed for bisphenol A
+2025-12-12 01:57:53,098 - INFO - Step 01 completed successfully for butyl acrylate
+2025-12-12 02:08:08,279 - INFO - Step 02 completed successfully for butyl acrylate
+2025-12-12 02:08:08,279 - INFO - Searching for alternatives in last 10 years for butyl acrylate
+2025-12-12 02:10:17,983 - INFO - Step 03 completed successfully for butyl acrylate
+2025-12-12 02:10:18,045 - INFO - Step03 results: 3/2266 papers have alternatives
+2025-12-12 02:10:18,047 - INFO - Found alternatives for butyl acrylate within 10 years
+2025-12-12 02:10:28,431 - INFO - Step 04 completed successfully for butyl acrylate
+2025-12-12 02:10:28,431 - INFO - Pipeline completed for butyl acrylate
+2025-12-12 02:16:34,377 - INFO - Step 01 completed successfully for ethylbenzene
+2025-12-12 02:26:46,434 - INFO - Step 02 completed successfully for ethylbenzene
+2025-12-12 02:26:46,434 - INFO - Searching for alternatives in last 10 years for ethylbenzene
+2025-12-12 02:29:15,276 - INFO - Step 03 completed successfully for ethylbenzene
+2025-12-12 02:29:15,331 - INFO - Step03 results: 7/2924 papers have alternatives
+2025-12-12 02:29:15,331 - INFO - Found alternatives for ethylbenzene within 10 years
+2025-12-12 02:29:34,570 - INFO - Step 04 completed successfully for ethylbenzene
+2025-12-12 02:29:34,571 - INFO - Pipeline completed for ethylbenzene
+2025-12-12 02:49:09,308 - INFO - Step 01 completed successfully for formaldehyde
+2025-12-12 02:57:23,540 - INFO - Step 02 completed successfully for formaldehyde
+2025-12-12 02:57:23,540 - INFO - Searching for alternatives in last 10 years for formaldehyde
+2025-12-12 02:59:57,519 - INFO - Step 03 completed successfully for formaldehyde
+2025-12-12 02:59:57,555 - INFO - Step03 results: 69/2807 papers have alternatives
+2025-12-12 02:59:57,555 - INFO - Found alternatives for formaldehyde within 10 years
+2025-12-12 03:02:50,649 - INFO - Step 04 completed successfully for formaldehyde
+2025-12-12 03:02:50,650 - INFO - Pipeline completed for formaldehyde

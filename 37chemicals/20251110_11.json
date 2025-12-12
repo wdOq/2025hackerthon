@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Exploring Solvent Effects in the Radiosynthesis of 18F-Labeled Thymidine Analogues toward Clinical Translation for Positron Emission Tomography Imaging.",
+    "doi": "10.1021/acsptsci.0c00184",
+    "year": 2020,
+    "target": "1,2-dichloroethane",
+    "reasoning": "The abstract explicitly states that 1,4-dioxane is used to replace 1,2-dichloroethane and is analyzed as a better solvent in terms of toxicity concern, indicating a safety advantage. It also mentions that the less toxic solvent allows translation to clinical production, supporting that 1,4-dioxane is a safer alternative to 1,2-dichloroethane.",
+    "alternatives": "1,4-dioxane",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with 1,2-dichloroethane. It only implies that 1,4-dioxane is less toxic compared to 1,2-dichloroethane, but no specific toxicity types or other hazards are detailed."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Green Catalytic Synthesis of Ethylenediamine from Ethylene Glycol and Monoethanolamine: A Review",
+    "doi": "10.1021/acsomega.4c00709",
+    "year": 2024,
+    "target": "1,2-dichloroethane",
+    "reasoning": "The abstract explicitly compares the catalytic amination of ethylene glycol (EG) to the industrial ammonolysis of 1,2-dichloroethane, describing the EG route as 'economical and environmentally benign,' which indicates a safety advantage. This suggests that the catalytic amination of EG is a safer alternative to 1,2-dichloroethane for ethylenediamine synthesis.",
+    "alternatives": "ethylene glycol",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to 1,2-dichloroethane. It only mentions its use in the industrial approach of ammonolysis for ethylenediamine synthesis without discussing toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Rapid removal of detergent in glycolipids using ionic liquids",
+    "doi": "10.1007/s44211-022-00139-x",
+    "year": 2022,
+    "target": "1,2-dichloroethane",
+    "reasoning": "The abstract explicitly states that 1,2-dichloroethane (DCE) has drawbacks including environmental risks, potential carcinogenicity, high vaporability, and flammability. It then presents 1-butyl-3-methylimidazolium iodide, an ionic liquid, as a suitable alternative for detergent removal in glycolipid samples, implying it addresses these safety concerns.",
+    "alternatives": "1-butyl-3-methylimidazolium iodide",
+    "target_chemical_harm": {
+      "harms": [
+        "environmental risks",
+        "potentially carcinogenic",
+        "high vaporability",
+        "flammability"
+      ],
+      "rationale": "The text explicitly states that 1,2-dichloroethane (DCE) has environmental risks, harmful effects including potential carcinogenicity, and properties of high vaporability and flammability."
+    },
+    "CHEMICAL HARM": "environmental risks, potentially carcinogenic, high vaporability, flammability"
+  },
+  {
+    "title": "Study on Sustainable Recovery and Extraction of Polyhydroxyalkanoates (PHAs) Produced by Cupriavidus necator Using Waste Glycerol for Medical Applications",
+    "doi": "10.15255/CABEQ.2018.1471",
+    "year": 2019,
+    "target": "1,2-dichloroethane",
+    "reasoning": "The abstract explicitly states that the extraction of the copolymer using solvents such as propylene carbonate, butyl acetate, isoamyl alcohol, and ethyl acetate could help in replacing generally used chlorinated toxic solvents, such as 1,2-dichloroethane. This indicates these solvents are presented as safer alternatives to 1,2-dichloroethane due to the mention of chlorinated solvents being toxic and the proposal of recyclable solvents for extraction.",
+    "alternatives": "propylene carbonate; butyl acetate; isoamyl alcohol; ethyl acetate",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to 1,2-dichloroethane. It only mentions that 1,2-dichloroethane is a generally used chlorinated toxic solvent that could be replaced by other solvents, but no specific harms or hazards are detailed."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

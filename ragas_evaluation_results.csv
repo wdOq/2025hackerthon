@@ -1,0 +1,30 @@
+﻿user_input,retrieved_contexts,response,faithfulness
+問Ethylene Dichloride的替代物有哪些並且給我詳細的法律規範?,"['Exploring Solvent Effects in the Radiosynthesis of 18F-Labeled Thymidine Analogues toward Clinical Translation for Positron Emission Tomography Imaging. The abstract explicitly states that 1,4-dioxane is used to replace 1,2-dichloroethane ...', 'Green Catalytic Synthesis of Ethylenediamine from Ethylene Glycol and Monoethanolamine: A Review. The abstract explicitly compares the catalytic amination of ethylene glycol (EG) to the industrial ammonolysis of 1,2-dichloroethane ...', 'Rapid removal of detergent in glycolipids using ionic liquids. The abstract explicitly states that 1,2-dichloroethane (DCE) has drawbacks including environmental risks ...', 'Study on Sustainable Recovery and Extraction of Polyhydroxyalkanoates (PHAs) Produced by Cupriavidus necator Using Waste Glycerol for Medical Applications. The abstract explicitly states that the extraction of the copolymer using solvents such as propylene carbonate ...']","以下是我對使用者的提問的思考邏輯與查詢結果：
+
+### 思考邏輯：
+1. **提取用戶關鍵字**：從用戶的問題中，我識別到“Ethylene Dichloride”（乙烯二氯化物）作為重要的化學物質。
+2. **轉換CID號碼**：由於“Ethylene Dichloride”不是CID號碼，我使用`Convert_to_CID`工具將其轉換為CID號碼，以便進一步查詢。
+3. **查詢替代物資料**：利用SASdatabase工具，我獲得了該化學物質的應用與風險資料，然後使用Deepsurvey工具查詢相關的替代物。
+4. **查詢法律規範**：使用GraphRAG工具查詢“Ethylene Dichloride”的法律規範。
+
+### 查詢結果：
+
+#### 1. Ethylene Dichloride 的基本信息
+- **中文名稱**：1,2-二氯乙烷
+- **風險級別**：1（具有一定的危險性）
+- **工業用途**：農藥、工業用途、中間產物、商業用途、消費者產品。
+
+#### 2. 替代物列表
+| **1,4-二噁烯 (1,4-Dioxane)**                | 更少的毒性，作為溶劑的安全優勢，相比於乙烯二氯化物更具安全性，適合臨床生產的轉化                                | [ACS 2020](https://doi.org/10.1021/acsptsci.0c00184)                    |
+| **乙烯醇 (Ethylene Glycol)**               | 被描述為經濟型且環境友好的替代品，比較其催化胺化反應的安全性，與乙烯二氯化物 相比具有優勢                           | [ACS Omega 2024](https://doi.org/10.1021/acsomega.4c00709)              |
+| **1-丁基-3-甲基咪唑鎘 (1-butyl-3-methylimidazolium iodide)** | 提供了在環境風險和潛在致癌性上的優勢，被提出用於去除洗滌劑 的合適替代品，安全性更高                               | [Springer 2022](https://doi.org/10.1007/s44211-022-00139-x)             |
+| **丙烯碳酸酯 (Propylene Carbonate)**       | 與乙烯二氯化物相比屬於可回收的溶劑，並可能被視為更安全的替代品                                        | [CABEQ 2019](https://doi.org/10.15255/CABEQ.2018.1471)                  |
+| **丁酸酯 (Butyl Acetate)**                  | 其回收利用性和低毒性特點，加上乙烯二氯化物的替代性，推薦用於提取和其他工業的應用                                | [CABEQ 2019](https://doi.org/10.15255/CABEQ.2018.1471)                  |
+
+### 3. 法律規範
+根據最新的法律資料，乙烯二氯化物被歸類為：
+- **致癌物質（1B類）**：需要特別注意安全措施和風險管理。
+- **環境保護法（EPA）中的預製通知計劃（PMN）**：在其生產或進口前須通知環保署。
+
+#### 結論：
+在選擇乙烯二氯化物的替代品時，考慮安全性和環境影響是非常重要的。上表顯示的替代物具有較低的風險和更好的環境適應性。建議在應用前仔細評估這些替代物的特性和合規性。",

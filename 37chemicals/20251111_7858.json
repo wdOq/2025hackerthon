@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Strong Protein Adduct Trapping Accompanies Abolition of Acrolein-Mediated Hepatotoxicity by Hydralazine in Mice",
+    "doi": "10.1124/JPET.104.067330",
+    "year": 2004,
+    "target": "allyl alcohol",
+    "reasoning": "The abstract demonstrates that hydralazine provides strong, dose-dependent protection against hepatotoxicity caused by allyl alcohol in mice, indicating a safety advantage. It explicitly shows hydralazine inactivates reactive adducts formed by allyl alcohol metabolism, thereby preventing liver injury. This supports hydralazine as a safer alternative to allyl alcohol in the context of hepatotoxicity.",
+    "alternatives": "hydralazine",
+    "target_chemical_harm": {
+      "harms": [
+        "hepatotoxicity",
+        "hepatic injury",
+        "hepatic glutathione depletion",
+        "cellular death"
+      ],
+      "rationale": "The reasoning text explicitly states that allyl alcohol is a precursor to acrolein and causes hepatotoxicity in mice, as evidenced by increased plasma liver enzymes (markers of hepatic injury) and depletion of hepatic glutathione. The text also mentions that secondary reactions triggered by reactive carbonyl-retaining protein adducts lead to cellular death."
+    },
+    "CHEMICAL HARM": "hepatotoxicity, hepatic injury, hepatic glutathione depletion, cellular death"
+  },
+  {
+    "title": "Protein adduct-trapping by hydrazinophthalazine drugs: mechanisms of cytoprotection against acrolein-mediated toxicity.",
+    "doi": "10.1124/MOL.65.3.655",
+    "year": 2004,
+    "target": "allyl alcohol",
+    "reasoning": "The abstract states that hydralazine strongly diminishes the toxicity of the acrolein precursor allyl alcohol and that its protective potencies correlate with interference in protein modification events caused by acrolein. This indicates hydralazine has safety advantages relative to allyl alcohol toxicity and functions as a cytoprotective agent. Therefore, hydralazine is presented as a safer alternative to allyl alcohol.",
+    "alternatives": "hydralazine",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the toxicity of acrolein and the protective effects of hydralazine against allyl alcohol toxicity, but it does not explicitly state any harms or hazards specifically associated with allyl alcohol itself."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

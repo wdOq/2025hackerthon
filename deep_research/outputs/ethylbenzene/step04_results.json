@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Assessment of Harmful Emissions from Multiple Binder Systems in Pilot-Scale Sand Casting",
+    "doi": "10.3390/molecules30132765",
+    "year": 2025,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract explicitly states that inorganic binders (sodium silicate and geopolymer) achieved over 90% reductions in BTEX compounds, including ethylbenzene, compared to organic systems. This indicates a clear safety advantage in terms of lower hazardous emissions, supporting these inorganic binders as safer alternatives to ethylbenzene-containing organic binders in foundry applications.",
+    "alternatives": "sodium silicate; geopolymer",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with ethylbenzene. It only mentions that emissions of ethylbenzene (as part of BTEX compounds) were significantly reduced by using inorganic binders, implying a concern about emissions but not explicitly describing specific harms or hazards of ethylbenzene."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Impact of Aromatic Hydrocarbons on Emissions in a Custom-Built High-Pressure Combustor",
+    "doi": "10.3390/en17163939",
+    "year": 2024,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract compares emissions from ethylbenzene and other aromatic hydrocarbons, noting that ethylbenzene produced the highest unburned hydrocarbons and carbon monoxide emissions, while Indane exhibited the lowest levels of these pollutants, suggesting more complete combustion. This implies that Indane may be a safer alternative to ethylbenzene in terms of emission-related safety.",
+    "alternatives": "Indane",
+    "target_chemical_harm": {
+      "harms": [
+        "high unburned hydrocarbons (UHC) emissions",
+        "high carbon monoxide (CO) emissions"
+      ],
+      "rationale": "The reasoning explicitly states that ethylbenzene produced the highest unburned hydrocarbons (UHC) and carbon monoxide (CO) emissions among the tested aromatic species, indicating these as explicit harms related to ethylbenzene combustion."
+    },
+    "CHEMICAL HARM": "high unburned hydrocarbons (UHC) emissions, high carbon monoxide (CO) emissions"
+  },
+  {
+    "title": "Influence of Biodiesel on Emissions of Criteria and Non-Criteria Primary and Secondary Pollutants",
+    "doi": "10.21577/0103-5053.20250160",
+    "year": 2025,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract discusses biodiesel as a suitable alternative fuel that reduces emissions of benzene, toluene, ethylbenzene, and xylenes (BTEX) compared to diesel. This indicates a safety advantage in terms of lower emissions of ethylbenzene when using biodiesel blends. Therefore, biodiesel can be reasonably interpreted as a safer alternative to ethylbenzene-containing diesel fuel.",
+    "alternatives": "biodiesel",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards specifically associated with ethylbenzene. It mentions changes in emissions including a reduction in ethylbenzene levels in exhaust gases, but does not describe any toxicity, persistence, bioaccumulation, or other hazards related to ethylbenzene."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Toxicity Threshold of Perfluorocarbon Liquids for Intraocular Use: Dose–Response Assessment of In Vitro Cytotoxicity of Possible Contaminants",
+    "doi": "10.1167/tvst.10.6.24",
+    "year": 2021,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract identifies ethylbenzene as one of the most cytotoxic impurities in perfluorooctane (PFO) used for vitreoretinal surgery. It also reports that two substances, 5H-PFO and perfluoro-2-butyltetrahydrofuran, were non-cytotoxic at the highest tested concentrations, implying they have lower cytotoxicity than ethylbenzene. This suggests these substances could be safer alternatives to ethylbenzene in this context.",
+    "alternatives": "5H-PFO; perfluoro-2-butyltetrahydrofuran",
+    "target_chemical_harm": {
+      "harms": [
+        "cytotoxicity"
+      ],
+      "rationale": "The reasoning explicitly states that ethylbenzene was one of the most cytotoxic impurities detected, reaching the cytotoxicity limit at 1.06 ppm in an in vitro cytotoxicity test. No other harms or hazards are explicitly mentioned."
+    },
+    "CHEMICAL HARM": "cytotoxicity"
+  },
+  {
+    "title": "Technical Evaluation of BTEX Emission Mitigation from Gas Dehydration Unit by Revamping and Using Alternative Glycols",
+    "doi": "10.3390/pr13113696",
+    "year": 2025,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract discusses using alternative glycols, specifically monoethylene glycol (MEG), as a strategy to reduce BTEX emissions including ethylbenzene during natural gas dehydration. It states that MEG is the best scenario in reducing BTEX emissions with efficient dew point control, implying a safety advantage by lowering harmful emissions compared to conventional methods involving ethylbenzene. Therefore, MEG is presented as a safer alternative to ethylbenzene in this context.",
+    "alternatives": "monoethylene glycol (MEG)",
+    "target_chemical_harm": {
+      "harms": [
+        "catastrophic physical health problems",
+        "catastrophic mental health problems"
+      ],
+      "rationale": "The reasoning text explicitly states that BTEX pollutants, including ethylbenzene, released to the atmosphere result in catastrophic physical and mental health problems."
+    },
+    "CHEMICAL HARM": "catastrophic physical health problems, catastrophic mental health problems"
+  },
+  {
+    "title": "dl‐Limonene as an Alternative Sustainable Solvent to Xylenes for the Industrial Preparation of Release Formulations",
+    "doi": "10.1002/open.202400259",
+    "year": 2024,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract identifies dl-limonene as an alternative to BTEX solvents, which include ethylbenzene, and mentions that the use of BTEX is discouraged due to their toxicological profile. It explicitly explores dl-limonene as a more sustainable solvent alternative, implying safety advantages over ethylbenzene. The dl-limonene/ethyl acetate mixture is presented as a suitable replacement solvent for industrial use.",
+    "alternatives": "dl-limonene; ethyl acetate",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicological profile"
+      ],
+      "rationale": "The reasoning text explicitly states that the use of aromatic hydrocarbons including ethylbenzene is discouraged due to their toxicological profile, indicating toxicity as a harm. No other specific harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "toxicological profile"
+  },
+  {
+    "title": "Exhaust emissions of gaseous and particle size-segregated water-soluble organic compounds from diesel-biodiesel blends",
+    "doi": "10.1007/s11356-023-26819-3",
+    "year": 2023,
+    "target": "ethylbenzene",
+    "reasoning": "The abstract compares emissions from biodiesel blends to conventional diesel and explicitly states that adding biodiesel reduces emissions of ethylbenzene and other pollutants. This indicates that biodiesel blends are a safer alternative to conventional diesel fuels containing ethylbenzene due to lower emissions of harmful compounds.",
+    "alternatives": "biodiesel blends",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses emissions of ethylbenzene from diesel vehicles and how biodiesel blends affect these emissions, but it does not explicitly state any harms or hazards related to ethylbenzene itself."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

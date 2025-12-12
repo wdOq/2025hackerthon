@@ -1,0 +1,4 @@
+# Ignore Graphrag too big
+ragtest/
+.venv/
+deep_research/.env

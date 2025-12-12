@@ -1,0 +1,929 @@
+[
+  {
+    "title": "Borax-Based Gel Electrophoresis: A Novel Approach for RNA Integrity Analysis",
+    "doi": "10.1101/2025.02.11.637722",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the borax-based gel electrophoresis method offers enhanced safety compared to traditional formaldehyde-based methods, presenting borax as a safer alternative for RNA integrity analysis.",
+    "alternatives": "borax",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only compares formaldehyde-based methods to borax-based methods in RNA analysis, mentioning advantages of the latter without detailing any specific toxicity or hazards of formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Towards the Removal of HMTA Molecules in the Chemical Bath Deposition of ZnO Nanowires",
+    "doi": "10.3390/nano15201574",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract discusses replacing hexamethylenetetramine (HMTA), which forms formaldehyde, with ammonia in the chemical bath deposition of ZnO nanowires. It states that ammonia fully substitutes HMTA in the high-pH region, enabling synthesis compatible with green chemistry, implying a safer alternative to formaldehyde-forming HMTA.",
+    "alternatives": "ammonia",
+    "target_chemical_harm": {
+      "harms": [
+        "formaldehyde as a harmful substance raising health, environment, and regulation issues"
+      ],
+      "rationale": "The text explicitly states that the use of HMTA molecules forming formaldehyde is considered a harmful substance that raises health, environment, and regulation issues."
+    },
+    "CHEMICAL HARM": "formaldehyde as a harmful substance raising health, environment, and regulation issues"
+  },
+  {
+    "title": "What do we need to know about hair straightening?",
+    "doi": "10.18203/issn.2455-4529.intjresdermatol20213356",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract mentions the evolution from formaldehyde-based permanent relaxers to formaldehyde-free hair strengthening procedures like hair Botox, which reduces chemical damage and maintains natural hair waves. This indicates that hair Botox is presented as a safer alternative to formaldehyde-based methods.",
+    "alternatives": "hair Botox",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Kualitas Fisis Kulit Ikan Lencam (Lethrinus lentjan) dengan Penyamakan Menggunakan Glutaraldehyde",
+    "doi": "10.36706/fishtech.v12i1.17087",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that glutaraldehyde is considered a safer and more environmentally friendly alternative to formaldehyde as a tanning agent. It directly compares glutaraldehyde to formaldehyde and highlights its safety advantage.",
+    "alternatives": "glutaraldehyde",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions that formaldehyde is currently used as a tanning agent but is considered unsafe, and glutaraldehyde is considered safer and more environmentally friendly. However, no explicit harms or hazards related to formaldehyde are directly stated in the text."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Glyoxal as an alternative fixative to formaldehyde in immunostaining and super‐resolution microscopy",
+    "doi": "10.15252/embj.201695709",
+    "year": 2017,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that glyoxal is less toxic than paraformaldehyde (PFA, a polymer of formaldehyde) and can successfully replace it as a fixative. It highlights glyoxal's lower toxicity and improved performance, indicating safety advantages over formaldehyde-based fixatives.",
+    "alternatives": "glyoxal",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with formaldehyde. It only mentions that paraformaldehyde (PFA) has been associated with problems such as loss of antigenicity and changes in morphology during fixation, but does not explicitly list toxicity types, endocrine disruption, persistence, bioaccumulation, or occupational hazards for formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "No-Aldehydes Glucose/Sucrose-Triacetin-Diamine Wood Adhesives for\nParticleboard",
+    "doi": "10.32604/jrm.2020.010882",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract presents a wood adhesive system that contains no aldehyde and results in extremely low formaldehyde emission, indicating a safety advantage over formaldehyde-based adhesives. This glucose/sucrose-triacetin-diamine adhesive is explicitly described as an alternative to formaldehyde-containing adhesives with improved safety in terms of emissions.",
+    "alternatives": "glucose/sucrose-triacetin-diamine adhesive",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that the adhesive system developed has extremely low formaldehyde emission, implying a reduction in potential harm but not explicitly describing any specific hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Energy-efficient and formaldehyde-free biomass-based boards derived from Pleurotus Ostreatus substrate waste: A novel sustainable utilization strategy",
+    "doi": "10.1016/j.biteb.2025.102458",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states the preparation of formaldehyde-free biomass-based boards as an alternative to conventional formaldehyde-containing boards, highlighting the use of citric acid and epoxidized soybean oil for pretreatment. It emphasizes the environmental and energy-saving benefits of this formaldehyde-free approach, indicating a safer alternative to formaldehyde.",
+    "alternatives": "citric acid; epoxidized soybean oil",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It focuses on the preparation of formaldehyde-free biomass-based boards and their environmental and energy-saving benefits without mentioning toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Glucose-lignin-based phenolic resin: an environmentally friendly low-formaldehyde wood adhesive",
+    "doi": "10.1108/prt-12-2022-0150",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the glucose-lignin-based phenolic resin (GLPF) is low-formaldehyde and environmentally friendly, with lower free formaldehyde and formaldehyde emission compared to conventional phenolic resin. It highlights safety benefits such as being beneficial to human health and having lower free phenol content, indicating a safer alternative to formaldehyde-based adhesives.",
+    "alternatives": "glucose-lignin-based phenolic resin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that the prepared GLPF has lower free formaldehyde and formaldehyde emission, which is beneficial to human health."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Fire Resistant Adhesive from Chitosan",
+    "doi": "10.1021/acs.biomac.4c01467",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that a chitosan-acid mixture is used as a replacement for formaldehyde-containing resins in engineered wood and describes it as a nontoxic adhesive, implying a safety advantage over formaldehyde. It highlights the low toxicity and fire protection benefits of the chitosan-based adhesive, supporting it as a safer alternative to formaldehyde-containing adhesives.",
+    "alternatives": "chitosan",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions formaldehyde-containing resins as a reference point for replacement by chitosan-based adhesives, without describing any toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Performance evaluation of guar gum and conventional binders based fire‐extinguishing aerosol‐forming composites",
+    "doi": "10.1002/fam.3144",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares guar gum, a natural binder, against phenol–formaldehyde resin and other conventional binders in pyrotechnic firefighting mixtures. It states that guar gum is a preferred binder based on safety and performance characteristics, implying it has safety advantages over phenol–formaldehyde resin. This indicates guar gum as a safer alternative to formaldehyde-based binders.",
+    "alternatives": "guar gum",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions phenol–formaldehyde resin as one of the conventional binders compared in the study, without detailing any toxicity, environmental, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Workable Cadaveric Preservation for Developing Skills Training Models: A Review",
+    "doi": "10.20944/preprints202006.0097.v1",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly mentions the health hazards related to formaldehyde and lists several alternative preservative methods and solutions such as Thiel’s solution, phenoxyethanol preservation, and others as alternatives to formaldehyde. The aim stated is to reduce formaldehyde usage, implying these alternatives are considered safer.",
+    "alternatives": "Thiel’s solution; phenoxyethanol",
+    "target_chemical_harm": {
+      "harms": [
+        "health hazards related to formaldehyde preservation of cadavers"
+      ],
+      "rationale": "The text explicitly mentions health hazards related to formaldehyde preservation of cadavers, indicating that formaldehyde poses health risks in this context."
+    },
+    "CHEMICAL HARM": "health hazards related to formaldehyde preservation of cadavers"
+  },
+  {
+    "title": "Acidic deep eutectic solvent as a novel catalyst for urea–formaldehyde resin curing",
+    "doi": "10.1080/17480272.2024.2336224",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract presents acidic deep eutectic solvent (DES) as a novel catalyst for urea–formaldehyde resin curing that results in lower formaldehyde emission compared to conventional catalysts. It explicitly states that DES is non-toxic and recyclable, suggesting safety advantages over traditional acid catalysts used in UF resins. Therefore, DES is indicated as a safer alternative in the context of formaldehyde resin curing.",
+    "alternatives": "acidic deep eutectic solvent (DES)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that the acidic deep eutectic solvent catalyst used with urea-formaldehyde resins is non-toxic and reduces formaldehyde emission compared to controls."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Formaldehyde-Free Resins for the Wood-Based Panel Industry: Alternatives to Formaldehyde and Novel Hardeners",
+    "doi": "10.3390/molecules27154862",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly discusses substitutes for formaldehyde in resin production that eliminate free formaldehyde emissions, addressing the carcinogenic concerns of formaldehyde. It names specific alternatives such as glyoxal, glutaraldehyde, furfural, 5-hydroxymethylfurfural, and dimethoxyethanal, indicating these as formaldehyde-free systems. This clearly presents these substances as safer alternatives to formaldehyde.",
+    "alternatives": "glyoxal; glutaraldehyde; furfural; 5-hydroxymethylfurfural; dimethoxyethanal",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenic properties"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde has carcinogenic properties, which is a harm associated with the chemical. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "carcinogenic properties"
+  },
+  {
+    "title": "Thermal Condensation of Dehydrogenation Polymer (DHP) with Xylose",
+    "doi": "10.3390/polym16223139",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract identifies DHP as a potential substitute for lignin as a formaldehyde-free adhesive, highlighting that conventional adhesives contain formaldehyde which harms health. It explicitly states DHP has excellent water resistance and is formaldehyde-free, implying a safety advantage over formaldehyde-containing adhesives. Therefore, DHP is presented as a safer alternative to formaldehyde-based adhesives.",
+    "alternatives": "dehydrogenation polymer (DHP)",
+    "target_chemical_harm": {
+      "harms": [
+        "formaldehyde release",
+        "potentially lower indoor air quality",
+        "damage human health"
+      ],
+      "rationale": "The text explicitly states that conventional adhesives containing formaldehyde can potentially lower indoor air quality and damage human health, and that lignin modified as an adhesive suffers from formaldehyde release."
+    },
+    "CHEMICAL HARM": "formaldehyde release, potentially lower indoor air quality, damage human health"
+  },
+  {
+    "title": "Influence of the treatment of hatching eggs with Pectin drug on the embryonic and postembryonic development of young poultry",
+    "doi": "10.33920/sel-03-2202-05",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that formaldehyde is harmful to human health and the environment and describes Pectin as an environmentally friendly drug without harmful effects on egg incubation qualities. Pectin was tested as a disinfectant alternative to formaldehyde and showed positive effects on hatchability, livability, and live weight, implying it is a safer alternative to formaldehyde.",
+    "alternatives": "Pectin",
+    "target_chemical_harm": {
+      "harms": [
+        "harmful to human health",
+        "harmful to the environment"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde is harmful to both human health and the environment."
+    },
+    "CHEMICAL HARM": "harmful to human health, harmful to the environment"
+  },
+  {
+    "title": "Formaldehyde Use and Alternative Biobased Binders for Particleboard Formulation: A Review",
+    "doi": "10.1155/2019/5256897",
+    "year": 2019,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that biobased binders, such as starch, provide an alternative for eliminating the use of formaldehyde-based resin, which is carcinogenic. This implies a safer alternative since it aims to eliminate formaldehyde use and its associated health hazards. However, it also notes challenges with physical and mechanical properties of these alternatives.",
+    "alternatives": "starch",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenicity"
+      ],
+      "rationale": "The reasoning explicitly states that epidemiologic studies have shown formaldehyde is carcinogenic. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "carcinogenicity"
+  },
+  {
+    "title": "Dyeing of soybean protein/flax blended yarns with reactive dyes and subsequent dye-fixation",
+    "doi": "10.1038/s41598-022-05581-5",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly mentions the use of an ecofriendly formaldehyde-free fixing agent (DM-2158) as part of the dye-fixation process, indicating it as an alternative to formaldehyde. The term 'formaldehyde-free' and 'ecofriendly' imply a safety advantage over formaldehyde, thus presenting a safer alternative.",
+    "alternatives": "DM-2158",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the dyeing process and the use of a formaldehyde-free fixing agent, but does not explicitly state any harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Recycling of Waste Bamboo Biomass and Papermaking Waste Liquid to Synthesize Sodium Lignosulfonate/Chitosan Glue-Free Biocomposite",
+    "doi": "10.3390/molecules28166058",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the sodium lignosulfonate/chitosan (L/C) bamboo biocomposite has low formaldehyde emissions and is a glue-free panel material, implying a safer alternative to traditional formaldehyde-based adhesives. It highlights reduced environmental pollution and suitability for wood-based panels, indicating a safety advantage over formaldehyde-containing products.",
+    "alternatives": "sodium lignosulfonate; chitosan",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions 'low formaldehyde emissions' but does not explicitly state any harms or hazards related to formaldehyde such as toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Preparation and Performance of Porous Carbon Nanocomposite from Renewable Phenolic Resin and Halloysite Nanotube",
+    "doi": "10.3390/nano10091703",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract states that a formaldehyde-free phenolic resin using monosaccharide-based furfural was synthesized as the carbon precursor, explicitly indicating a replacement of formaldehyde. The use of a formaldehyde-free resin implies a safer alternative, as it avoids formaldehyde altogether. No other safety claims are made, but the clear mention of a formaldehyde-free resin supports the conclusion.",
+    "alternatives": "furfural",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions the synthesis of a formaldehyde-free phenolic resin and focuses on the properties and performance of the resulting nanocomposite materials."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "A Potential Replacement to Phenol–Formaldehyde-Based Adhesives: A Study of Plywood Panels Manufactured with Bio-Based Wood Protein and Nanolignin Adhesives",
+    "doi": "10.3390/f15081345",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that plywood samples made with bio-based wood adhesives (BBWAs) showed an 88% decrease in formaldehyde emissions compared to phenol–formaldehyde (PF) adhesives, indicating a clear safety advantage. It concludes that BBWAs might be a considerable replacement for PF adhesives, implying a safer alternative due to lower formaldehyde emissions.",
+    "alternatives": "bio-based wood adhesives (BBWAs)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions formaldehyde emissions in the context of comparing plywood adhesives but does not explicitly state any harms or hazards related to formaldehyde such as toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Investigating Wrinkle Resistance of Cotton and Cotton Blended Fabrics in Relation to a Non-Formaldehyde Durable Press Finish",
+    "doi": "10.33552/jtsft.2023.10.000734",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the durable press finish used is formaldehyde-free and describes it as a prime alternative to wrinkle resistance finishes containing formaldehyde, indicating a safety advantage by avoiding harmful chemicals such as formaldehyde.",
+    "alternatives": "formaldehyde-free durable press finish",
+    "target_chemical_harm": {
+      "harms": [
+        "contains harmful chemicals such as formaldehyde"
+      ],
+      "rationale": "The reasoning text explicitly states that most wrinkle resistance finishes contain harmful chemicals such as formaldehyde, indicating that formaldehyde is considered harmful."
+    },
+    "CHEMICAL HARM": "contains harmful chemicals such as formaldehyde"
+  },
+  {
+    "title": "Moisture influence on solid wood bonded with modified starch",
+    "doi": "10.5604/01.3001.0016.0501",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly mentions that amine resins, which are common binders, are being partially or fully replaced by more natural, non-formaldehyde binders made from renewable plant-based materials. It highlights modified starch as a very good organic glue that can potentially replace some chemical products, implying a safer alternative to formaldehyde-based binders.",
+    "alternatives": "modified starch; amine resins",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that non-formaldehyde binders made of renewable raw materials are being researched as substitutes, without specifying any toxicity, persistence, or other hazards of formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Eco-Friendly Adhesives Based on the Oligomeric Condensed Tannins-Rich Extract from Alder Bark for Particleboard and Plywood Production",
+    "doi": "10.3390/ma15113894",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly compares formaldehyde emissions between the conventional phenol-formaldehyde resin and the CTs-phenol-formaldehyde (CTs-PF) resin, stating that the latter has formaldehyde emissions twice lower. It also presents CTs-polyethyleneimine (PEI) adhesive systems and CTs–PEI combined with ultra-low emitting formaldehyde resin (ULEFR) as alternatives with adhesive properties close to formaldehyde-based resins, implying improved safety due to lower emissions. Therefore, condensed tannins-rich extracts from alder bark combined with PEI or ULEFR are presented as safer alternatives to formaldehyde-based adhesives.",
+    "alternatives": "condensed tannins-rich extracts from alder bark combined with polyethyleneimine (PEI); condensed tannins-rich extracts from alder bark combined with ultra-low emitting formaldehyde resin (ULEFR)",
+    "target_chemical_harm": {
+      "harms": [
+        "toxic formaldehyde emissions"
+      ],
+      "rationale": "The reasoning explicitly states 'toxic formaldehyde emissions' as a harm associated with formaldehyde."
+    },
+    "CHEMICAL HARM": "toxic formaldehyde emissions"
+  },
+  {
+    "title": "IMPROVEMENT OF TECHNOLOGICAL STAGES IN BEEKEEPING WITH DISINFECTION MEASURES",
+    "doi": "10.32900/2312-8402-2024-131-128-138",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares several disinfectants to a 4% formaldehyde solution (Desvax) and highlights that 1.5% solutions of polyhexamethyleneguanidine hydrochloride (PHMG-HC), sodium hypochlorite, and Crystal-700 have the best disinfecting properties and are described as environmentally safe, non-toxic, non-volatile, and non-aggressive. This indicates these substances have safety advantages over formaldehyde and can be recommended as alternatives for disinfection in beekeeping.",
+    "alternatives": "polyhexamethyleneguanidine hydrochloride (PHMG-HC); sodium hypochlorite; Crystal-700",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. Although formaldehyde solution (Desvax) is mentioned as a disinfectant, no specific toxicity types, endocrine disruption, persistence, bioaccumulation, or occupational hazards are described for formaldehyde in the provided text."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Preliminary Study on the Physical and Mechanical Properties of Poplar Wood Modified by Waterborne Glucose Silicone Resin",
+    "doi": "10.20944/preprints202012.0251.v1",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the waterborne glucose silicone resin is a green, non-formaldehyde, eco-friendly wood modifier, indicating it is a safer alternative to formaldehyde-based modifiers. It highlights the resin's environmental friendliness and non-formaldehyde nature, which implies safety advantages over formaldehyde.",
+    "alternatives": "waterborne glucose silicone resin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. In fact, it mentions that the wood modifier is non-formaldehyde and eco-friendly, implying no formaldehyde-related hazards are present."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Renewable, Organic and Related Carbon Aerogel Monoliths from the Polycondensation of Tannin with 5-(Hydroxymethyl)furfural",
+    "doi": "10.1007/s10971-022-06015-4",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that 5-(hydroxymethyl)furfural (5-HMF), a biomass-derived natural crosslinker, replaces petroleum-derived formaldehyde and is described as a 'green alternative' to tannin-formaldehyde aerogels. It highlights the renewable and formaldehyde-free nature of the 5-HMF-based aerogels, implying safety advantages by avoiding formaldehyde. Therefore, 5-HMF is presented as a safer alternative to formaldehyde.",
+    "alternatives": "5-(hydroxymethyl)furfural (5-HMF)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It focuses on the replacement of formaldehyde with a biomass-derived alternative and compares their properties without mentioning toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Multifunctional Lignin-based Composite Ultra-Adhesive for Wood Processing",
+    "doi": "10.1039/d3gc03542e",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract mentions replacing phenol and formaldehyde with whole biomass-based lignin and furfural, implying a shift from fossil-based, non-biodegradable resins to biomass-based alternatives. This suggests a safer alternative to formaldehyde due to the renewable and biodegradable nature of lignin and furfural, which can be reasonably interpreted as safer in terms of environmental impact and sustainability.",
+    "alternatives": "lignin; furfural",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde; it only mentions that phenol and formaldehyde are fossil-based and that the resins are not biodegradable."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "A Comprehensive Review of the Chemical Composition and Toxicological Impact of Larsen Embalming Fluid in Medical Anatomy Laboratories: Implications for Neonatal Rat Surgery Preparation",
+    "doi": "10.52783/jns.v14.2016",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the revised Larsen embalming fluid diminishes formaldehyde emissions and reduces chemical hazards compared to formaldehyde-based solutions, highlighting safety advantages such as minimized toxic exposure and improved occupational health. This indicates that Larsen embalming fluid is presented as a safer alternative to formaldehyde.",
+    "alternatives": "Larsen embalming fluid",
+    "target_chemical_harm": {
+      "harms": [
+        "respiratory inflammation",
+        "tissue discoloration",
+        "potential carcinogenicity"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde-based solutions present considerable health risks including respiratory inflammation, tissue discoloration, and potential carcinogenicity."
+    },
+    "CHEMICAL HARM": "respiratory inflammation, tissue discoloration, potential carcinogenicity"
+  },
+  {
+    "title": "Evaluation and comparative analysis of minimal formalin containing compound fixatives",
+    "doi": "10.18231/2394-6792.2018.0091",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract evaluates minimal formalin containing compound fixatives (EFG fixatives) that reduce formaldehyde vapor exposure compared to conventional formalin. It highlights that EFG II evaporates less formaldehyde vapor and can reduce fixation time, implying lower exposure and toxicity. The conclusion suggests replacing formaldehyde with less toxic fixatives, indicating EFG fixatives as safer alternatives.",
+    "alternatives": "EFG fixatives",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenicity (group 1 human carcinogen)",
+        "causal association with leukemia",
+        "causal association with nasopharyngeal carcinoma",
+        "formalin toxicity"
+      ],
+      "rationale": "The text explicitly states that formaldehyde is a group 1 human carcinogen and that there is a causal association between formalin exposure and leukemia and nasopharyngeal carcinoma. It also mentions formalin toxicity."
+    },
+    "CHEMICAL HARM": "carcinogenicity (group 1 human carcinogen), causal association with leukemia, causal association with nasopharyngeal carcinoma, formalin toxicity"
+  },
+  {
+    "title": "Research Progress of Wood-Based Panels Made of Thermoplastics as Wood Adhesives",
+    "doi": "10.3390/polym14010098",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that using thermoplastic resins such as polyethylene (PE) and polypropylene (PP) as wood adhesives can effectively solve the formaldehyde emission issue present in conventional urea–formaldehyde resin-bonded wood-based panels. It also mentions that thermoplastics are environmentally friendly adhesives and help in effectively solving indoor pollution problems, indicating a safety advantage over formaldehyde-based adhesives.",
+    "alternatives": "polyethylene (PE); polypropylene (PP)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions formaldehyde emission issues in the wood-based panel industry and suggests that thermoplastic adhesives can effectively solve these emissions, implying a reduction in indoor pollution problems."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "ENGINEERING CHARACTERIZATION OF GUM ARABIC BONDED PARTICLE BOARD MADE FROM RICE HUSK AND SAWDUST",
+    "doi": "10.52417/ojes.v4i1.481",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the particle board developed using Gum Arabic resin is an alternative to conventional particle board made with urea melamine or amino-formaldehyde, which is known to be carcinogenic. This implies a safety advantage of the Gum Arabic bonded board over formaldehyde-based binders, presenting it as a safer alternative.",
+    "alternatives": "Gum Arabic resin",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenicity"
+      ],
+      "rationale": "The text explicitly states that urea melamine or amino-formaldehyde, which are conventional particle board binders, are known to be carcinogenic. Formaldehyde is implied as part of amino-formaldehyde, indicating its carcinogenic hazard. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "carcinogenicity"
+  },
+  {
+    "title": "The Efficacy of Nano-Emulsified Disinfectant in Disinfecting the Workplace Environment",
+    "doi": "10.1166/NNL.2020.3216",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that nano-emulsified cresol disinfectant is an ideal method to replace formaldehyde and chlorine dioxide in the disinfection of biosafety cabinets, implying it is a safer alternative. This direct comparison and recommendation indicate a safety or efficacy advantage over formaldehyde.",
+    "alternatives": "cresol",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that nano-emulsified cresol disinfectant can replace formaldehyde and chlorine dioxide for disinfection, without specifying any toxicity, persistence, bioaccumulation, or occupational hazards associated with formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Sosialisasi dan Peningkatan Keterampilan dalam Pemanfaatan Bahan Pengawet Alami pada Produk Nugget di Desa Ngringo, Kecamatan Jaten, Kabupaten Karanganyar",
+    "doi": "10.20961/agrihealth.v1i1.40935",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract discusses the dangers of synthetic preservatives such as formaldehyde and borax and promotes the use of natural preservatives as a replacement. It explicitly states that the activity increased knowledge about using natural preservatives to replace synthetic preservatives, implying a safer alternative to formaldehyde.",
+    "alternatives": "natural preservatives",
+    "target_chemical_harm": {
+      "harms": [
+        "danger of using synthetic preservatives such as formaldehyde"
+      ],
+      "rationale": "The reasoning text explicitly mentions the 'danger of using synthetic preservatives' including formaldehyde, indicating that formaldehyde is considered harmful. However, no specific types of harm or hazards are detailed beyond this general statement."
+    },
+    "CHEMICAL HARM": "danger of using synthetic preservatives such as formaldehyde"
+  },
+  {
+    "title": "Synthesis of Formaldehyde Free Amino Resin to Produce Green Eco-Labelled Leather with Improved Retanning Properties",
+    "doi": "10.34314/jalca.v115i4.3799",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract clearly presents a formaldehyde-free melamine-based resin synthesized by condensing melamine with glyoxal as a safer alternative to formaldehyde-based resins. It explicitly states the absence of free formaldehyde in leather and effluent treated with the new resin, highlighting safety for humans and reduced pollution compared to conventional formaldehyde-containing resins.",
+    "alternatives": "melamine-based resin synthesized with glyoxal",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenic effects"
+      ],
+      "rationale": "The reasoning explicitly states that free formaldehyde released from amino resins used in leather processing has high environmental concerns due to its proven carcinogenic effects."
+    },
+    "CHEMICAL HARM": "carcinogenic effects"
+  },
+  {
+    "title": "Bio-based adhesive derived from citric acid and sorbitol for wood-composite manufacture",
+    "doi": "10.1080/17480272.2022.2090278",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states the need to eliminate formaldehyde-based adhesives for health reasons and demonstrates the use of a bio-based adhesive derived from citric acid and sorbitol as a formaldehyde-free alternative. This indicates a safer alternative to formaldehyde-based adhesives.",
+    "alternatives": "bio-based adhesive derived from citric acid and sorbitol",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text only mentions the need to eliminate formaldehyde-based adhesives for the sake of indoor air quality and human health but does not explicitly state specific harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Reinforcement of Bonding Strength and Water Resistance of Soybean Meal-Based Adhesive via Construction of an Interactive Network from Biomass Residues",
+    "doi": "10.3390/polym11060967",
+    "year": 2019,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that soybean meal-based adhesives are attractive potential environmentally friendly replacements for formaldehyde-based adhesives, indicating a safer alternative. It highlights the development of a natural fiber-reinforced soybean meal-based adhesive with improved properties, positioning it as a substitute for formaldehyde-based adhesives.",
+    "alternatives": "soybean meal-based adhesives",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only discusses the development of soybean meal-based adhesives as environmentally friendly replacements for formaldehyde-based adhesives, focusing on their performance characteristics."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Pectin-based drug for the treatment of quails’ hatching eggs",
+    "doi": "10.33920/sel-03-2108-06",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares a pectin-based drug to formaldehyde for disinfecting quail hatching eggs and states that the pectin-based drug is harmless and environmentally friendly, implying safety advantages. It explicitly presents the pectin-based drug as an alternative to formaldehyde with positive effects on microbial contamination and embryonic development, indicating it is a safer alternative.",
+    "alternatives": "pectin-based drug",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only compares formaldehyde treatment with a plant-based alternative and highlights the benefits of the alternative without mentioning specific toxicities or hazards of formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Comparative Enactment of Formaldehyde-free and Formaldehyde-based Cross-linkers on Cotton Woven Fabrics",
+    "doi": "10.14502/TEKSTILEC2017.60.107-115",
+    "year": 2017,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares formaldehyde-based (Fixapret CL) and formaldehyde-free (Fixapret NF) cross-linkers, noting that the formaldehyde-free resin showed marginally lower performance in some fabric properties but had lower strength loss and less yellowing tendency. It concludes that formaldehyde-free resins may be a good replacement considering overall effectiveness, implying a safer alternative due to reduced yellowing and strength loss, which can be interpreted as safety advantages.",
+    "alternatives": "formaldehyde-free cross-linkers",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the performance of formaldehyde-based and formaldehyde-free cross-linkers on fabric properties but does not explicitly state any harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "USING OZONE TO STIMULATE QUAIL EMBRYONIC DEVELOPMENT DURING INCUBATION",
+    "doi": "10.35679/1991-9476-2020-15-4-594-602",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares ozone treatment to formaldehyde vapor for pre-incubation egg processing, highlighting that formaldehyde has toxic effects on staff and embryos, whereas ozone treatment does not cause side effects and positively affects embryo development. This indicates ozone as a safer alternative to formaldehyde.",
+    "alternatives": "ozone",
+    "target_chemical_harm": {
+      "harms": [
+        "toxic effect on staff",
+        "toxic effect on development of embryos during incubation"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde vapors used in preincubation processing of eggs have a toxic effect both on staff and on the development of embryos during incubation."
+    },
+    "CHEMICAL HARM": "toxic effect on staff, toxic effect on development of embryos during incubation"
+  },
+  {
+    "title": "Comparison of electroless plating interconnection of different reducing agent systems",
+    "doi": "10.1109/ICEPT59018.2023.10492314",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that formaldehyde, the traditional reducing agent, poses risks to the environment and human health, and the study aims to identify a harmless and environmentally friendly alternative. It compares sodium hypophosphite and glyoxylic acid as reducing agents, highlighting glyoxylic acid's better performance and implying it is a safer alternative to formaldehyde.",
+    "alternatives": "glyoxylic acid",
+    "target_chemical_harm": {
+      "harms": [
+        "risks to natural environment",
+        "risks to human health"
+      ],
+      "rationale": "The reasoning text explicitly states that formaldehyde, used as a reducing agent in chemical deposition, poses risks to both the natural environment and human health."
+    },
+    "CHEMICAL HARM": "risks to natural environment, risks to human health"
+  },
+  {
+    "title": "LOCAL-IRRITATING PROPERTIES OF «PENOX-1» PRODUCTS",
+    "doi": "10.36871/vet.san.hyg.ecol.202402019",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract states that formaldehyde is toxic and not safe for the environment, and introduces Penox-1 as a product that in recommended concentrations does not have a damaging effect on skin and mucous membranes in laboratory animals. This implies Penox-1 is a low-toxic and environmentally friendly alternative to formaldehyde for disinfection in veterinary practice.",
+    "alternatives": "Penox-1",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity to animals and service personnel",
+        "not safe for the environment",
+        "local irritant effect on skin and mucous membranes",
+        "hyperemia of conjunctival and corneal vessels",
+        "mild edema of eyelids"
+      ],
+      "rationale": "The text explicitly states that formaldehyde is characterized by toxicity to animals and service personnel and is not safe for the environment. It also mentions local irritant effects on skin and mucous membranes, including hyperemia and mild edema in the eyes."
+    },
+    "CHEMICAL HARM": "toxicity to animals and service personnel, not safe for the environment, local irritant effect on skin and mucous membranes, hyperemia of conjunctival and corneal vessels, mild edema of eyelids"
+  },
+  {
+    "title": "Preclinical evaluation of bacterially produced RSV-G protein vaccine: Strong protection against RSV challenge in cotton rat model",
+    "doi": "10.1038/srep42428",
+    "year": 2017,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares the recombinant unglycosylated RSV G protein vaccine to formaldehyde inactivated RSV (FI-RSV) and notes that enhanced lung pathology was observed only in animals vaccinated with FI-RSV, but not with the G protein vaccine. This suggests a safety advantage of the G protein vaccine over the formaldehyde-inactivated vaccine, indicating it as a safer alternative.",
+    "alternatives": "recombinant unglycosylated RSV G protein vaccine",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions formaldehyde inactivated RSV (FI-RSV) in the context of a vaccine comparison, noting enhanced lung pathology in animals vaccinated with FI-RSV, but does not attribute this harm directly to formaldehyde itself."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "DEVELOPMENT OF A TECHNIQUE AND COMPARISON OF TRADITIONAL PRESERVATION METHOD USING SAINDHAVA LAVANA AND SAMUDRA LAVANA WITH EXISTING FORMALDEHYDE ORGAN PRESERVATION TECHNIQUE",
+    "doi": "10.7897/2277-4343.156191",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly compares salt-based preservation methods (Saindhava Lavana and Samudra Lavana) to formaldehyde and highlights that salt poses no health risks, unlike formaldehyde which causes various side effects. This indicates a clear safety advantage of the salt methods as alternatives to formaldehyde for organ preservation.",
+    "alternatives": "Saindhava Lavana; Samudra Lavana",
+    "target_chemical_harm": {
+      "harms": [
+        "causes various side effects"
+      ],
+      "rationale": "The reasoning text explicitly states that formaldehyde causes various side effects, indicating harm. No specific types of toxicity or other hazards are detailed."
+    },
+    "CHEMICAL HARM": "causes various side effects"
+  },
+  {
+    "title": "Development of Mineral-Bonded Plywood with Magnesium Oxychloride as a Binder Using the Hot-Pressing Process",
+    "doi": "10.3390/polym15040805",
+    "year": 2023,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that magnesium oxychloride cement (MOC) was used as a no-added formaldehyde adhesive for plywood production, indicating it as an alternative to formaldehyde-based adhesives. It describes MOC as environmentally friendly and does not mention any formaldehyde, implying a safety advantage by avoiding formaldehyde emissions. Therefore, MOC is presented as a safer alternative to formaldehyde adhesives.",
+    "alternatives": "magnesium oxychloride cement (MOC)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that the plywood panels were produced using a no-added formaldehyde adhesive and focuses on the properties and performance of magnesium oxychloride cement binders."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Preparation and application of a novel biomass-based amphoteric retanning agent with the function of reducing free formaldehyde in leather",
+    "doi": "10.1016/j.jclepro.2020.121796",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract presents a novel biomass-based amphoteric retanning agent derived from hydrolyzed collagen and oxidized valonia extract that significantly reduces free formaldehyde in leather, achieving a 70.2% removal rate. It explicitly describes the agent as non-toxic and biodegradable, highlighting its function in reducing free formaldehyde, which implies a safety advantage over formaldehyde-containing agents. Therefore, this agent can be reasonably interpreted as a safer alternative to formaldehyde in leather retanning.",
+    "alternatives": "biomass-based amphoteric retanning agent derived from hydrolyzed collagen and oxidized valonia extract",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions the reduction of free formaldehyde in the context of developing a non-toxic retanning agent."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Health adverse effects of formaldehyde exposure to students and staff in gross anatomy",
+    "doi": "10.18535/IJSRM/V6I2.MP02",
+    "year": 2018,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly mentions that finding alternative preservation methods, such as freezing, would be safer than using formaldehyde, indicating a safer alternative.",
+    "alternatives": "freezing",
+    "target_chemical_harm": {
+      "harms": [
+        "nasal itching",
+        "eyes burning",
+        "excessive lacrimation",
+        "eyes redness",
+        "headache",
+        "respiratory distress",
+        "nasal congestion",
+        "cough",
+        "mouth dryness",
+        "temporary loss of ability to recognize the smell of formaldehyde"
+      ],
+      "rationale": "The reasoning text explicitly states multiple clinical symptoms and harmful effects observed in students and staff due to continuous and repeated exposure to formaldehyde, including respiratory and eye irritation, headaches, and sensory impairment."
+    },
+    "CHEMICAL HARM": "nasal itching, eyes burning, excessive lacrimation, eyes redness, headache, respiratory distress, nasal congestion, cough, mouth dryness, temporary loss of ability to recognize the smell of formaldehyde"
+  },
+  {
+    "title": "Synthesis of Bio-Based Non-Fluorinated Oil and Water Repellent Finishes for Cotton Fabric by Using Palmitic Acid, Succinic Acid, and Maleic Acid",
+    "doi": "10.1080/15440478.2022.2116141",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the developed oil and water repellents are formaldehyde-free and bio-based, using palmitic acid combined with formaldehyde-free succinic acid or maleic acid. It also mentions that traditional repellents contain formaldehyde-based substances with negative health and environmental impacts, implying that these new polymers are safer alternatives to formaldehyde-based repellents.",
+    "alternatives": "succinic acid; maleic acid",
+    "target_chemical_harm": {
+      "harms": [
+        "long-term negative impact on human health",
+        "long-term negative impact on natural environment"
+      ],
+      "rationale": "The reasoning text explicitly states that formaldehyde-based substances have a long-term negative impact on human health and the natural environment."
+    },
+    "CHEMICAL HARM": "long-term negative impact on human health, long-term negative impact on natural environment"
+  },
+  {
+    "title": "Recent Development in Synthesis of N‐Methylamines with Amines and Methanol",
+    "doi": "10.1002/cctc.202400291",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly compares methanol to formaldehyde, stating that methanol is more suitable for N-methylation reactions due to its eco-friendliness and low price, and describes formaldehyde as toxic. This indicates methanol as a safer alternative to formaldehyde for N-methylation.",
+    "alternatives": "methanol",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity"
+      ],
+      "rationale": "The text explicitly states that formaldehyde is toxic."
+    },
+    "CHEMICAL HARM": "toxicity"
+  },
+  {
+    "title": "Copper-Catalyzed Tandem Multi-Component Approach to 1,3-Oxazines at Room Temperature by Cross-Dehydrogenative Coupling Using Methanol as C1 Feedstock",
+    "doi": "10.1055/s-0036-1591775",
+    "year": 2018,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the reaction avoids the use of carcinogenic formaldehyde by using methanol as the carbon source and an environmentally benign copper(II) catalyst and oxidant. This indicates a safer alternative to formaldehyde is presented.",
+    "alternatives": "methanol",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenicity"
+      ],
+      "rationale": "The text explicitly states that the reaction avoids the use of carcinogenic formaldehyde, indicating that formaldehyde is carcinogenic."
+    },
+    "CHEMICAL HARM": "carcinogenicity"
+  },
+  {
+    "title": "Formaldehyde-free self-polymerization of lignin-derived monomers for synthesis of renewable phenolic resin.",
+    "doi": "10.1016/j.ijbiomac.2020.11.012",
+    "year": 2020,
+    "target": "formaldehyde",
+    "reasoning": "The abstract clearly states that the new phenolic resins are synthesized using lignin-derived monomers without using formaldehyde, aiming to replace toxic formaldehyde. It emphasizes a green and sustainable approach, implying safety advantages by avoiding formaldehyde's adverse effects on environment and human health. Thus, lignin-derived monomers serve as a safer alternative to formaldehyde.",
+    "alternatives": "lignin-derived monomers",
+    "target_chemical_harm": {
+      "harms": [
+        "adverse effects on the environment",
+        "adverse effects on human health",
+        "toxicity"
+      ],
+      "rationale": "The reasoning text explicitly states that formaldehyde has adverse effects on the environment and human health and is described as toxic."
+    },
+    "CHEMICAL HARM": "adverse effects on the environment, adverse effects on human health, toxicity"
+  },
+  {
+    "title": "Development of a bio‐xerogel from Kraft black liquor and tannin: Crosslinker analysis and property assessment",
+    "doi": "10.1002/cjce.25619",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the biobased polymer is crosslinked with less toxic aldehydes such as furfural and glyoxal as alternatives to formaldehyde, indicating a safety advantage. It also highlights that furfural-based formulations have superior mechanical strength and stability compared to formaldehyde ones, supporting the feasibility of these safer alternatives.",
+    "alternatives": "furfural; glyoxal",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions formaldehyde only in comparison to less toxic aldehydes, implying formaldehyde is more toxic, but does not explicitly state any specific harms or hazards associated with formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Tuning the Adhesive Properties of Soy Protein Wood Adhesives with Different Coadjutant Polymers, Nanocellulose and Lignin",
+    "doi": "10.3390/polym13121972",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that soy protein-based wood adhesives are proposed as formaldehyde-free alternatives to commercial urea formaldehyde adhesives, motivated by environmental and health concerns about formaldehyde emissions. This indicates that soy protein-based adhesives are presented as safer alternatives to formaldehyde-containing adhesives.",
+    "alternatives": "soy protein-based adhesives",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions environmental and health concerns about formaldehyde emissions from wood products but does not explicitly state any specific harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Urea-Formaldehyde Resin Systems Modified with Partially Pyrolyzed and Delignified Lignin: A Review",
+    "doi": "10.61150/ijonfest.2025030206",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract discusses the use of bio-based lignin polymer as a replacement additive in urea-formaldehyde resins to reduce formaldehyde emissions, indicating a potential safety advantage. It explicitly states that partial pyrolysis of lignin can reduce formaldehyde emissions, which implies a safer alternative to formaldehyde-containing resins.",
+    "alternatives": "bio-based lignin polymer; partially pyrolyzed lignin",
+    "target_chemical_harm": {
+      "harms": [
+        "formaldehyde emissions endanger environmental and human health"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde emissions from urea-formaldehyde resins endanger environmental and human health conditions profoundly."
+    },
+    "CHEMICAL HARM": "formaldehyde emissions endanger environmental and human health"
+  },
+  {
+    "title": "Properties of High-Density Fiberboard Bonded with Urea–Formaldehyde Resin and Ammonium Lignosulfonate as a Bio-Based Additive",
+    "doi": "10.3390/polym13162775",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract presents ammonium lignosulfonate (ALS) as a bio-based, formaldehyde-free additive to urea–formaldehyde resin that reduces free formaldehyde emissions in high-density fiberboard panels. It highlights ALS's role as a formaldehyde scavenger and describes it as an eco-friendly additive, implying safety advantages over formaldehyde-containing adhesives. Thus, ALS is clearly indicated as a safer alternative to formaldehyde in this context.",
+    "alternatives": "ammonium lignosulfonate",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions low free formaldehyde emission levels and the use of additives to reduce formaldehyde emissions, without specifying any toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Hydrochar Derived from Sugarcane Bagasse (HSCB) as a Full Replacement for Wheat Flour Filler in Urea-Formaldehyde (UF) Adhesives for Plywood",
+    "doi": "10.1016/j.rineng.2025.106569",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract presents hydrochar derived from sugarcane bagasse (HSCB) as a full replacement for wheat flour filler in urea-formaldehyde adhesives, which leads to lower formaldehyde emissions (2.1 mg L–1 after 35 days) in the plywood product. This indicates a safety advantage related to formaldehyde exposure, suggesting HSCB as a safer alternative filler in the adhesive formulation compared to the conventional wheat flour filler in UF adhesives.",
+    "alternatives": "hydrochar derived from sugarcane bagasse (HSCB)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions formaldehyde emission levels from plywood but does not describe any toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "A Tough, Water-Resistant, High Bond Strength Adhesive Derived from Soybean Meal and Flexible Hyper-Branched Aminated Starch",
+    "doi": "10.3390/polym11081352",
+    "year": 2019,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the soybean meal (SM)-based adhesive has great potential to replace carcinogenic formaldehyde-containing adhesives, indicating a safety advantage. It presents the SM adhesive combined with hyper-branched aminated starch (HD) as a novel, tough, water-resistant adhesive that can serve as a safer alternative to formaldehyde-based adhesives.",
+    "alternatives": "soybean meal (SM)-based adhesive; hyper-branched aminated starch (HD)",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenic formaldehyde"
+      ],
+      "rationale": "The text explicitly states that formaldehyde is carcinogenic."
+    },
+    "CHEMICAL HARM": "carcinogenic formaldehyde"
+  },
+  {
+    "title": "Research on the Release of Dangerous Compounds from the BTEX and PAHs Groups in Industrial Casting Conditions",
+    "doi": "10.3390/ma14102581",
+    "year": 2021,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares emissions from moulding sands with different binders, including phenol-formaldehyde and inorganic binders, and states that sands with inorganic binders have negligible gas emissions compared to organic binders like phenol-formaldehyde. This indicates that inorganic binders are safer alternatives in terms of emissions, which can be reasonably interpreted as a safer alternative to formaldehyde-based binders.",
+    "alternatives": "inorganic binders",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses emissions of gases from moulding sands with different binders, including phenol-formaldehyde and furan, but does not explicitly state any harms or hazards specifically related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Toward Complete Utilization of Miscanthus in a Hot-Water Extraction-Based Biorefinery",
+    "doi": "10.3390/EN11010039",
+    "year": 2017,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the recovered lignin was used to prepare a formaldehyde-free alternative to phenol-formaldehyde resins, indicating a safer alternative to formaldehyde-based resins. This clearly presents a material that replaces formaldehyde with a presumably safer option.",
+    "alternatives": "formaldehyde-free lignin-based resins",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions the use of recovered lignin to prepare a formaldehyde-free alternative to phenol-formaldehyde resins, without discussing any toxicity, persistence, bioaccumulation, or other hazards of formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Bio-based composites from bagasse using carbohydrate enriched cross-bonding mechanism: A formaldehyde-free approach",
+    "doi": "10.1016/j.carpta.2024.100467",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states the production of formaldehyde-free bagasse particleboard using a cross-bonding technique and sustainable bone glue, indicating these as alternatives to formaldehyde-based adhesives. It highlights the use of bone glue and cross-bonding as safer substitutes by emphasizing the formaldehyde-free nature of the product, which implies a safety advantage over formaldehyde-containing materials.",
+    "alternatives": "bone glue",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions the production of formaldehyde-free bagasse particleboard, without detailing any toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "New method for the synthesis of formaldehyde-free phenolic resins from lignin-based aldehyde precursors",
+    "doi": "10.1016/J.EURPOLYMJ.2015.11.036",
+    "year": 2016,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states the synthesis of formaldehyde-free phenolic resins using lignin-based aromatic aldehyde precursors such as 4-hydroxybenzaldehyde and vanillin, which are biobased and lead to resins with competitive thermal properties. This indicates these lignin-based aldehydes are presented as safer alternatives to formaldehyde, which is described as highly toxic and volatile.",
+    "alternatives": "4-hydroxybenzaldehyde; vanillin",
+    "target_chemical_harm": {
+      "harms": [
+        "highly toxic",
+        "volatile"
+      ],
+      "rationale": "The text explicitly states that formaldehyde is 'highly toxic and volatile.' No other harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "highly toxic, volatile"
+  },
+  {
+    "title": "Strength enhancement and zero formaldehyde film for fibrillation resistance of lyocell knitted fabric via electrostatic self-assembly",
+    "doi": "10.1016/j.porgcoat.2025.109835",
+    "year": 2026,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly states that the proposed fibrillation resistance treatment is a 'formaldehyde-free approach,' indicating it avoids formaldehyde use. It presents a method using epichlorohydrin-dimethylamine copolymer (EDC) and polyacrylic acid emulsion (PAE) to form a protective film, which improves fabric properties without formaldehyde emission. This clearly indicates a safer alternative to formaldehyde-based treatments.",
+    "alternatives": "epichlorohydrin-dimethylamine copolymer (EDC); polyacrylic acid emulsion (PAE)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions formaldehyde emission as a drawback of traditional anti-fibrillation methods but does not explicitly state any specific harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Solvent-free synthesis of a formaldehyde-free benzoxazine monomer: Study of its curing acceleration effect for commercial benzoxazine",
+    "doi": "10.1039/d2py00462c",
+    "year": 2022,
+    "target": "formaldehyde",
+    "reasoning": "The abstract explicitly mentions the synthesis of a formaldehyde-free benzoxazine monomer, indicating it as an alternative to formaldehyde-containing resins. The term 'formaldehyde-free' implies a safety advantage by avoiding formaldehyde, a known hazardous substance, thus presenting a safer alternative.",
+    "alternatives": "formaldehyde-free benzoxazine monomer",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Analysis of Fluorescent Proteins for Observing Single Gene Locus in a Live and Fixed Escherichia coli Cell",
+    "doi": "10.1021/acs.jpcb.4c01816",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract compares formaldehyde fixation with glyoxal fixation and notes that formaldehyde disrupts proper DNA locus observations, whereas glyoxal fixation preserves the foci positions better. This suggests glyoxal as a fixation method with advantages over formaldehyde in this context, implying it is a safer alternative for fixation in gene locus imaging.",
+    "alternatives": "glyoxal",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to formaldehyde. It only mentions that fixation with formaldehyde disrupted proper DNA locus observations using TetR-FPs, which is a methodological effect rather than a harm or hazard."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "﻿Mitochondrial genome data provide insights into the phylogenetic relationships within Triplophysadalaica (Kessler, 1876) (Cypriniformes, Nemacheilidae)",
+    "doi": "10.3897/zookeys.1197.116342",
+    "year": 2024,
+    "target": "formaldehyde",
+    "reasoning": "The abstract states that ethanol has replaced formalin as the primary preservative for animal specimens due to the detrimental effect of formaldehyde on DNA, implying ethanol is a safer alternative. It explicitly mentions ethanol as a replacement, indicating a safety advantage over formaldehyde/formalin.",
+    "alternatives": "ethanol",
+    "target_chemical_harm": {
+      "harms": [
+        "detrimental effect on DNA"
+      ],
+      "rationale": "The reasoning text explicitly states that formaldehyde has a detrimental effect on DNA, which is a harm associated with the chemical."
+    },
+    "CHEMICAL HARM": "detrimental effect on DNA"
+  },
+  {
+    "title": "Technical Note – Novel Condensates with High Bio-Based Content as Syntan Replacements",
+    "doi": "10.34314/kc29s514",
+    "year": 2025,
+    "target": "formaldehyde",
+    "reasoning": "The abstract clearly states that the novel condensates are made without formaldehyde and bisphenols, using renewable and less toxic starting materials such as vanillin, which avoids toxicity issues. It explicitly positions these condensates as substitutes for syntans that currently contain formaldehyde, indicating a safer alternative to formaldehyde-based syntans.",
+    "alternatives": "vanillin",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity",
+        "presence of rest-monomeric formaldehyde"
+      ],
+      "rationale": "The reasoning explicitly states that formaldehyde is toxic and that some syntans have a problem with residual monomeric formaldehyde, indicating a hazard related to its presence."
+    },
+    "CHEMICAL HARM": "toxicity, presence of rest-monomeric formaldehyde"
+  }
+]

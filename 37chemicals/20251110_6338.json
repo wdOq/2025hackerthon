@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Quantitative Evaluation of Bacillus Cereus Spore Attachment to the Surface of Disposable Medical Gloves Made from Various Materials",
+    "doi": "10.4058/JSEI.35.198",
+    "year": 2020,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract compares the attachment of Bacillus cereus spores on gloves made from various materials, including vinyl chloride, latex, and nitrile rubber. It finds that vinyl chloride gloves have the highest spore attachment, while nitrile rubber gloves have significantly lower spore attachment, and recommends nitrile rubber gloves for medical use. This implies a safety advantage of nitrile rubber gloves over vinyl chloride gloves in terms of contamination risk, which can be reasonably interpreted as a safer alternative to vinyl chloride gloves.",
+    "alternatives": "nitrile rubber",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the attachment behavior of Bacillus cereus spores to gloves made from various materials, including vinyl chloride plastic, but does not explicitly state any harms or hazards related to vinyl chloride itself."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Utilizing a blend of expandable graphite and calcium/zinc stearate as a heat stabilizer environmentally friendly for polyvinyl chloride",
+    "doi": "10.1002/pls2.10109",
+    "year": 2023,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract presents a blend of calcium/zinc stearate and expandable graphite as a heat stabilizer for PVC that is described as nontoxic and environmentally friendly, contrasting with most traditional heat stabilizers that are highly toxic and harmful. This indicates a safer alternative to conventional stabilizers used with vinyl chloride (PVC).",
+    "alternatives": "calcium stearate; zinc stearate; expandable graphite",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with vinyl chloride itself. It discusses the toxicity of heat stabilizers used in PVC processing, but does not mention harms directly related to vinyl chloride."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Hydrogeological investigations in preparation of an in situ bioremediation strategy based on a novel bacterial desulfitobacterium dichloroeliminans strain DCAl",
+    "doi": "10.15626/eco-tech.2005.042",
+    "year": 2020,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract describes a novel bacterial strain, Desulfitobacterium dichloroeliminans strain DCAI, that degrades 1,2-dichloroethane to ethene without producing toxic vinyl chloride. This indicates a safer alternative bioremediation method that avoids the formation of vinyl chloride, a toxic compound, thus presenting a safety advantage relative to vinyl chloride production.",
+    "alternatives": "ethene",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions that 1,2-dichloroethane (1,2-DCA) has a putative carcinogenic effect and that the bacterial strain degrades 1,2-DCA to ethene without producing toxic vinyl chloride. However, no explicit harms or hazards are stated for vinyl chloride itself."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Uptake and Effects of Nanoplastics on the Dinoflagellate Gymnodinium corollarium",
+    "doi": "10.1002/etc.5604",
+    "year": 2023,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract compares the toxicity of various plastic nanoparticles including poly(vinyl chloride) and poly(methyl methacrylate) (PMMA). It explicitly states that the introduction of a methyl group in PMMA causes a drastic reduction in toxicity, indicating a safety advantage. This suggests PMMA nanoparticles are safer than vinyl chloride nanoparticles, presenting PMMA as a safer alternative.",
+    "alternatives": "poly(methyl methacrylate) (PMMA)",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity to unicellular organisms",
+        "increase in reactive oxygen species in dinoflagellate cells"
+      ],
+      "rationale": "The text explicitly states that poly(vinyl chloride) nanoparticles have toxic effects on unicellular organisms such as dinoflagellates, causing a dose-dependent increase in reactive oxygen species, indicating cellular stress and plastic degradation. No other specific harms or hazards related to vinyl chloride are mentioned."
+    },
+    "CHEMICAL HARM": "toxicity to unicellular organisms, increase in reactive oxygen species in dinoflagellate cells"
+  },
+  {
+    "title": "A Comprehensive Life-Cycle Assessment of Locally Oriented Small-Scale Toy Industries: A Study of traditional Channapatna Toys as Against Low-cost PVC (Poly-Vinyl Chloride) Toys Made in China",
+    "doi": "10.1016/J.PROCIR.2017.12.164",
+    "year": 2018,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract explicitly compares Channapatna toys made from Wrightia tinctoria softwood to PVC (poly-vinyl chloride) toys and states that Channapatna toys are less toxic, consume less energy, and have minimum environmental impacts. This clearly indicates that Channapatna toys are a safer alternative to PVC toys.",
+    "alternatives": "Wrightia tinctoria softwood",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl chloride. It only compares the environmental impacts of PVC toys to wooden toys, mentioning that PVC toys are more toxic, but does not specify the types of toxicity or hazards associated with vinyl chloride."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Evaluation of Plastic Depletion by Replacing Eco-Dining Palm-Plates (Areca Catechu)",
+    "doi": "10.17762/jaz.v44is-5.1517",
+    "year": 2023,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract discusses the health risks posed by plastic disposable plates made from materials including polyvinyl chloride (vinyl chloride) and highlights the use of biodegradable palm plates made from plant leaves as renewable and decomposable alternatives. It explicitly mentions the harmful toxins released by vinyl chloride and suggests palm plates as a safer option due to their biodegradability and medicinal properties, indicating a safety advantage over vinyl chloride-based plastics.",
+    "alternatives": "biodegradable palm plates",
+    "target_chemical_harm": {
+      "harms": [
+        "release of noxious compounds"
+      ],
+      "rationale": "The reasoning text explicitly states that disposable plates made from materials including polyvinyl chloride pose health risks due to the release of noxious compounds, including vinyl chloride."
+    },
+    "CHEMICAL HARM": "release of noxious compounds"
+  },
+  {
+    "title": "Effect of Solar Water Disinfection on Microbial Load and Concentration of Bisphenol-A in Rivers State, Nigeria",
+    "doi": "10.4314/jasem.v26i11.7",
+    "year": 2022,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract recommends the use of PET (Polyethylene Terephthalate) bottles for water purification using sunlight because PET bottles contain much fewer additives than bottles made from Poly Vinyl Chloride (PVC). This implies a safety advantage of PET over PVC, which is related to vinyl chloride as PVC is made from vinyl chloride. Therefore, PET is presented as a safer alternative to vinyl chloride-based PVC bottles.",
+    "alternatives": "Polyethylene Terephthalate (PET)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl chloride. It only mentions that PET bottles contain fewer additives than PVC bottles, without specifying any toxicity or hazard information about vinyl chloride."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Constructing green mercury-free catalysts with single pyridinic N species for acetylene hydrochlorination and mechanism investigation",
+    "doi": "10.1039/D0CY01950J",
+    "year": 2021,
+    "target": "vinyl chloride",
+    "reasoning": "The abstract presents a green poly(o-phenylenediamine) polymer and its derived N-doped carbon catalyst as mercury-free alternatives for acetylene hydrochlorination, achieving activity comparable to a mercury-based catalyst. It explicitly states these catalysts are mercury-free and implies environmental benefits by avoiding mercury's serious environmental problems, thus indicating a safer alternative to mercury chloride catalysts used in vinyl chloride production.",
+    "alternatives": "poly(o-phenylenediamine) polymer; N-doped carbon catalyst",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses catalysts for producing vinyl chloride and environmental problems caused by mercury use, but it does not explicitly state any harms or hazards related to vinyl chloride itself."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

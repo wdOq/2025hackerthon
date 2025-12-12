@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Isosorbide-Based Acrylic Pressure-Sensitive Adhesives Through UV-Cured Crosslinking with a Balance Between Adhesion and Cohesion",
+    "doi": "10.3390/polym16223178",
+    "year": 2024,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract presents a bio-based acrylic PSA derived from isosorbide and its derivatives as a promising replacement for traditional petroleum-based PSAs, including those based on butyl acrylate. It highlights the non-toxic, biocompatible, and biodegradable features of the bio-based PSA, which implies safety advantages over conventional butyl acrylate-based adhesives. Therefore, it explicitly indicates a safer alternative to butyl acrylate.",
+    "alternatives": "isosorbide-based acrylic pressure-sensitive adhesives",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to butyl acrylate. It focuses on the synthesis and properties of bio-based pressure-sensitive adhesives without mentioning toxicity, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Hydration Mechanism in Blood-Compatible Polymers Undergoing Phase Separation.",
+    "doi": "10.1021/acs.langmuir.1c02672",
+    "year": 2022,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract compares blood-compatible poly(2-methoxyethyl acrylate) with non-blood-compatible poly(n-butyl acrylate), highlighting differences in water interactions and blood compatibility. It implies that poly(2-methoxyethyl acrylate) has superior blood compatibility, which can be reasonably interpreted as a safer alternative to butyl acrylate in this context.",
+    "alternatives": "poly(2-methoxyethyl acrylate)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the interactions of water with poly(n-butyl acrylate) and poly(2-methoxyethyl acrylate) in the context of blood compatibility, focusing on polymer-water interactions and phase separation. It does not explicitly state any harms or hazards related to butyl acrylate."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Water structure of poly(2-methoxyethyl acrylate) observed by nuclear magnetic resonance spectroscopy",
+    "doi": "10.1080/09205063.2020.1738042",
+    "year": 2020,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract compares poly(2-methoxyethyl acrylate) (PMEA) with poly(butyl acrylate) (PBA), noting that PMEA shows excellent blood compatibility while PBA exhibits poor blood compatibility. This implies a safety advantage of PMEA over PBA, which is a polymer of butyl acrylate, indicating PMEA as a safer alternative.",
+    "alternatives": "poly(2-methoxyethyl acrylate)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text compares the water compatibility and molecular properties of poly(2-methoxyethyl acrylate) (PMEA) and poly(butyl acrylate) (PBA), noting that PBA exhibited poor blood compatibility. However, no explicit harms or hazards related to butyl acrylate itself are stated in the text."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

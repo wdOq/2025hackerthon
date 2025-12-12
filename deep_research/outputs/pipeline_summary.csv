@@ -1,0 +1,5 @@
+compound,step01,step02,step03,step04,all_steps_success
+ethylbenzene,True,True,True,True,True
+"Benzoyl chloride, dichloro-",True,True,False,,False
+Butyl D-glucoside,True,True,False,,False
+substitutes,True,True,True,True,True

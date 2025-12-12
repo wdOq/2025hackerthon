@@ -1,0 +1,43 @@
+[
+  {
+    "title": "A A GAP Replacement, Part 2: Preparation of Poly(3-azidooxetane) via Azidation of Poly(3-tosyloxyoxetane) and Poly(3-mesyloxyoxetane).",
+    "doi": "10.1021/acs.joc.1c02907",
+    "year": 2022,
+    "target": "oxirane",
+    "reasoning": "The abstract explicitly states that poly(3-azidooxetane) can bypass the drawbacks of oxirane-based glycidyl azide polymer (GAP), including toxic epichlorohydrin used in its synthesis. It also mentions improved safety by avoiding handling sensitive 3-azidooxetane and that poly(3-azidooxetane) is a fully adequate and potentially more environmentally benign substitute compared to epichlorohydrin, indicating a safer alternative to oxirane-based GAP.",
+    "alternatives": "poly(3-azidooxetane)",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity of epichlorohydrin"
+      ],
+      "rationale": "The text explicitly states that toxic epichlorohydrin is required for the synthesis of the oxirane-based glycidyl azide polymer (GAP). No other explicit harms or hazards related directly to oxirane are mentioned."
+    },
+    "CHEMICAL HARM": "toxicity of epichlorohydrin"
+  },
+  {
+    "title": "Chemoenzymatic epoxidation of Karanja oil: an alternative to chemical epoxidation?",
+    "doi": "10.1002/APJ.1979",
+    "year": 2016,
+    "target": "oxirane",
+    "reasoning": "The abstract compares a chemoenzymatic epoxidation method of Karanja oil to conventional chemical methods (implying oxirane-based chemical epoxidation) and states that the enzymatic method is cleaner, greener, and more energy efficient, with 100% selectivity and no side reactions. These points indicate safety advantages over conventional chemical epoxidation, which typically involves oxirane. Therefore, the enzymatic epoxidation method is presented as a safer alternative to oxirane-based chemical epoxidation.",
+    "alternatives": "enzymatic epoxidation",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to oxirane. It focuses on the epoxidation process of vegetable oils and the advantages of the enzymatic method without mentioning toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Design and synthetic evaluation of novel andrographolide and etomoxir-based CPT1 Inhibitors",
+    "doi": "10.30574/msabp.2025.16.1.0062",
+    "year": 2025,
+    "target": "oxirane",
+    "reasoning": "The abstract describes the design of novel oxirane-2-carboxylate analogs inspired by etomoxir that retain CPT1A inhibition potency while showing reduced reactivity flags and de-risked toxicity-associated features compared to etomoxir. This indicates these new oxirane carboxylates are safer alternatives to etomoxir, which is an oxirane-containing compound. The abstract explicitly states improved safety margins relative to etomoxir-like chemotypes.",
+    "alternatives": "oxirane-2-carboxylate analogs",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with oxirane. It discusses the design of oxirane derivatives to reduce toxicity and off-target reactivity, but no specific harms of oxirane itself are mentioned."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

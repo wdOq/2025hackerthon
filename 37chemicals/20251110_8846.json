@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Poly(Alkyl Glycidate Carbonate)s as Degradable Pressure-Sensitive Adhesives.",
+    "doi": "10.1002/anie.201811894",
+    "year": 2019,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract presents poly(carbonate) analogues of poly(butyl acrylate) as environmentally friendly and biocompatible alternatives that degrade into benign products, unlike poly(acrylate)s. This degradation behavior and biocompatibility imply safety advantages over butyl acrylate, indicating a safer alternative.",
+    "alternatives": "poly(carbonate) analogues of poly(butyl acrylate)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to butyl acrylate. It discusses the synthesis and properties of poly(carbonate) analogues and their degradation behavior, but no toxicity, persistence, bioaccumulation, or other hazards are mentioned."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Investigation of the Effect of Particle Surface Charge and Dispersion Stability on Latex Behavior in Cement Using Non-Ionic and Traditional Latexes",
+    "doi": "10.3390/ma15176145",
+    "year": 2022,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract explicitly compares a novel non-ionic polystyrene-polyurethane (PS-PU) composite latex to traditional styrene-butyl acrylate latex (St-BA), highlighting superior dispersion stability, milder retardation effect, and less adverse impact on compressive strength. The non-ionic nature of PS-PU leads to less destabilization and adsorption, implying improved performance and potentially better safety in cementitious systems compared to St-BA. These points indicate PS-PU as a safer alternative to butyl acrylate-based latex.",
+    "alternatives": "non-ionic polystyrene-polyurethane (PS-PU) composite latex",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to butyl acrylate. It discusses the properties and effects of polystyrene-polyurethane composite latex compared to styrene-butyl acrylate latex in cementitious materials, focusing on stability, workability, and strength, without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Water structure of poly(2-methoxyethyl acrylate) observed by nuclear magnetic resonance spectroscopy",
+    "doi": "10.1080/09205063.2020.1738042",
+    "year": 2020,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract compares poly(2-methoxyethyl acrylate) (PMEA) and poly(butyl acrylate) (PBA), noting that PMEA shows excellent blood compatibility while PBA exhibits poor blood compatibility. This indicates a safety-related advantage of PMEA over PBA, which is a polymer of butyl acrylate. Therefore, PMEA can be reasonably interpreted as a safer alternative to butyl acrylate.",
+    "alternatives": "poly(2-methoxyethyl acrylate)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text compares the water compatibility and molecular properties of poly(2-methoxyethyl acrylate) (PMEA) and poly(butyl acrylate) (PBA), noting that PBA exhibited poor blood compatibility. However, no explicit harms or hazards such as toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards related to butyl acrylate are stated."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Assessing the Biodegradability of 2‐Methylene‐1,3‐Dioxepane (MDO)‐Based Multicomponent Polymers Under Aerobic Composting Conditions",
+    "doi": "10.1002/app.57796",
+    "year": 2025,
+    "target": "butyl acrylate",
+    "reasoning": "The abstract compares BA/VAc copolymers with and without MDO, showing that MDO-containing formulations biodegrade (12.49% in 60 days) while those without MDO show zero biodegradation. Since butyl acrylate is part of the BA/VAc formulation, the MDO-based formulations can be interpreted as safer alternatives due to their enhanced biodegradability and environmental friendliness. The abstract explicitly highlights MDO-based formulations as more compostable and environmentally friendly, indicating a safety advantage over conventional butyl acrylate-containing polymers.",
+    "alternatives": "2-Methylene-1,3-dioxepane (MDO)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the biodegradation and compostability of butyl acrylate/vinyl acetate copolymer formulations but does not explicitly state any harms or hazards related to butyl acrylate such as toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

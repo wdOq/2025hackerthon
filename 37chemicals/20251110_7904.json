@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Search for New Solutions to Improve the Efficiency of Solar Cells Using in Saint Petersburg and Hong Kong",
+    "doi": "10.1109/EExPolytech58658.2023.10318752",
+    "year": 2023,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly compares thermoplastic polyolefin (TPO) to ethylene vinyl acetate (EVA) as a sealant for PV modules in Hong Kong and highlights TPO's outstanding durability and lower degradation rate (0.3% vs. 0.7%). Since EVA contains vinyl acetate, TPO is presented as a safer alternative with better durability and lower degradation, implying improved safety and performance.",
+    "alternatives": "thermoplastic polyolefin (TPO)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl acetate. It only mentions ethylene vinyl acetate (EVA) as a sealant for PV modules and compares its durability to thermoplastic polyolefin (TPO), without discussing any toxicity, environmental persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Multifunctional roles and advances of polymers in solar cell technologies: a review",
+    "doi": "10.1039/d5ra05820a",
+    "year": 2025,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly states that advanced encapsulation polymers based on polyolefin elastomers have superior UV resistance and reduced potential-induced degradation compared to traditional ethylene-vinyl acetate systems, indicating a safety and durability advantage over vinyl acetate.",
+    "alternatives": "polyolefin elastomers",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl acetate. It focuses on the applications and benefits of polymeric materials in solar cell technologies without mentioning toxicity, persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Mechanical Properties and Reliability of Parametrically Designed Architected Materials Using Urethane Elastomers",
+    "doi": "10.3390/polym13050842",
+    "year": 2021,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract compares UV-cured urethane elastomers architected materials to ethylene vinyl acetate (EVA) and other foamed materials used in medical insoles, noting that EVA deformed in fatigue tests while the urethane elastomer materials showed better fatigue resistance and UV resistance. This indicates a safety and durability advantage of the urethane elastomer materials over EVA, suggesting they are a safer alternative.",
+    "alternatives": "urethane elastomers",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl acetate. It only mentions that ethylene vinyl acetate was deformed in fatigue testing, which is a material property observation rather than a harm or hazard."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Sustainable PV Module Design—Review of State-of-the-Art Encapsulation Methods",
+    "doi": "10.3390/su14169971",
+    "year": 2022,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly states that the current encapsulation method uses ethylene vinyl acetate and highlights its major disadvantages in terms of performance and recyclability. It then mentions alternatives such as the thermoplastic material polyolefin and the NICE technology structure, implying these alternatives offer sustainability advantages. This indicates that polyolefin and NICE technology are presented as safer alternatives to vinyl acetate in the context of encapsulation materials.",
+    "alternatives": "polyolefin; NICE technology",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl acetate. It only mentions disadvantages in terms of performance and recyclability of ethylene vinyl acetate as an encapsulation material."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Elucidating potential‐induced degradation in bifacial PERC silicon photovoltaic modules",
+    "doi": "10.1002/pip.3028",
+    "year": 2018,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract mentions that replacing ethylene-vinyl acetate copolymer with polyolefin elastomer films significantly slows down the progression of potential-induced degradation (PID), implying a safety or durability advantage. This suggests polyolefin elastomer films as a safer alternative to vinyl acetate in the context of photovoltaic module degradation.",
+    "alternatives": "polyolefin elastomer films",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses potential-induced degradation (PID) in photovoltaic modules involving ethylene-vinyl acetate copolymer but does not explicitly state any harms or hazards related to vinyl acetate itself."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "The Effects of Global Damp Heat Ageing on Debonding of Polyolefin Glass Laminates",
+    "doi": "10.1109/PVSC48320.2023.10359720",
+    "year": 2023,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly states that polyolefin elastomers (POE) have been established as a promising alternative to ethylene vinyl acetate copolymers (EVA), which contain vinyl acetate. It highlights that POE has better water and ion barrier properties and shows significantly higher compressive shear strength after damp heat exposure, indicating improved durability. These points suggest safety advantages related to environmental degradation and ion migration, supporting POE as a safer alternative to vinyl acetate-containing EVA.",
+    "alternatives": "polyolefin elastomers (POE)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the degradation and ageing behavior of ethylene vinyl acetate copolymers (EVA) in photovoltaic modules, focusing on physical and chemical changes such as deacetylation, ion migration, and water uptake. However, it does not explicitly state any harms or hazards related to vinyl acetate itself, such as toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Investigation on Wax Deposition Reduction Using Natural Plant-Based Additives for Sustainable Energy Production from Penara Oilfield Malaysia Basin",
+    "doi": "10.1021/acsomega.2c01333",
+    "year": 2022,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract compares natural plant-based inhibitors (Jatropha seed oil, crude palm oil, and crude palm kernel oil) to commercialized ethylene-co-vinyl acetate and triethanolamine compounds. It highlights that these natural inhibitors are less harmful to the environment and beneficial for sustainable energy production, implying a safety advantage over synthetic inhibitors like vinyl acetate.",
+    "alternatives": "Jatropha seed oil; crude palm oil; crude palm kernel oil",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to vinyl acetate. It focuses on the evaluation of natural plant-based inhibitors and compares them with commercialized compounds including ethylene-co-vinyl acetate, but does not mention any toxicity, environmental persistence, bioaccumulation, or occupational hazards associated with vinyl acetate."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "How to Avoid Acid Corrosion of Laminated Solar Panels by Replacing the Encapsulant",
+    "doi": "10.33927/hjic-2024-18",
+    "year": 2024,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly identifies ethylene-vinyl acetate (EVA) as the commonly used encapsulant that releases corrosive acetic acid as it ages, creating a need for alternatives. It investigates a polyethylene-based elastomer-type foil, polyolefin elastomer (POE), as a prospective alternative and compares it to EVA from a corrosion perspective, implying a safety advantage related to acid corrosion. This indicates POE is presented as a safer alternative to EVA (which contains vinyl acetate).",
+    "alternatives": "polyolefin elastomer (POE)",
+    "target_chemical_harm": {
+      "harms": [
+        "release of acetic acid which is highly corrosive"
+      ],
+      "rationale": "The reasoning text explicitly states that as ethylene-vinyl acetate (EVA) ages, it releases acetic acid, which is highly corrosive. No other explicit harms or hazards related to vinyl acetate are mentioned."
+    },
+    "CHEMICAL HARM": "release of acetic acid which is highly corrosive"
+  },
+  {
+    "title": "Durability and Performance of Encapsulant Films for Bifacial Heterojunction Photovoltaic Modules",
+    "doi": "10.3390/polym14051052",
+    "year": 2022,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract compares PolyEthylene Vinyl Acetate (EVA) and PolyOlefin Elastomer (POE) as encapsulant materials for photovoltaic modules and states that POE shows better resistance to oxidation than EVA. Since EVA contains vinyl acetate, the improved oxidation resistance of POE can be reasonably interpreted as a safety advantage, indicating POE as a safer alternative to vinyl acetate-based EVA.",
+    "alternatives": "PolyOlefin Elastomer (POE)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the performance and durability of PolyEthylene Vinyl Acetate (EVA) as an encapsulant material in photovoltaic modules, focusing on photo- and thermo-oxidation resistance and mechanical properties. It does not explicitly state any harms or hazards related to vinyl acetate or EVA."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Improvement in solar cells efficiency with luminescent downshifting nanocomposite lamination: A green alternative for ethylene–vinyl acetate",
+    "doi": "10.1016/j.solener.2024.112986",
+    "year": 2024,
+    "target": "vinyl acetate",
+    "reasoning": "The abstract explicitly states that the developed carbon dots and epoxy nanocomposite is an environmentally friendly and cost-effective alternative to ethylene–vinyl acetate (EVA), which is described as toxic and expensive. It highlights the nanocomposite as a green and economically viable encapsulant, implying safety advantages over EVA.",
+    "alternatives": "carbon dots; epoxy nanocomposite",
+    "target_chemical_harm": {
+      "harms": [
+        "toxic"
+      ],
+      "rationale": "The text explicitly states that ethylene–vinyl acetate (EVA), which contains vinyl acetate, is toxic."
+    },
+    "CHEMICAL HARM": "toxic"
+  }
+]

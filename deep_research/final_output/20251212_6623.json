@@ -1,0 +1,906 @@
+[
+  {
+    "title": "Estrogenic Activity of Tetrazole Derivatives Bearing Bisphenol Structures: Computational Studies, Synthesis, and In Vitro Assessment",
+    "doi": "10.1021/acs.jcim.1c01077",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly presents tetrazole derivatives bearing bisphenol structures (TbB) as privileged prospective substitutes for bisphenol A (BPA) with much weaker binding to estrogen receptor alpha, indicating lower endocrine disruption potential. This suggests a safety advantage over BPA. However, it also states that more research on TbB ligand toxicity is needed to confirm safety, but the current evidence supports TbB as a safer alternative.",
+    "alternatives": "tetrazole derivatives bearing bisphenol structures (TbB)",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BPA) is classified as an industrial endocrine disruptor, which has led to its ban from food and medical applications. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "High Glass Transition PEcBT and PEPecBT Copolyesters Synthesized by Direct Esterification Route",
+    "doi": "10.1002/app.56781",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that CBDO-based copolyesters like PCcBT have been commercialized to replace bisphenol A polycarbonate in food contact applications due to their high transparency, heat-resistance, and safety, indicating a safer alternative. The study further develops PEcBT copolyesters with improved synthesis robustness and thermal stability, continuing the theme of safer CBDO-based materials as alternatives to bisphenol A polycarbonate.",
+    "alternatives": "1,4-cyclohexanedimethanol (CBDO)-based copolyesters",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only mentions that the new copolyesters are commercialized to replace bisphenol A polycarbonate in food contact applications, implying safety improvements, but no specific harms of bisphenol A are described."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Detection of bisphenol A, cumylphenol and parabens in surface waters of Greater Poland Voivodeship.",
+    "doi": "10.1016/j.jenvman.2017.08.034",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares methylparaben (MP) to bisphenol A (BPA) and states that MP's endocrine properties are much lower than those of BPA, posing a lower environmental impact potential. This indicates that MP can be considered a safer alternative to BPA in terms of endocrine disruption and environmental impact.",
+    "alternatives": "methylparaben",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BPA) has endocrine properties and is considered to have a higher environmental impact potential due to its endocrine disrupting effects compared to parabens. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "Challenges and Opportunities in the Catalytic Synthesis of Diphenolic Acid and Evaluation of Its Application Potential",
+    "doi": "10.3390/molecules29010126",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that diphenolic acid is a valuable candidate for the replacement of bisphenol A, which is questioned for its toxicological issues, implying a safety advantage. This indicates diphenolic acid as a safer alternative to bisphenol A.",
+    "alternatives": "diphenolic acid",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicological issues"
+      ],
+      "rationale": "The text explicitly states that bisphenol A is 'strongly questioned for its toxicological issues,' indicating concerns about its toxicity."
+    },
+    "CHEMICAL HARM": "toxicological issues"
+  },
+  {
+    "title": "Low shrinkage bulk-filled dental resin composites with non-estrogenic dimethacrylate.",
+    "doi": "10.1039/d3bm00154g",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly compares the nonestrogenic di(meth)acrylate Bis-EFMA to commercial bisphenol A-based materials, highlighting its nonestrogenic activity and excellent biocompatibility, which implies a safety advantage. It also states that Bis-EFMA has comparable or superior properties and is considered a promising alternative to Bis-GMA, a bisphenol A derivative. Therefore, Bis-EFMA is presented as a safer alternative to bisphenol A-based resins.",
+    "alternatives": "Bis-EFMA",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only compares the estrogenic activity of raw materials, including bisphenol A, and highlights the nonestrogenic properties and improved characteristics of Bis-EFMA as an alternative."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "182 Bisphenol A, but not bisphenol S, affects key microRNAs during bovine oocyte maturation",
+    "doi": "10.1071/rdv32n2ab182",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A (BPA) and bisphenol S (BPS) in terms of their effects on microRNA expression during bovine oocyte maturation. It reports that BPA significantly alters microRNA levels linked to negative effects, while BPS shows no changes in microRNA expression, implying a different and potentially less harmful mechanism. This suggests BPS may be a safer alternative to BPA.",
+    "alternatives": "bisphenol S",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption",
+        "negative effect on oocyte quality",
+        "miRNA dysregulation",
+        "epigenetic interference",
+        "potential contribution to decreased fertility"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) is an endocrine disrupting chemical that negatively affects oocyte quality. It causes dysregulation of microRNAs involved in gene expression during oocyte maturation and cumulus cell function, interferes with epigenetic regulation by altering DNMT3A mRNA and protein levels, and this dysregulation is speculated to contribute to decreased fertility."
+    },
+    "CHEMICAL HARM": "endocrine disruption, negative effect on oocyte quality, miRNA dysregulation, epigenetic interference, potential contribution to decreased fertility"
+  },
+  {
+    "title": "Thermal and Fire Behavior of a Bio-Based Epoxy/Silica Hybrid Cured with Methyl Nadic Anhydride",
+    "doi": "10.3390/polym12081661",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that sugar-derived diepoxy monomers and anhydrides represent a sustainable greener alternative to bisphenol A (BPA) and aromatic amines, which are toxic. It highlights the BOMF/MNA system as having improved fire safety characteristics, such as decreased heat release rate and smoke parameters, indicating safety advantages over BPA-based systems.",
+    "alternatives": "sugar-derived diepoxy monomers; anhydrides",
+    "target_chemical_harm": {
+      "harms": [
+        "harmful impact on human health"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) has been banned as a raw material for polymeric products due to its harmful impact on human health. No specific types of toxicity or other hazards are detailed."
+    },
+    "CHEMICAL HARM": "harmful impact on human health"
+  },
+  {
+    "title": "Characterizing properties of non-estrogenic substituted bisphenol analogs using high throughput microscopy and image analysis",
+    "doi": "10.1371/journal.pone.0180141",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly compares several substituted bisphenol derivatives and hydroquinone to bisphenol A (BPA) and finds that compounds such as Bisguaiacol F, TM-BFP-ER, and TM-BPF-DGE exhibit very limited estrogen-like or androgen-like activity, indicating lower endocrine-disrupting potential. It further suggests these compounds could be suitable commercially viable alternatives to BPA, implying a safety advantage.",
+    "alternatives": "Bisguaiacol F; TM-BFP-ER; TM-BPF-DGE",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) has estrogenic properties linked to adverse effects on the endocrine system, indicating endocrine disruption as a harm."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "Biobased Vitrimeric Epoxy Networks",
+    "doi": "10.1002/mame.202300371",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly mentions that biomass resources such as lignin, cellulose, or vegetable oils can be exploited as biobased building blocks for epoxy thermosets as an alternative to bisphenol A-based ones. It implies these biobased epoxy networks offer additional benefits like recyclability and self-healing, which can be interpreted as safety or sustainability advantages over bisphenol A-based materials.",
+    "alternatives": "lignin; cellulose; vegetable oils",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only discusses the use of biobased alternatives to bisphenol A-based epoxy thermosets and their properties."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Quality of fresh and cryopreserved bovine sperm is reduced by BPA and BPF exposure",
+    "doi": "10.1530/RAF-23-0018",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the effects of BPA, BPS, and BPF on bovine sperm quality and finds that BPA is the most harmful, BPF is toxic under certain conditions, and BPS seems to be the least detrimental with no significant effects on measured parameters. This indicates that BPS is presented as a safer alternative to BPA.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption",
+        "reduced sperm motility",
+        "reduced sperm capacitation",
+        "reduced sperm viability",
+        "reduced mitochondrial membrane potential in sperm",
+        "toxicity to sperm affecting male fertility"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) is an endocrine-disrupting compound and that BPA exposure significantly reduces sperm motility, capacitation, viability, and mitochondrial membrane potential levels, indicating toxicity to sperm and potential impacts on male fertility."
+    },
+    "CHEMICAL HARM": "endocrine disruption, reduced sperm motility, reduced sperm capacitation, reduced sperm viability, reduced mitochondrial membrane potential in sperm, toxicity to sperm affecting male fertility"
+  },
+  {
+    "title": "High-performance adhesives modified by demethylated lignin for extreme environment",
+    "doi": "10.1039/d2nj06225a",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract mentions replacing bisphenol A with harmless biomass-based raw materials in epoxy resin preparation, implying a safer alternative due to the toxicity of bisphenol A. This indicates a safety advantage and a replacement strategy.",
+    "alternatives": "biomass-based raw materials",
+    "target_chemical_harm": {
+      "harms": [
+        "toxic chemical"
+      ],
+      "rationale": "The reasoning text explicitly states that bisphenol A is a toxic chemical."
+    },
+    "CHEMICAL HARM": "toxic chemical"
+  },
+  {
+    "title": "Determination of cytotoxicity of dentine bonding agents, hydroxyethyl methacrylate and bisphenol alpha",
+    "doi": "10.15713/INS.IDMJAR.57",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares cytotoxicity of several dental adhesives and components, including bisphenol alpha, and finds that bisphenol alpha and One Coat-7.0 are strongly cytotoxic, while Clearfil SE Bond shows the lowest cytotoxicity. This indicates Clearfil SE Bond may be a safer alternative to bisphenol alpha in terms of cytotoxicity.",
+    "alternatives": "Clearfil SE Bond",
+    "target_chemical_harm": {
+      "harms": [
+        "cytotoxicity"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol alpha (bisphenol A) was strongly cytotoxic among almost all the dilutions tested on human gingival fibroblast cell lines, indicating a cytotoxic harm. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "cytotoxicity"
+  },
+  {
+    "title": "One‐pot method for upcycling polycarbonate waste to yield high‐strength, BPA‐free composites",
+    "doi": "10.1002/pol.20230724",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract describes a method that chemically upcycles polycarbonate waste by disintegrating bisphenol A units into monoaryls, thereby eliminating endocrine-disrupting BPA from the material and downstream waste. The resulting composite SPC90 is BPA-free and has mechanical strengths suitable for building materials, suggesting it as a safer alternative to BPA-containing materials.",
+    "alternatives": "BPA-free composites (SPC90)",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) is an endocrine-disrupting chemical that interferes with reproduction and development in a wide range of organisms, including humans. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "Sustainable alternative to bisphenol A epoxy resin: high-performance recyclable epoxy vitrimers derived from protocatechuic acid",
+    "doi": "10.1039/d0py00545b",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that epoxy vitrimers derived from protocatechuic acid can be used as renewable alternatives to BPA epoxy resins and highlights better thermal and mechanical properties as well as efficient reprocessability and degradability, indicating safety advantages over bisphenol A.",
+    "alternatives": "epoxy vitrimers derived from protocatechuic acid",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only compares the performance and recyclability of epoxy vitrimers derived from protocatechuic acid to commercial BPA-based epoxy resins without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Sex-specific changes in oxidative stress parameters and longevity produced by Bisphenol F and S compared to Bisphenol A in Drosophila melanogaster.",
+    "doi": "10.1016/j.cbpc.2022.109329",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the toxicological effects of Bisphenol A (BPA) with Bisphenol F (BPF) and Bisphenol S (BPS) in Drosophila melanogaster and states that BPA was more harmful than BPF and BPS in male flies. It also notes that females were more susceptible to oxidative cell damage from BPA and BPS than from BPF. This indicates that BPF and BPS have lower toxicity compared to BPA, suggesting they are safer alternatives.",
+    "alternatives": "bisphenol F; bisphenol S",
+    "target_chemical_harm": {
+      "harms": [
+        "oxidative cell damage",
+        "decreased catalase (CAT) activity",
+        "increased reactive species (RS)",
+        "increased lipid peroxidation (LPO)",
+        "reduced mitochondrial viability",
+        "reduced glutathione-S-transferase (GST) activity",
+        "reduced superoxide dismutase (SOD) activity",
+        "reduced longevity"
+      ],
+      "rationale": "The reasoning explicitly states that exposure to bisphenol A (BPA) caused oxidative cell damage, altered antioxidant enzyme activities (CAT, SOD, GST), increased reactive species and lipid peroxidation, reduced mitochondrial viability, and decreased longevity in both male and female Drosophila melanogaster."
+    },
+    "CHEMICAL HARM": "oxidative cell damage, decreased catalase (CAT) activity, increased reactive species (RS), increased lipid peroxidation (LPO), reduced mitochondrial viability, reduced glutathione-S-transferase (GST) activity, reduced superoxide dismutase (SOD) activity, reduced longevity"
+  },
+  {
+    "title": "PASIF Pemanfaatan Pati Ubi Jalar Serta Kitosan Sebagai Antimikroba Dalam Pembuatan Edible film",
+    "doi": "10.64477/301240-246",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that edible films made from sweet potato starch and chitosan are an alternative to plastics containing Bisphenol A (BPA) to avoid its health dangers. This implies a safer alternative to BPA-containing plastics by using edible films for food packaging.",
+    "alternatives": "sweet potato starch; chitosan",
+    "target_chemical_harm": {
+      "harms": [
+        "health problems"
+      ],
+      "rationale": "The reasoning text explicitly states that Bisphenol A (BPA) contained in plastic can cause several health problems."
+    },
+    "CHEMICAL HARM": "health problems"
+  },
+  {
+    "title": "Preparation of Renewable Epoxy-Amine Resins With Tunable Thermo-Mechanical Properties, Wettability and Degradation Abilities From Lignocellulose- and Plant Oils-Derived Components",
+    "doi": "10.3389/fchem.2019.00159",
+    "year": 2019,
+    "target": "bisphenol A",
+    "reasoning": "The abstract presents novel bisphenols (GDFx) derived from renewable sources that show no endocrine disruption, indicating a safety advantage. These bio-based epoxy precursors (GDFxEPO and GTF-EPO) are described as innocuous and renewable alternatives to conventional bisphenols, implying they are safer than bisphenol A. The explicit mention of no endocrine disruption supports the claim of a safer alternative.",
+    "alternatives": "novel bisphenols (GDFx); bio-based epoxy precursors (GDFxEPO and GTF-EPO)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It discusses the preparation and properties of novel bisphenols and their epoxy precursors, noting no endocrine disruption for GDFx bisphenols, but does not mention any toxicity, persistence, bioaccumulation, or occupational hazards for bisphenol A."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Bisphenol F has different effects on preadipocytes differentiation and weight gain in adult mice as compared with Bisphenol A and S.",
+    "doi": "10.1016/j.tox.2019.03.016",
+    "year": 2019,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the effects of Bisphenol A (BPA), Bisphenol S (BPS), and Bisphenol F (BPF) on preadipocyte differentiation and weight gain. It states that BPS and BPA increase gene expression related to differentiation and lipid accumulation, while BPF decreases gene expression and results in less weight gain in mice. This suggests that BPF has different and potentially less obesogenic effects than BPA, indicating a safety advantage. Therefore, BPF can be reasonably interpreted as a safer alternative to BPA.",
+    "alternatives": "bisphenol F",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption",
+        "potential obesogenic effects"
+      ],
+      "rationale": "The text explicitly states that Bisphenol A (BPA) is a widely used endocrine disrupting compound. Additionally, BPA increased expression of genes related to preadipocyte differentiation and elevated lipid concentrations, suggesting potential obesogenic effects."
+    },
+    "CHEMICAL HARM": "endocrine disruption, potential obesogenic effects"
+  },
+  {
+    "title": "Synthetic Light‐Curable Polymeric Materials Provide a Supportive Niche for Dental Pulp Stem Cells",
+    "doi": "10.1002/adma.201704486",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares thiol-ene polymerized triacrylates to bisphenol A glycidyl methacrylate (a bisphenol A derivative) and states that the latter negatively impacts stem cell adhesion and signaling, whereas the triacrylates support stem cell functions and have suitable mechanical properties. This indicates that the triacrylate-based materials are safer alternatives to bisphenol A glycidyl methacrylate in terms of biological compatibility with dental pulp stem cells.",
+    "alternatives": "thiol-ene polymerized triacrylates",
+    "target_chemical_harm": {
+      "harms": [
+        "negative impact on matrix and signaling pathways"
+      ],
+      "rationale": "The text explicitly states that materials composed of bisphenol A glycidyl methacrylate do not support stem cell adhesion and negatively impact matrix and signaling pathways, indicating a harm associated with bisphenol A derivatives."
+    },
+    "CHEMICAL HARM": "negative impact on matrix and signaling pathways"
+  },
+  {
+    "title": "Bisphenol A and genistein have opposite effects on adult chicken ovary by acting on ERα/Nrf2-Keap1-signaling pathway.",
+    "doi": "10.1016/j.cbi.2021.109616",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A (BPA) and genistein (GEN) effects on the adult chicken ovary, showing that BPA causes toxicity and oxidative stress, while GEN improves antioxidant capacity and ameliorates BPA-induced oxidative stress. This indicates that genistein has safety advantages over BPA and could be interpreted as a safer alternative.",
+    "alternatives": "genistein",
+    "target_chemical_harm": {
+      "harms": [
+        "reproductive toxicity",
+        "degeneration of follicles and stromal cells",
+        "increase of atretic follicles",
+        "disruption of redox homeostasis in the ovary",
+        "activation of Keap1 and suppression of Nrf2-signaling pathway",
+        "alteration of estrogen receptor alpha (ERα) expression"
+      ],
+      "rationale": "The text explicitly states that BPA at 1/10 NOAEL dose significantly reduced production performance, caused degeneration of ovarian follicles and stromal cells, increased atretic follicles, undermined redox homeostasis by activating Keap1 and suppressing Nrf2-signaling pathway, and altered ERα expression in the ovary."
+    },
+    "CHEMICAL HARM": "reproductive toxicity, degeneration of follicles and stromal cells, increase of atretic follicles, disruption of redox homeostasis in the ovary, activation of Keap1 and suppression of Nrf2-signaling pathway, alteration of estrogen receptor alpha (ERα) expression"
+  },
+  {
+    "title": "Effects of bisphenol A and its analogs bisphenol F and S on life parameters, antioxidant system, and response of defensome in the marine rotifer Brachionus koreanus.",
+    "doi": "10.1016/j.aquatox.2018.03.024",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the toxicity of bisphenol A (BPA) with its analogs bisphenol F (BPF) and bisphenol S (BPS), stating that BPA showed the highest acute toxicity, followed by BPF and then BPS. It also suggests that BPS likely causes less toxicity compared to BPA and BPF, indicating a safety advantage. Therefore, BPS is presented as a safer alternative to bisphenol A.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "acute toxicity",
+        "adverse effects on life span",
+        "adverse effects on reproduction",
+        "increased intracellular reactive oxygen species (ROS) levels",
+        "increased glutathione S-transferase (GST) activity",
+        "modulation of cytochrome P450 (CYP) and GST gene expression"
+      ],
+      "rationale": "The reasoning explicitly states that bisphenol A (BPA) showed the highest acute toxicity among bisphenol analogs and caused adverse effects on life span and reproduction in marine rotifers. It also increased intracellular ROS levels and GST activity, and modulated the expression of detoxification-related genes (CYP and GST), indicating specific toxicological impacts."
+    },
+    "CHEMICAL HARM": "acute toxicity, adverse effects on life span, adverse effects on reproduction, increased intracellular reactive oxygen species (ROS) levels, increased glutathione S-transferase (GST) activity, modulation of cytochrome P450 (CYP) and GST gene expression"
+  },
+  {
+    "title": "Hydrolyzable Bio‐Based Bisphenols Enabled by the Tishchenko Reaction for Polyurethane Vitrimers with Closed‐Loop Recyclability",
+    "doi": "10.1002/advs.202503152",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the developed fully bio-based bisphenols offer a sustainable alternative to conventional bisphenol A (BPA). It highlights that these bio-based bisphenols introduce hydrolyzable ester bonds allowing complete degradation within approximately 3 days, providing an efficient and eco-friendly end-of-life solution, which implies a safety advantage over BPA. Therefore, the bio-based bisphenols are presented as a safer alternative to BPA.",
+    "alternatives": "bio-based bisphenols",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the development of bio-based bisphenols as sustainable alternatives to conventional bisphenol A, highlighting environmental benefits and improved material properties without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Technical Note – Novel Condensates with High Bio-Based Content as Syntan Replacements",
+    "doi": "10.34314/kc29s514",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract introduces novel condensates made from renewable aromatic aldehydes like vanillin that avoid the use of formaldehyde and bisphenols, which are toxic components in conventional syntans containing bisphenol A. It explicitly states no bisphenols are formed and highlights the use of less toxic, renewable materials, indicating a safer alternative to bisphenol A-containing syntans.",
+    "alternatives": "vanillin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only mentions that syntans have high values of bisphenols and that there are issues with formaldehyde and bisphenols, prompting the search for less toxic alternatives. However, no specific harms or hazards of bisphenol A are detailed."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Cytogenetic and developmental toxicity of bisphenol A and bisphenol S in Arbacia lixula sea urchin embryos",
+    "doi": "10.1007/s10646-022-02568-w",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A (BP-A) and bisphenol S (BP-S), stating that BP-S is an alternative to BP-A. It reports that BP-S induces similar toxic effects but with lower severity, including significantly fewer malformed embryos and no cytogenetic toxicity at certain concentrations where BP-A is toxic. This indicates BP-S is presented as a safer alternative to BP-A.",
+    "alternatives": "bisphenol S (BP-S)",
+    "target_chemical_harm": {
+      "harms": [
+        "embryotoxicity",
+        "embryonic malformations",
+        "mortality",
+        "cytogenetic toxicity"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BP-A) exposure induced embryotoxic effects, including embryonic malformations and mortality, at concentrations from 2.5 to 100 µM. Additionally, BP-A exhibited cytogenetic toxicity at 25 and 100 µM, measured by mitotic activity and chromosome aberrations in embryos."
+    },
+    "CHEMICAL HARM": "embryotoxicity, embryonic malformations, mortality, cytogenetic toxicity"
+  },
+  {
+    "title": "The Choice of Hemodialysis Membrane Affects Bisphenol A Levels in Blood.",
+    "doi": "10.1681/ASN.2015030312",
+    "year": 2016,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares BPA-containing polysulfone dialyzers with BPA-free polynephron dialyzers and shows that polynephron dialyzers reduce predialysis serum BPA levels and intracellular BPA, while polysulfone dialyzers increase BPA levels and oxidative stress. This indicates that polynephron dialyzers are a safer alternative to BPA-containing polysulfone dialyzers.",
+    "alternatives": "polynephron",
+    "target_chemical_harm": {
+      "harms": [
+        "kidney injury",
+        "cardiovascular injury",
+        "increased oxidative stress",
+        "increased inflammatory marker concentrations",
+        "intracellular BPA accumulation in PBMCs"
+      ],
+      "rationale": "The reasoning explicitly states that BPA exposure is linked to kidney and cardiovascular injury in humans, and animal studies show a causative link. It also describes increased oxidative stress and inflammatory markers in patients undergoing hemodialysis with BPA-containing dialyzers, as well as increased intracellular BPA in PBMCs, indicating potential cellular harm."
+    },
+    "CHEMICAL HARM": "kidney injury, cardiovascular injury, increased oxidative stress, increased inflammatory marker concentrations, intracellular BPA accumulation in PBMCs"
+  },
+  {
+    "title": "Bio-based Non-estrogenic Dimethacrylate Dental Composite from Cloves",
+    "doi": "10.1177/00220345221109498",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly compares the bio-based dimethacrylate monomers BEF-GMA and BEF-EA to commercial bisphenols including Bis-GMA, highlighting that these bio-based monomers are nonestrogenic and exhibit improved biocompatibility. It states that these materials have adequate or superior mechanical properties and lower toxicity, indicating safety advantages over bisphenol A derivatives. Thus, BEF-GMA and BEF-EA are presented as safer alternatives to bisphenol A.",
+    "alternatives": "BEF-GMA; BEF-EA",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The reasoning explicitly states that Bisphenol A (BPA) is an endocrine disruptor and has been prohibited by several regulatory agencies for use in many consumer products. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "Modulation of cytokine/chemokine production in human macrophages by bisphenol A: A comparison to analogues and interactions with genistein",
+    "doi": "10.1080/1547691X.2018.1476629",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the immunotoxicity of BPA with its analogs BPS and BPAF, stating that BPS was the least toxic among them. This indicates a safety advantage of BPS relative to BPA, suggesting BPS as a safer alternative. The abstract explicitly presents BPS as less toxic than BPA in the context of macrophage immunotoxicity.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "immunotoxicity to macrophages",
+        "alteration of cytokine and chemokine secretion",
+        "cell viability inhibition"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BPA) is immunotoxic to macrophages, affecting cell viability and modulating the secretion of various cytokines and chemokines, including increases and decreases in specific cytokines. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "immunotoxicity to macrophages, alteration of cytokine and chemokine secretion, cell viability inhibition"
+  },
+  {
+    "title": "Overview: Polycarbonates via Ring-Opening Polymerization, Differences between Six- and Five-Membered Cyclic Carbonates: Inspiration for Green Alternatives",
+    "doi": "10.3390/polym14102031",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that glycerol carbonate (GC), a five-membered cyclic carbonate derived from renewable glycerol and CO2 fixation, presents a strong alternative to bisphenol A (BPA). It also notes that BPA is listed as a substance of very high concern, implying safety issues. The mention of GC's physical properties and potential for producing new polycarbonates suggests safety advantages, supporting that GC is a safer alternative to BPA.",
+    "alternatives": "glycerol carbonate (GC)",
+    "target_chemical_harm": {
+      "harms": [
+        "listed as a substance of very high concern (SVHC) under the REACH regulation"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BPA) is listed as a substance of very high concern (SVHC) under the REACH regulation, indicating recognized hazards. No other specific harms or hazards are detailed in the reasoning."
+    },
+    "CHEMICAL HARM": "listed as a substance of very high concern (SVHC) under the REACH regulation"
+  },
+  {
+    "title": "Recent advances in bio-based polybenzoxazines as an interesting adhesive coating",
+    "doi": "10.1039/d3ra03514j",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract discusses bio-based benzoxazines as alternatives to petroleum-based benzoxazines, including bisphenol A-based benzoxazine, due to environmental concerns. It highlights bio-based polybenzoxazine's eco-friendly properties such as anticorrosion, affordability, and low water absorption, implying safety advantages. Therefore, bio-based polybenzoxazine is presented as a safer alternative to bisphenol A-based benzoxazine.",
+    "alternatives": "bio-based polybenzoxazine",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the properties and applications of polybenzoxazine resins, including bisphenol A-based benzoxazine, without mentioning toxicity, environmental persistence, bioaccumulation, or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "DNA Methylation Targets Influenced by Bisphenol A and/or Genistein Are Associated with Survival Outcomes in Breast Cancer Patients",
+    "doi": "10.3390/genes8050144",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A (BPA) and genistein (GEN), indicating that GEN counters some carcinogenic alterations caused by BPA and is associated with cancer suppressive properties. This suggests GEN may be a safer alternative to BPA in the context of cancer risk.",
+    "alternatives": "genistein",
+    "target_chemical_harm": {
+      "harms": [
+        "carcinogenic properties",
+        "predisposition to mammary cancer"
+      ],
+      "rationale": "The reasoning text explicitly states that early postnatal exposure to Bisphenol A (BPA) predisposes adult rats to mammary cancer and that BPA has carcinogenic properties, as indicated by alterations in signaling pathways contributing to carcinogenesis."
+    },
+    "CHEMICAL HARM": "carcinogenic properties, predisposition to mammary cancer"
+  },
+  {
+    "title": "Synthesis and curing performance of a novel bio‐based epoxy monomer from soybean oil",
+    "doi": "10.1002/EJLT.201600429",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract presents a novel bio-based epoxy monomer derived from soybean oil used to modify commercial bisphenol-A epoxy oligomer. It highlights environmental advantages such as renewability, potential biodegradability, and overcoming brittleness of bisphenol-A networks. These points indicate a safer alternative to bisphenol A due to improved environmental friendliness and degradability.",
+    "alternatives": "bio-based epoxy monomer derived from soybean oil",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the modification of bisphenol-A epoxy oligomer with bio-based epoxy monomer derived from soybean oil and discusses properties and applications without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Screening of the Antagonistic Activity of Potential Bisphenol A Alternatives toward the Androgen Receptor Using Machine Learning and Molecular Dynamics Simulation.",
+    "doi": "10.1021/acs.est.3c09779",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly mentions lignin-derivable bisguaiacols as alternatives to BPA and states that they are likely to be nonantagonist for the androgen receptor compared to bisphenol analogues, implying a safety advantage in terms of endocrine disruption. This indicates a safer alternative to bisphenol A.",
+    "alternatives": "lignin-derivable bisguaiacols",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine-disrupting effects"
+      ],
+      "rationale": "The reasoning explicitly states that BPA can bind to the androgen receptor (AR), resulting in endocrine-disrupting effects. No other explicit harms or hazards are mentioned."
+    },
+    "CHEMICAL HARM": "endocrine-disrupting effects"
+  },
+  {
+    "title": "Are potential bisphenol-A substitutes really safe for aquatic life? Impact on primary producers",
+    "doi": "10.12714/egejfas.41.3.05",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the toxicity of bisphenol A (BPA) with three analogues (BPB, BADGE, BFDGE) on marine phytoplankton and reports that BPB, BFDGE, and BADGE showed lower toxicity than BPA, indicating safety advantages. This clearly presents these analogues as safer alternatives to BPA in terms of ecotoxicological impact on aquatic primary producers.",
+    "alternatives": "bisphenol B (BPB); bisphenol A diglycidyl ether (BADGE); bisphenol F diglycidyl ether (BFDGE)",
+    "target_chemical_harm": {
+      "harms": [
+        "threat to environmental health",
+        "threat to human health",
+        "toxicity to marine phytoplankton (algal growth inhibition)"
+      ],
+      "rationale": "The text explicitly states that bisphenol A is a threat to environmental and human health and provides toxicity values indicating its harmful effects on marine phytoplankton, demonstrating ecotoxicological harm."
+    },
+    "CHEMICAL HARM": "threat to environmental health, threat to human health, toxicity to marine phytoplankton (algal growth inhibition)"
+  },
+  {
+    "title": "Equol-based epoxy resin as an ideal substitute for the Diglycidyl Ether of Bisphenol A (DGEBA)",
+    "doi": "10.1016/j.polymdegradstab.2024.110856",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the equol-based epoxy resin (EEU-DDS) is an ideal alternative to petroleum-based bisphenol A-type epoxy resin (DGEBA-DDS) and highlights superior properties including mechanical strength, heat resistance, flame retardancy, and lower peak heat and smoke release rates, which indicate safety advantages. These improvements in flame retardancy and reduced smoke release reasonably suggest a safer alternative to bisphenol A-based epoxy resin.",
+    "alternatives": "equol-based epoxy resin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the development and properties of an alternative epoxy resin and compares its performance to bisphenol A-type epoxy resin without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Determination of Endocrine Disruptor Bisphenol-A leakage from Different Matrices of Dental Resin-Based Composite Materials",
+    "doi": "10.2174/1573412917666210525114226",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract mentions that BPA was detected in all resin combinations except below quantification limits in one system, and it concludes by suggesting the use of alternative materials such as high-viscosity glass ionomers, inorganic biomaterials, and ceramic as ideal and healthier options. This implies these alternatives are safer than BPA-containing resins due to health concerns related to BPA leakage.",
+    "alternatives": "high-viscosity glass ionomers; inorganic biomaterials; ceramic",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption"
+      ],
+      "rationale": "The reasoning text explicitly states that BPA leakage can affect adult and child health as an endocrine disruptor."
+    },
+    "CHEMICAL HARM": "endocrine disruption"
+  },
+  {
+    "title": "Condensation reaction using monohydroxymethylated cardanol for cardanol-phenol bisphenol with ultra-low hormone receptor binding affinity.",
+    "doi": "10.1039/d5cc04913j",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the novel bio-based cardanol–phenol bisphenol has hormone receptor binding affinity nearly three orders of magnitude lower than bisphenol A, indicating a significant safety advantage in terms of endocrine disruption potential. This clearly presents the cardanol–phenol bisphenol as a safer alternative to bisphenol A.",
+    "alternatives": "cardanol–phenol bisphenol",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with bisphenol A; it only mentions the hormone receptor binding affinity of a related compound compared to bisphenol A."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Straw Tar Epoxy Resin for Carbon Fiber-Reinforced Plastic: A Review",
+    "doi": "10.3390/polym16172433",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that straw tar-based epoxy resins are recognized as potential alternatives to bisphenol A-based epoxy resins and highlights their role in overcoming problems related to BPA's endocrine disruption and environmental pollution. It also mentions the development of epoxy resins in the direction of non-toxic and harmless characteristics, indicating a safety advantage over BPA.",
+    "alternatives": "straw tar-based epoxy resins",
+    "target_chemical_harm": {
+      "harms": [
+        "affects the human endocrine system",
+        "affects metabolism",
+        "environmentally polluting"
+      ],
+      "rationale": "The text explicitly states that bisphenol A (BPA) affects the human endocrine system and metabolism, and is environmentally polluting."
+    },
+    "CHEMICAL HARM": "affects the human endocrine system, affects metabolism, environmentally polluting"
+  },
+  {
+    "title": "Life history traits of low-toxicity alternative bisphenol S on Daphnia magna with short breeding cycles: A multigenerational study.",
+    "doi": "10.1016/j.ecoenv.2023.114682",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract states that bisphenol S (BPS) has become an alternative to bisphenol A due to its relatively lower toxicity, explicitly indicating a safety advantage. However, the study also reveals adverse multigenerational effects of BPS on Daphnia magna, but it does not negate the initial claim of BPS being a lower-toxicity alternative. Therefore, BPS is presented as a safer alternative to bisphenol A.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the toxicity and ecological impact of bisphenol S (BPS), not bisphenol A. No explicit harms or hazards are stated for bisphenol A."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Cerium–Bismuth Oxides/Oxynitrates with Low Toxicity for the Removal and Degradation of Organophosphates and Bisphenols",
+    "doi": "10.1021/acsanm.2c03926",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract presents Bi-doped ceria (cerium–bismuth oxides/oxynitrates) as a material that effectively adsorbs and photodegrades bisphenol A and S, with very low toxicity demonstrated in various biological tests. It highlights the low toxicity and green synthesis of Bi-nanoceria, suggesting safety advantages compared to bisphenol A itself, which is known as a toxic endocrine disruptor. Therefore, Bi-doped ceria can be reasonably interpreted as a safer alternative in the context of removing and degrading bisphenol A.",
+    "alternatives": "Bi-doped ceria; cerium–bismuth oxides/oxynitrates; Bi-nanoceria",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with bisphenol A. It only mentions that Bi-doped ceria can adsorb and photodegrade bisphenol A, which is described as an endocrine disruptor, but no direct harms or hazards of bisphenol A itself are detailed."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Development of Eco‐Friendly Thermosetting Resins From Zein and Diglycidyl Ether of Vanillyl Alcohol. A Step Toward Sustainable Materials",
+    "doi": "10.1002/chem.202500624",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the diglycidyl ether of vanillyl alcohol (DGEVA) is a biobased epoxy monomer serving as a sustainable alternative to petrochemical epoxides, and it is bisphenol A-free. This indicates a safer alternative to bisphenol A by avoiding its use and employing renewable, environmentally friendly materials.",
+    "alternatives": "diglycidyl ether of vanillyl alcohol (DGEVA)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the development of bisphenol A-free, biobased thermosets and their properties without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "New Epoxy Thermosets Derived from a Bisimidazolium Ionic Liquid Monomer: An Experimental and Modeling Investigation",
+    "doi": "10.1021/acssuschemeng.0c03832",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the novel polymerizable ionic liquid monomer (ILM) based on a bisimidazolium salt was synthesized to substitute bisphenol A diglycidyl ether (DGEBA) as a starting material, avoiding the use of highly toxic bisphenol A. This indicates a safety advantage by avoiding a highly toxic substance, thus presenting the ILM as a safer alternative to bisphenol A.",
+    "alternatives": "bisimidazolium ionic liquid monomer (ILM)",
+    "target_chemical_harm": {
+      "harms": [
+        "highly toxic Bis-imidazolium",
+        "carcinogenic bisphenol A"
+      ],
+      "rationale": "The reasoning text explicitly states that bisphenol A is carcinogenic and is grouped with highly toxic substances, indicating its harmful nature."
+    },
+    "CHEMICAL HARM": "highly toxic Bis-imidazolium, carcinogenic bisphenol A"
+  },
+  {
+    "title": "Zinc Polyaleuritate Ionomer Coatings as a Sustainable, Alternative Technology for Bisphenol A-Free Metal Packaging",
+    "doi": "10.1021/acssuschemeng.1c04815",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract presents zinc polyaleuritate ionomer coatings as biobased lacquers with mechanical properties and wettability better than bisphenol A-based resins, and highlights their low migration values and antibacterial properties. It explicitly refers to these coatings as potential materials for bisphenol A-free metal packaging, implying a safer alternative due to the biobased nature and improved properties.",
+    "alternatives": "zinc polyaleuritate ionomer coatings",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only compares the new coatings to bisphenol A-based resins, mentioning better mechanical properties, wettability, and low migration values, but does not specify any toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards associated with bisphenol A."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Intrinsically Noncombustible Thermosets from Sulfur-Containing Epoxy Resin and Benzoxazines: Evaluation of Thermal and Mechanical Properties",
+    "doi": "10.1155/2023/1686001",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that the new sulfur-containing epoxy resin (EPS) was synthesized using 4,4’-thiobisphenol (TBP) instead of bisphenol A (BA). It highlights improved flame retardancy and thermal properties of the TBP-based copolymers compared to BA-based ones, indicating safety advantages related to flame retardancy. This suggests that TBP-based EPS is presented as a safer alternative to bisphenol A.",
+    "alternatives": "4,4’-thiobisphenol (TBP)",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It focuses on the synthesis and properties of sulfur-containing epoxy resins compared to bisphenol A-based ones, without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Toward the Manufacturing of a Non-Toxic High-Performance Biobased Epoxy–Hemp Fibre Composite",
+    "doi": "10.3390/polym16142010",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that BioIgenox, a biobased epoxy resin, does not have endocrine disrupting activities unlike BPA, a precursor of the commonly used DGEBA epoxy resin. This indicates a clear safety advantage of BioIgenox over bisphenol A, presenting it as a safer alternative.",
+    "alternatives": "BioIgenox",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text explicitly states that BioIgenox and its precursor do not have endocrine disrupting activities, unlike BPA. No other explicit harms or hazards related to bisphenol A are mentioned in the text."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Cytotoxicity measurement of Bisphenol A (BPA) and its substitutes using human keratinocytes",
+    "doi": "10.1016/j.envres.2018.03.043",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly compares the cytotoxicity of BPA and its substitutes, stating that the substitutes are significantly less toxic than BPA. It identifies 1,4-cyclohexanedimethanol (CHDM) and terephthalic acid (TPA) as the least toxic and most suitable substitutes, indicating a safety advantage over BPA.",
+    "alternatives": "1,4-cyclohexanedimethanol (CHDM); terephthalic acid (TPA)",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption",
+        "toxicity to human health",
+        "cytotoxicity inducing apoptosis in human keratinocytes",
+        "DNA damage"
+      ],
+      "rationale": "The reasoning explicitly states that BPA acts as an endocrine disruptor, is toxic to human health, induces cytotoxicity leading to apoptosis in human keratinocytes, and increases activation of DNA-damage marker protein."
+    },
+    "CHEMICAL HARM": "endocrine disruption, toxicity to human health, cytotoxicity inducing apoptosis in human keratinocytes, DNA damage"
+  },
+  {
+    "title": "BPA-free high-performance sustainable polycarbonates derived from non-estrogenic bio-based phenols",
+    "doi": "10.1039/d1gc01500a",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract states that several bio-based bisphenols were found to be non-estrogenic, implying a safety advantage over bisphenol A, which is known for estrogenic activity. It also mentions that polycarbonates derived from these bio-based bisphenols have comparable thermal properties to petroleum-derived thermoplastics, suggesting these bio-based bisphenols are safer alternatives to bisphenol A.",
+    "alternatives": "bio-based bisphenols",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A; it only mentions that several bio-based bisphenols were found to be non-estrogenic and that polycarbonates derived from these compounds have comparable thermal properties."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Comparative cardiotoxicity assessment of bisphenol chemicals and estradiol using human induced pluripotent stem cell-derived cardiomyocytes",
+    "doi": "10.1101/2023.09.13.557564",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the cardiotoxic effects of BPA, BPF, BPS, and estradiol, noting that BPS was the least potent disruptor of cardiomyocyte function and that cardiomyocyte physiology was largely undisturbed by BPS exposure. This suggests BPS has a safety advantage over BPA in terms of cardiotoxicity, indicating BPS as a safer alternative to BPA.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "cardiac electrophysiology perturbation",
+        "decrease in depolarizing spike amplitude",
+        "shorter field potential duration",
+        "shorter action potential duration",
+        "shorter calcium transient duration",
+        "decrease in cardiomyocyte contractility"
+      ],
+      "rationale": "The reasoning text explicitly states that bisphenol A (BPA) exposure at higher micromolar concentrations results in multiple adverse effects on cardiac parameters in human induced pluripotent stem cell-derived cardiomyocytes, including perturbation of cardiac electrophysiology and decreased contractility."
+    },
+    "CHEMICAL HARM": "cardiac electrophysiology perturbation, decrease in depolarizing spike amplitude, shorter field potential duration, shorter action potential duration, shorter calcium transient duration, decrease in cardiomyocyte contractility"
+  },
+  {
+    "title": "Interactions of three bisphenol analogues with hemoglobin investigated by spectroscopy and molecular docking",
+    "doi": "10.1002/jmr.2758",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that BPB could be used as a better substitute for bisphenol A, implying it has safety advantages. It also suggests controlling the concentration of BPF and BPS for safe use, indicating BPB is considered safer in comparison.",
+    "alternatives": "bisphenol BPB",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses the toxicity mechanisms of bisphenol analogues BPF, BPS, and BPB, but does not explicitly state any harms or hazards related to bisphenol A."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Evaluation of single and combined toxicity of bisphenol A and its analogues using a highly-sensitive micro-biosensor.",
+    "doi": "10.1016/j.jhazmat.2019.120908",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares the cytotoxicity of bisphenol A (BPA) and its analogues, showing that bisphenol F (BPF) and bisphenol S (BPS) have lower cytotoxicity (IC50 rank order: BPAF > BPB > BPA > BPF > BPS). This indicates that BPF and BPS are safer alternatives to BPA in terms of cytotoxicity.",
+    "alternatives": "bisphenol F (BPF); bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "cytotoxicity"
+      ],
+      "rationale": "The reasoning text explicitly states that bisphenol A (BPA) exhibits cytotoxicity to Ctenopharyngodon idella kidney (CIK) cells, as indicated by the half inhibition concentration (IC50) values and observed morphological changes in cells after BPA treatment."
+    },
+    "CHEMICAL HARM": "cytotoxicity"
+  },
+  {
+    "title": "Assessing the environmental sustainability of light emitting diodes and conventional blacklight lamps for the treatment of bisphenol-A in water",
+    "doi": "10.1016/j.eiar.2022.106886",
+    "year": 2022,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares UV-LED/TiO2 and UV-BL/TiO2 methods for removing bisphenol-A from water, finding that UV-LED/TiO2 has a 61% lower environmental footprint than UV-BL/TiO2. It also identifies solar photocatalysis as even more environmentally sustainable. These findings indicate that UV-LED/TiO2 and solar photocatalysis are safer alternatives to conventional UV-BL lamps in the context of bisphenol A treatment.",
+    "alternatives": "UV-LED/TiO2; solar photocatalysis",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text discusses environmental impacts and treatment methods for bisphenol A removal but does not explicitly state any harms or hazards related to bisphenol A itself."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Estrogenic activity research of a novel fluorinated bisphenol and preparation of an epoxy resin as alternative to bisphenol A epoxy resin",
+    "doi": "10.1016/J.EURPOLYMJ.2018.09.020",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract presents BTFMEP, a fluorinated epoxy resin derived from BTFMHQ, which has low estrogenic activity and is compared to the commercial bisphenol A-based epoxy resin (DGEBA). It highlights improved properties such as lower dielectric properties and good dimensional stability, and explicitly states BTFMEP as an alternative to DGEBA. The mention of low estrogenic activity suggests a safety advantage over bisphenol A.",
+    "alternatives": "BTFMEP",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only compares properties of a novel epoxy resin with the commercial epoxy resin diglycidyl ether of bisphenol A (DGEBA) without mentioning toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Zeolites as sustainable catalysts for the selective synthesis of renewable bisphenols from lignin-derived monomers.",
+    "doi": "10.1002/cssc.201700338",
+    "year": 2017,
+    "target": "bisphenol A",
+    "reasoning": "The abstract states that alternative biobased bisphenols from lignocellulosic biomass can be beneficial for health issues related to bisphenol A (BPA), implying a safety advantage. It also presents zeolite-catalyzed synthesis of renewable bisphenols as a method to produce these alternatives. This indicates a safer alternative to BPA is proposed.",
+    "alternatives": "biobased bisphenols",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only mentions health issues related to BPA in a general sense without specifying any particular toxicity, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Bisphenol S is a haemodialysis-associated xenobiotic that is less toxic than bisphenol A",
+    "doi": "10.1093/ckj/sfaa071",
+    "year": 2020,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol S (BPS) to bisphenol A (BPA) and reports that BPS concentrations are lower than BPA concentrations in patients and that no BPS toxicity was observed at concentrations found in patient plasma, whereas BPA was toxic at concentrations ≥100 µM. This indicates that BPS is less toxic than BPA and can be interpreted as a safer alternative.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "toxicity at concentrations ≥100 µM"
+      ],
+      "rationale": "The text states that BPA levels were 35-fold higher in patients compared to healthy subjects and that BPA was toxic at concentrations ≥100 µM in cultured tubular cells. No other explicit harms or hazards for BPA are mentioned."
+    },
+    "CHEMICAL HARM": "toxicity at concentrations ≥100 µM"
+  },
+  {
+    "title": "The Effects of Low-Dose Bisphenol A and Bisphenol F on Neural Differentiation of a Fetal Brain-Derived Neural Progenitor Cell Line",
+    "doi": "10.3389/fendo.2018.00024",
+    "year": 2018,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A (BPA) and bisphenol F (BPF) in terms of their effects on neural differentiation. It reports that BPA decreases β III-tubulin mRNA levels and the number of β III-tubulin-positive cells, indicating disruption, whereas BPF does not cause these changes. This suggests BPF may be safer than BPA regarding neural differentiation effects, implying BPF as a safer alternative.",
+    "alternatives": "bisphenol F",
+    "target_chemical_harm": {
+      "harms": [
+        "endocrine disruption",
+        "disruption of brain function",
+        "disruption of neural differentiation affecting brain development"
+      ],
+      "rationale": "The reasoning text explicitly states that bisphenol A (BPA) is a xenoestrogen that disrupts the endocrine system and has adverse effects on brain function, particularly by disrupting neural differentiation in human-derived neural progenitor cells, which can potentially affect brain development."
+    },
+    "CHEMICAL HARM": "endocrine disruption, disruption of brain function, disruption of neural differentiation affecting brain development"
+  },
+  {
+    "title": "Phenolic Hydroxyl‐Activated Lignin for Preparation of Extreme Environments Adaptive Adhesives",
+    "doi": "10.1002/app.56728",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that lignin exhibits enormous potential as an alternate for the health-risk compound bisphenol A in epoxy resin adhesives, implying a safer alternative. It highlights the use of lignin activated by a green deep eutectic solvent to prepare epoxy resins with good mechanical properties, suggesting a safety advantage over bisphenol A.",
+    "alternatives": "lignin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions bisphenol A as a health-risk compound but does not explicitly state any specific harms or hazards associated with it."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Synthesis and Characterization of Eco‐Friendly Epoxy Resins and Novel Fillers for Enhanced Corrosion Protection of Mild Steel",
+    "doi": "10.1002/pat.70027",
+    "year": 2024,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that bio-based epoxies using resorcinol and isosorbide, combined with novel fillers, offer an environmentally friendly, high-performance alternative to petroleum-based BPA epoxies. It highlights superior properties and eco-friendliness, indicating a safer alternative to bisphenol A.",
+    "alternatives": "resorcinol; isosorbide",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions that the use of bisphenol A (BPA)-based epoxies has been linked to environmental and health concerns, but it does not explicitly state any specific harms or hazards such as toxicity types, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Bisphenol S Reduces Pig Spermatozoa Motility through Different Intracellular Pathways and Mechanisms than Its Analog Bisphenol A",
+    "doi": "10.3390/ijms24119598",
+    "year": 2023,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol S (BPS) to bisphenol A (BPA) and notes that BPS exerts a lower and slower negative effect on pig sperm motility than BPA. It also states that BPA causes decreases in sperm viability and mitochondrial membrane potential, while BPS does not affect these parameters. These differences indicate that BPS has a safer profile regarding sperm toxicity compared to BPA, suggesting BPS as a safer alternative.",
+    "alternatives": "bisphenol S (BPS)",
+    "target_chemical_harm": {
+      "harms": [
+        "reduction in sperm motility",
+        "decrease in sperm viability",
+        "decrease in mitochondrial membrane potential",
+        "increase in cell reactive oxygen species",
+        "increase in mitochondrial reactive species",
+        "inhibition of GSK3β phosphorylation",
+        "inhibition of PKA phosphorylation"
+      ],
+      "rationale": "The reasoning explicitly states that BPA at 100 μM reduces pig sperm motility, decreases sperm viability and mitochondrial membrane potential, increases cell and mitochondrial reactive oxygen species, and inhibits phosphorylation of GSK3β and PKA substrates, indicating multiple intracellular harms related to sperm function."
+    },
+    "CHEMICAL HARM": "reduction in sperm motility, decrease in sperm viability, decrease in mitochondrial membrane potential, increase in cell reactive oxygen species, increase in mitochondrial reactive species, inhibition of GSK3β phosphorylation, inhibition of PKA phosphorylation"
+  },
+  {
+    "title": "Optimización de la calidad del producto mediante la mejora del proceso de envasado en una empresa de leche envasada",
+    "doi": "10.15381/idata.v28i1.26727",
+    "year": 2025,
+    "target": "bisphenol A",
+    "reasoning": "The abstract describes replacing a BPA-containing varnish with BPA-free varnishes from potential suppliers, aiming to eliminate BPA due to its impact on consumers. It highlights choosing a BPA-free varnish that preserves product properties without detectable negative effects, implying a safer alternative to BPA-containing varnish.",
+    "alternatives": "BPA-free varnishes",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text mentions that bisphenol A (BPA) directly impacts final consumers, but it does not explicitly state any specific harms or hazards such as toxicity types, endocrine disruption, persistence, bioaccumulation, or occupational hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Choosing the Right Lignin to Fully Replace Bisphenol A in Epoxy Resin Formulation",
+    "doi": "10.1002/cssc.202002729",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract explicitly states that lignin samples were used to entirely replace bisphenol A (BPA) in epoxy resin formulations and refers to BPA as toxic, implying a safety concern. It highlights that lignins with certain properties are suitable for replacing 100% of toxic BPA, suggesting a safer alternative. Therefore, epoxidized lignin is presented as a safer alternative to BPA.",
+    "alternatives": "epoxidized lignin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards associated with bisphenol A (BPA). It only refers to BPA as 'toxic' in the context of being replaced by lignin in epoxy resin formulations, but does not specify the types of toxicity or other hazards."
+    },
+    "CHEMICAL HARM": ""
+  },
+  {
+    "title": "Study on the electrical properties of itaconic acid-based epoxy resin",
+    "doi": "10.1088/1742-6596/1986/1/012007",
+    "year": 2021,
+    "target": "bisphenol A",
+    "reasoning": "The abstract compares bisphenol A epoxy resin (DGEBA) with itaconic acid-based epoxy resin (EIA) and suggests that EIA has the potential to replace DGEBA. It highlights that using bio-based epoxy resin reduces environmental pollution and petroleum resource consumption, implying a safety and environmental advantage over bisphenol A resin.",
+    "alternatives": "itaconic acid-based epoxy resin",
+    "target_chemical_harm": {
+      "harms": [],
+      "rationale": "The reasoning text does not explicitly state any harms or hazards related to bisphenol A. It only discusses the use of bisphenol A epoxy resin and compares it to a bio-based alternative in terms of electrical performance and environmental pollution reduction."
+    },
+    "CHEMICAL HARM": ""
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "ethylbenzene": {
+    "step01": true,
+    "step02": true,
+    "step03": true,
+    "step04": true
+  },
+  "Benzoyl chloride, dichloro-": {
+    "step01": true,
+    "step02": true,
+    "step03": false
+  },
+  "Butyl D-glucoside": {
+    "step01": true,
+    "step02": true,
+    "step03": false
+  },
+  "substitutes": {
+    "step01": true,
+    "step02": true,
+    "step03": true,
+    "step04": true
+  }
+}
