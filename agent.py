@@ -348,6 +348,20 @@ MAX_HISTORY_TURNS = 1
 initial_history_len = len(few_shot_examples)
 @app.route('/', methods=['POST', 'GET'])
 def chat():
+    try:
+        print("正在檢查法規更新...")
+        
+        # cwd=確保腳本是在 Greenchem-aide 目錄下執行
+        subprocess.run(
+            [sys.executable, "check_and_update.py"], 
+            check=True, 
+            cwd=os.path.dirname(os.path.abspath(__file__))+"/scrapers"
+        )
+        print("scrapers 法規更新執行完畢。")    
+    except subprocess.CalledProcessError as e:
+        return {"error": f"執行 scarpers/check_and_update.py 失敗: {str(e)}"}
+    except Exception as e:
+        return {"error": f"scrapers執行過程發生未知錯誤: {str(e)}"}
     cache_path=r"D:\User\Adison\desktop\GreenChem-Aide\cache_for_quick_search"
     cache_filelist=os.listdir(cache_path)
     print("\nChatbot with Few-Shot Learning is ready! Type 'exit' to quit.\n")

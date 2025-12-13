@@ -162,9 +162,11 @@ def main():
     print("="*60)
     print("檢查法規資料是否需要更新")
     print("="*60 + "\n")
-    
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))          # scrapers/
+    PROJECT_ROOT = os.path.dirname(BASE_DIR)                       # GreenChem-Aide/
+    request_file = os.path.join(PROJECT_ROOT, "deep_research", "request.json")
     # 1. 讀取 request.json 中的時間
-    request_time = load_request_time()
+    request_time = load_request_time(request_file=request_file)
     
     # 2. 檢查 by_slug 目錄是否有一個月內的資料
     has_recent_data = check_by_slug_data(request_time)
@@ -172,6 +174,28 @@ def main():
     # 3. 若沒有一個月內的資料，則執行 regwatch.py
     if not has_recent_data:
         run_regwatch()
+        # 執行ConverJsonToJson.py來讓graphrag更新
+        BASE_DIR = os.path.dirname(os.path.abspath(__file__))     # scrapers/
+        PROJECT_ROOT = os.path.dirname(BASE_DIR)                  # GreenChem-Aide/
+        RAG_ROOT = os.path.join(PROJECT_ROOT, "ragtest")          # ragtest/
+        script_path = os.path.join(PROJECT_ROOT, "ConvertJsonlToJson.py")
+        print("執行 ConvertJsonlToJson.py 來合併Json檔...")
+        subprocess.run([sys.executable, script_path],cwd=PROJECT_ROOT,check=True)
+        # === 執行 graphrag index(這邊還需要進一步修正找找看graphrag更新更快的方法) ===
+        print("執行 GraphRAG index 更新...")
+        #subprocess.run(
+        #    [
+        #        sys.executable,
+        #        "-m",
+        #        "graphrag",
+        #        "index",
+        #        "--root",
+        #        RAG_ROOT
+        #    ],
+        #    cwd=PROJECT_ROOT,     # 等同於 cd 到 ragtest 的上一層
+        #    check=True
+        #)
+        print("✅ GraphRAG index 更新完成")
     else:
         print("\n[*] 無需更新，資料已是最新")
 
