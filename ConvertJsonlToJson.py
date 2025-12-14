@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 
-INVALID_MARKER = "No data retrieved from website or local files"
+INVALID_MARKER = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 
 def file_contains_invalid_data(file_path):
@@ -98,7 +98,7 @@ def merge_latest_json_files(input_dir):
 
 if __name__ == "__main__":
     BASE_DIR = os.path.abspath(os.path.dirname(__file__))
-    INPUT_DIR = os.path.join(BASE_DIR, "scrapers", "outputs", "by_slug")
+    INPUT_DIR = os.path.join(BASE_DIR, "check_and_update", "outputs", "by_slug")
     OUTPUT_DIR = os.path.join(BASE_DIR, "ragtest", "input")
     merged_data, files_used = merge_latest_json_files(INPUT_DIR)
     print("來源檔案：")

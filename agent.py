@@ -14,6 +14,7 @@ import csv
 import subprocess
 from flask import Flask
 from flask import request, jsonify
+from openai import OpenAI
 #-----------------------------------------------APIKEY------------------------------------------------#
 if not os.environ.get("TAVILY_API_KEY"):
     os.environ["TAVILY_API_KEY"] = getpass.getpass("Enter TAVILY API key: ")
@@ -355,13 +356,13 @@ def chat():
         subprocess.run(
             [sys.executable, "check_and_update.py"], 
             check=True, 
-            cwd=os.path.dirname(os.path.abspath(__file__))+"/scrapers"
+            cwd=os.path.dirname(os.path.abspath(__file__))+"/check_and_update"
         )
         print("scrapers 法規更新執行完畢。")    
     except subprocess.CalledProcessError as e:
-        return {"error": f"執行 scarpers/check_and_update.py 失敗: {str(e)}"}
+        return {"error": f"執行 check_and_update/check_and_update.py 失敗: {str(e)}"}
     except Exception as e:
-        return {"error": f"scrapers執行過程發生未知錯誤: {str(e)}"}
+        return {"error": f"check_and_update執行過程發生未知錯誤: {str(e)}"}
     cache_path=r"D:\User\Adison\desktop\GreenChem-Aide\cache_for_quick_search"
     cache_filelist=os.listdir(cache_path)
     print("\nChatbot with Few-Shot Learning is ready! Type 'exit' to quit.\n")
@@ -370,71 +371,144 @@ def chat():
     data_from_client = request.get_json(force=True)
     if not data_from_client:
         return jsonify({"error": "未收到 JSON 資料"}), 400
-    print(f"\n[Server] 收到客戶端資料: {data_from_client}")
-    user_input = json.dumps(data_from_client, ensure_ascii=False)
-    input_message = {"role": "user", "content": user_input}
-    cache_message = data_from_client['target']
-    for filename in cache_filelist:
-        if filename.endswith(f'{cache_message}.json'):
-            file_path = os.path.join(cache_path, filename)
-            if os.path.getsize(file_path) == 0: 
-                print(f"[Cache Miss] 快取檔案為空: {filename}")
-                break # 檔案為空，繼續找下一個
-            #=== 避免空的內容 ===
+    if isinstance(data_from_client, list):
+        # 確保 List 不為空，否則給空字典
+        payload = data_from_client[0] if data_from_client else {}
+    else:
+        # 如果原本就是 Dict (物件)，直接使用
+        payload = data_from_client if data_from_client else {}
+    request_type = payload.get("request_type", "chatbot")#預設為 chatbot避免舊 client 沒送這個欄位直接炸掉
+    if request_type == "chatbot":
+        print(f"\n[Server] 收到客戶端資料: {data_from_client}")
+        user_input = json.dumps(data_from_client, ensure_ascii=False)
+        input_message = {"role": "user", "content": user_input}
+        cache_message = data_from_client['target']
+        for filename in cache_filelist:
+            if filename.endswith(f'{cache_message}.json'):
+                file_path = os.path.join(cache_path, filename)
+                if os.path.getsize(file_path) == 0: 
+                    print(f"[Cache Miss] 快取檔案為空: {filename}")
+                    break # 檔案為空，繼續找下一個
+                #=== 避免空的內容 ===
+                else:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        cached_response = json.load(f)
+                    print(f"[Cache Hit] 找到快取資料: {filename}")
+                    return jsonify({
+                        "status": "success",
+                        "response": cached_response,
+                    })
             else:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    cached_response = json.load(f)
-                print(f"[Cache Hit] 找到快取資料: {filename}")
-                return jsonify({
-                    "status": "success",
-                    "response": cached_response,
-                })
-        else:
-            print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
-    chat_history.append(input_message)
-    history_for_agent = chat_history.copy()
-    current_history_len = len(chat_history)
-    print(f"current_history_len : {current_history_len}")
-        # 如果總長度超過了「few-shot 範例數」+「最大歷史輪數」
-    if current_history_len > initial_history_len + MAX_HISTORY_TURNS: 
-        start_index = current_history_len - MAX_HISTORY_TURNS
-        # 重新構建 history_for_agent： few_shot_examples + 最新的對話輪
-        history_for_agent = few_shot_examples.copy() + chat_history[start_index:]
-        print(f"重新構建對話歷史以符合最大輪數限制 : {history_for_agent}")
-    print("AI: ", end="", flush=True)
-    final_ai_message = None
-    try:
-        # 使用流式處理來逐步檢查輸出
-        for step in agent_executor.stream({"messages": history_for_agent}, stream_mode="values"):
-            msg = step["messages"][-1]
-            final_ai_message = msg  # 保存最後的 AI 訊息
-                
-            # 檢查是否有 tool_calls 屬性，這表示 Agent 決定呼叫工具
-            if hasattr(msg, "tool_calls") and msg.tool_calls:
-                # 輸出 Agent 決策的 JSON
-                print("\n\n--- AGENT 呼叫工具 JSON ---")
-                # 使用簡單的輸出方式來顯示工具呼叫的結構
-                for call in msg.tool_calls:
-                    tool_name = call.get('name') if isinstance(call, dict) else getattr(call, 'name', 'N/A')
-                    tool_args = call.get('args') if isinstance(call, dict) else getattr(call, 'args', 'N/A')
-                    print(f"Tool Name: {tool_name}")
-                    print(f"Tool Args: {tool_args}")
-                print("---------------------------\n")
-                
-            # 正常輸出 AI 的文字內容 (包含思考邏輯或最終答案)
-            if hasattr(msg, "content"):
-                content = msg.content
-                print(content, end="", flush=True)
-                ai_response_content = content
-        print("\n")
-        return jsonify({
-            "status": "success",
-            "response": ai_response_content,
-            # 如果需要回傳工具呼叫細節也可以放在這
-        })       
-    except Exception as e:
-        print(f"\n[Error] {e}\n")
-        chat_history.pop()
+                print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
+        chat_history.append(input_message)
+        history_for_agent = chat_history.copy()
+        current_history_len = len(chat_history)
+        print(f"current_history_len : {current_history_len}")
+            # 如果總長度超過了「few-shot 範例數」+「最大歷史輪數」
+        if current_history_len > initial_history_len + MAX_HISTORY_TURNS: 
+            start_index = current_history_len - MAX_HISTORY_TURNS
+            # 重新構建 history_for_agent： few_shot_examples + 最新的對話輪
+            history_for_agent = few_shot_examples.copy() + chat_history[start_index:]
+            print(f"重新構建對話歷史以符合最大輪數限制 : {history_for_agent}")
+        print("AI: ", end="", flush=True)
+        final_ai_message = None
+        try:
+            # 使用流式處理來逐步檢查輸出
+            for step in agent_executor.stream({"messages": history_for_agent}, stream_mode="values"):
+                msg = step["messages"][-1]
+                final_ai_message = msg  # 保存最後的 AI 訊息
+                    
+                # 檢查是否有 tool_calls 屬性，這表示 Agent 決定呼叫工具
+                if hasattr(msg, "tool_calls") and msg.tool_calls:
+                    # 輸出 Agent 決策的 JSON
+                    print("\n\n--- AGENT 呼叫工具 JSON ---")
+                    # 使用簡單的輸出方式來顯示工具呼叫的結構
+                    for call in msg.tool_calls:
+                        tool_name = call.get('name') if isinstance(call, dict) else getattr(call, 'name', 'N/A')
+                        tool_args = call.get('args') if isinstance(call, dict) else getattr(call, 'args', 'N/A')
+                        print(f"Tool Name: {tool_name}")
+                        print(f"Tool Args: {tool_args}")
+                    print("---------------------------\n")
+                    
+                # 正常輸出 AI 的文字內容 (包含思考邏輯或最終答案)
+                if hasattr(msg, "content"):
+                    content = msg.content
+                    print(content, end="", flush=True)
+                    ai_response_content = content
+            print("\n")
+            return jsonify({
+                "status": "success",
+                "response": ai_response_content,
+                # 如果需要回傳工具呼叫細節也可以放在這
+            })
+        except Exception as e:
+            print(f"\n[Error] {e}\n")
+        chat_history.pop()  
+    elif request_type == "lookup":
+        try:
+            cache_message = data_from_client['target']
+            for filename in cache_filelist:
+                if filename.endswith(f'{cache_message}.json'):
+                    file_path = os.path.join(cache_path, filename)
+                    if os.path.getsize(file_path) == 0: 
+                        print(f"[Cache Miss] 快取檔案為空: {filename}")
+                        break # 檔案為空，繼續找下一個
+                    #=== 避免空的內容 ===
+                    else:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            cached_response = json.load(f)
+                        print(f"[Cache Hit] 找到快取資料: {filename}")
+                        raw_text = cached_response
+                else:
+                    print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
+            client = OpenAI() # Automatically reads OPENAI_API_KEY
+            completion = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[  # 修正 2: 必須使用 messages 格式
+                    {"role": "system", "content":f"""
+        請分析以下的文本，並提取出所有提到的「化學替代品」。
+
+            請嚴格遵守以下規則進行輸出：
+            1. **格式限制**：只回傳一個純 JSON 字串 (Array of Objects)，且該 Array 中**必須只包含一個物件 (Single Object)**。
+            2. **禁止 Markdown**：不要使用 ```json 或其他標記。
+            3. **資料聚合 (Aggregation)**：
+            - 請找出文本中「所有」提到的化學替代品。
+            - 不要為每個化學品建立單獨的物件。
+            - 請將所有化學品的資訊合併在同一個欄位中，並使用全形頓號「、」作為分隔符號。
+            - 順序必須對應：第一個 Name 對應第一個 Info，以此類推。
+
+            4. **JSON 欄位定義**：
+            - "name": 所有化學品名稱的集合字串 (用「、」分隔)
+            - "Introduction": 所有化合物簡介的集合字串 (用「、」分隔，若無則填 "N/A")
+            - "info": 所有替代理由摘要的集合字串 (用「、」分隔)
+            - "doi": 所有資料來源或 DOI 的集合字串 (用「、」分隔，若無則填 "N/A")
+
+            5. **範例格式 (請完全參照此結構，但使用雙引號)**：
+            [
+                "name": "1,4-二氧烷（1,4-Dioxane）、乙烯醇（Ethylene Glycol）、1-丁基-3-甲基咪唑鎧化物",
+                "Introduction": "毒性較低且安全性高、工業氨化製備中更為安全、有助於解決環境風險",
+                "info": "具備更好安全性、適合工業使用、可回收且低毒性",
+                "doi": "Exploring Solvent Effects (2020)、Green Catalytic Synthesis (2024)、Rapid removal of detergent (2022)"
+            ]
+        {raw_text}
+        """}]
+        )
+        # 修正 3: 正確提取內容
+            content = completion.choices[0].message.content
+            
+        # 修正 4: 移除可能存在的 Markdown 標記以免 json.loads 失敗
+            content = content.replace("```json", "").replace("```", "").strip()
+            
+            parsed_json = json.loads(content)
+            return jsonify({
+                "status": "success",
+                "response": parsed_json
+            })
+        except Exception as e:
+            return []
+    else:
+        return jsonify({"error": "請回傳正確的request_type"}), 400
+    
 if __name__ == "__main__":
     # 啟動伺服器
     app.run(host="0.0.0.0", port=5000, debug=True)

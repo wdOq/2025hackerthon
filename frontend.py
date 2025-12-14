@@ -6,8 +6,9 @@ url = "https://jerlene-transmeridional-unrecognisably.ngrok-free.dev"
 
 # 模擬您原本 input_data.json 裡的內容
 payload = {
- "query": "what are some chemically similar substitutes for Butyl D-glucoside along with detailed legal regulations for every country?",
- "target": "Butyl D-glucoside",
+ "request_type": "lookup",
+ "query": "what are some chemically similar substitutes for 1,2-dichloroethane along with detailed legal regulations for every country?",
+ "target": "1,2-dichloroethane",
  "substitution": "",
  "market": "global",
  "industry": "manufacturing",

@@ -1,0 +1,3237 @@
+{
+  "source_dataset": "tw_inventory",
+  "fetched_time": "2025-12-14T04:23:26.930570+08:00",
+  "records": [
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "1336-36-3等",
+      "chinese_name": "多氯聯苯",
+      "english_name": "Polychlorinated biphenyls",
+      "control_measures": "禁止製造、輸入、販賣，並全面禁止使用。但中華民國六十九年六月至七十一年十二月間產製之電容器因使用中無法檢驗者准繼續使用至報廢；及研究、試驗、教育用多氯聯苯，不在此限。",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": "89-12-20"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "57-74-9",
+      "chinese_name": "可氯丹",
+      "english_name": "Chlordane",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "1332-21-4",
+      "chinese_name": "石綿",
+      "english_name": "Asbestos",
+      "control_measures": "禁止製造、輸入、販賣及使用青石綿(Crocidolite)、褐石綿(Amosite)、角閃石石綿(Anthophyllite)、陽起石石綿(Actinolite)、透閃石石綿(Tremolite)及溫石綿(Chrysotile)。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "60-57-1",
+      "chinese_name": "地特靈",
+      "english_name": "Dieldrin",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "50-29-3",
+      "chinese_name": "滴滴涕",
+      "english_name": "4,4-Dichlorodiphenyl-trichloroethane(DDT)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "8001-35-2",
+      "chinese_name": "毒殺芬",
+      "english_name": "Toxaphene",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "87-86-5",
+      "chinese_name": "五氯酚",
+      "english_name": "Pentachlorophenol",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "3772-94-9",
+      "chinese_name": "月桂酸五氯苯酯",
+      "english_name": "Pentachlorophenyl laurate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "131-52-2",
+      "chinese_name": "五氯酚鈉",
+      "english_name": "Sodium pentachlorophenate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "22967-92-6",
+      "chinese_name": "甲基汞",
+      "english_name": "Methylmercury",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "72-20-8",
+      "chinese_name": "安特靈",
+      "english_name": "Endrin",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "76-44-8",
+      "chinese_name": "飛佈達",
+      "english_name": "Heptachlor",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "319-84-6, 319-85-7, 319-86-8, 6108-10-7",
+      "chinese_name": "蟲必死",
+      "english_name": "Hexachlorocyclohexane",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "309-00-2",
+      "chinese_name": "阿特靈",
+      "english_name": "Aldrin",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "3",
+      "chinese_name": "96-12-8",
+      "english_name": "二溴氯丙烷",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "21609-90-5",
+      "chinese_name": "福賜松",
+      "english_name": "Leptophos",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "510-15-6",
+      "chinese_name": "克氯苯",
+      "english_name": "Chlorobenzilate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "1836-75-5",
+      "chinese_name": "護谷",
+      "english_name": "Nitrofen",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "88-85-7",
+      "chinese_name": "達諾殺",
+      "english_name": "Dinoseb",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "58-89-9",
+      "chinese_name": "靈丹",
+      "english_name": "Lindane (γ-BHC, or γ-HCH)",
+      "control_measures": "禁止製造、輸入、販賣及使用，但醫藥、研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "7439-97-6",
+      "chinese_name": "汞",
+      "english_name": "Mercury",
+      "control_measures": "中華民國一百十年一月一日起禁止用於製造下列應用類別之日光燈或螢光燈：",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "82-68-8",
+      "chinese_name": "五氯硝苯",
+      "english_name": "Pentachloronitrobenzene",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1596-84-5",
+      "chinese_name": "亞拉生長素",
+      "english_name": "Daminozide",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "21725-46-2",
+      "chinese_name": "氰乃淨",
+      "english_name": "Cyanazine",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "299-84-3",
+      "chinese_name": "樂乃松",
+      "english_name": "Fenchlorphos",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "2425-06-1",
+      "chinese_name": "四氯丹",
+      "english_name": "Captafol",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "133-06-2",
+      "chinese_name": "蓋普丹",
+      "english_name": "Captan",
+      "control_measures": "禁止製造、輸入、販賣及使用。但農藥、研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "99-12-24"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "133-07-3",
+      "chinese_name": "福爾培",
+      "english_name": "Folpet",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "13121-70-5",
+      "chinese_name": "錫蟎丹",
+      "english_name": "Cyhexatin",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "5798-79-8",
+      "chinese_name": "α-氰溴甲苯",
+      "english_name": "α -Bromobenzyl cyanide",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "542-88-1",
+      "chinese_name": "二氯甲醚",
+      "english_name": "Bis-Chloromethyl ether",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "92-93-3",
+      "chinese_name": "對-硝基聯苯",
+      "english_name": "P-Nitrobiphenyl",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "92-67-1",
+      "chinese_name": "對-胺基聯苯",
+      "english_name": "P-Aminobiphenyl",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "2113-61-3",
+      "chinese_name": "對-胺基聯苯鹽酸鹽",
+      "english_name": "P-Aminobiphenyl Hydrochloride",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "91-59-8",
+      "chinese_name": "2-萘胺",
+      "english_name": "2-Naphthylamine",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "553-00-4",
+      "chinese_name": "2-萘胺醋酸鹽",
+      "english_name": "2-Naphthylamine acetate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "612-52-2",
+      "chinese_name": "2-萘胺鹽酸鹽",
+      "english_name": "2-Naphthylamine Hydrochloride",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "92-87-5",
+      "chinese_name": "聯苯胺",
+      "english_name": "Benzidine",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "36341-27-2",
+      "chinese_name": "聯苯胺醋酸鹽",
+      "english_name": "Benzidine acetate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "531-86-2",
+      "chinese_name": "聯苯胺硫酸鹽",
+      "english_name": "Benzidine sulfate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "531-85-1",
+      "chinese_name": "聯苯胺二鹽酸鹽",
+      "english_name": "Benzidine dihydrochloride",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "41766-73-8",
+      "chinese_name": "聯苯胺二氫氟酸鹽",
+      "english_name": "Benzidine dihydrofluoride",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "29806-76-6",
+      "chinese_name": "聯苯胺過氯酸鹽（一）",
+      "english_name": "Benzidine perchlorate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "38668-12-1",
+      "chinese_name": "聯苯胺過氯酸鹽（二）",
+      "english_name": "Benzidine perchlorate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "41195-21-5",
+      "chinese_name": "聯苯胺二過氯酸鹽",
+      "english_name": "Benzidine diperchlorate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "7440-43-9",
+      "chinese_name": "鎘",
+      "english_name": "Cadmium",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "1306-19-0",
+      "chinese_name": "氧化鎘",
+      "english_name": "Cadmium oxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "513-78-0",
+      "chinese_name": "碳酸鎘",
+      "english_name": "Cadmium carbonate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "1306-23-6",
+      "chinese_name": "硫化鎘",
+      "english_name": "Cadmium sulfide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "10124-36-4",
+      "chinese_name": "硫酸鎘",
+      "english_name": "Cadmium sulfate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "10325-94-7",
+      "chinese_name": "硝酸鎘",
+      "english_name": "Cadmium nitrate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "10108-64-2",
+      "chinese_name": "氯化鎘",
+      "english_name": "Cadmium chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "62-53-3",
+      "chinese_name": "苯胺",
+      "english_name": "Aniline",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "95-53-4",
+      "chinese_name": "鄰-甲苯胺",
+      "english_name": "o-Aminotoluene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "108-44-1",
+      "chinese_name": "間-甲苯胺",
+      "english_name": "m-Aminotoluene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "106-49-0",
+      "chinese_name": "對-甲苯胺",
+      "english_name": "p-Aminotoluene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "134-32-7",
+      "chinese_name": "1-萘胺",
+      "english_name": "1-Naphthylamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "119-90-4",
+      "chinese_name": "二甲氧基聯苯胺",
+      "english_name": "3,3’-Dimethoxybenzidine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "91-94-1",
+      "chinese_name": "二氯聯苯胺",
+      "english_name": "3,3’-Dichlorobenzidine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "119-93-7",
+      "chinese_name": "鄰-二甲基聯苯胺",
+      "english_name": "3,3’-Dimethyl-[1,1’-biphenyl]-4,4’-diamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "98-07-7",
+      "chinese_name": "三氯甲苯",
+      "english_name": "Trichloromethyl benzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "3",
+      "chinese_name": "1327-53-3",
+      "english_name": "三氧化二砷",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "1303-28-2",
+      "chinese_name": "五氧化二砷",
+      "english_name": "Arsenic pentoxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "143-33-9",
+      "chinese_name": "氰化鈉",
+      "english_name": "Sodium cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "151-50-8",
+      "chinese_name": "氰化鉀",
+      "english_name": "Potassium cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "506-64-9",
+      "chinese_name": "氰化銀",
+      "english_name": "Silver cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "544-92-3",
+      "chinese_name": "氰化亞銅",
+      "english_name": "Copper(I) cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "13682-73-0",
+      "chinese_name": "氰化鉀銅",
+      "english_name": "Copper(I) potassium cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "542-83-6",
+      "chinese_name": "氰化鎘",
+      "english_name": "Cadmium cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "557-21-1",
+      "chinese_name": "氰化鋅",
+      "english_name": "Zinc cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "14763-77-0",
+      "chinese_name": "氰化銅",
+      "english_name": "Copper(II) cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "14264-31-4",
+      "chinese_name": "氰化銅鈉",
+      "english_name": "Copper Sodium cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "75-44-5",
+      "chinese_name": "光氣",
+      "english_name": "Phosgene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "624-83-9",
+      "chinese_name": "異氰酸甲酯",
+      "english_name": "Methyl isocyanate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "7782-50-5",
+      "chinese_name": "氯",
+      "english_name": "Chlorine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "79-06-1",
+      "chinese_name": "丙烯醯胺",
+      "english_name": "Acrylamide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "107-13-1",
+      "chinese_name": "丙烯腈",
+      "english_name": "Acrylonitrile",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "71-43-2",
+      "chinese_name": "苯",
+      "english_name": "Benzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "56-23-5",
+      "chinese_name": "四氯化碳",
+      "english_name": "Carbon tetrachloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "67-66-3",
+      "chinese_name": "三氯甲烷",
+      "english_name": "Chloroform",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "1333-82-0",
+      "chinese_name": "三氧化鉻（鉻酸）",
+      "english_name": "Chromium(VI) trioxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7778-50-9",
+      "chinese_name": "重鉻酸鉀",
+      "english_name": "Potassium dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7789-12-0, 10588-01-9",
+      "chinese_name": "重鉻酸鈉",
+      "english_name": "Sodium dichromate, dihydrate Sodium dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7789-09-5",
+      "chinese_name": "重鉻酸銨",
+      "english_name": "Ammonium dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "14307-33-6",
+      "chinese_name": "重鉻酸鈣",
+      "english_name": "Calcium dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13675-47-3",
+      "chinese_name": "重鉻酸銅",
+      "english_name": "Cupric dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13843-81-7",
+      "chinese_name": "重鉻酸鋰",
+      "english_name": "Lithium dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7789-10-8",
+      "chinese_name": "重鉻酸汞",
+      "english_name": "Mercuric dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "14018-95-2",
+      "chinese_name": "重鉻酸鋅",
+      "english_name": "Zinc dichromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7788-98-9",
+      "chinese_name": "鉻酸銨",
+      "english_name": "Ammonium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "10294-40-3",
+      "chinese_name": "鉻酸鋇",
+      "english_name": "Barium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13765-19-0",
+      "chinese_name": "鉻酸鈣",
+      "english_name": "Calcium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13548-42-0",
+      "chinese_name": "鉻酸銅",
+      "english_name": "Cupric chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "10294-52-7",
+      "chinese_name": "鉻酸鐵",
+      "english_name": "Ferric chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7758-97-6",
+      "chinese_name": "鉻酸鉛",
+      "english_name": "Lead chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "18454-12-1",
+      "chinese_name": "鉻酸氧鉛",
+      "english_name": "Lead chromate oxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "14307-35-8",
+      "chinese_name": "鉻酸鋰",
+      "english_name": "Lithium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7789-00-6",
+      "chinese_name": "鉻酸鉀",
+      "english_name": "Potassium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7784-01-2",
+      "chinese_name": "鉻酸銀",
+      "english_name": "Silver chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7775-11-3",
+      "chinese_name": "鉻酸鈉",
+      "english_name": "Sodium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "38455-77-5",
+      "chinese_name": "鉻酸錫",
+      "english_name": "Stannic chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7789-06-2",
+      "chinese_name": "鉻酸鍶",
+      "english_name": "Strontium chromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13530-65-9",
+      "chinese_name": "鉻酸鋅（鉻酸鋅氫氧化合物）",
+      "english_name": "Zinc chromate (Zinc chromate hydroxide)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13007-92-6",
+      "chinese_name": "六羰鉻",
+      "english_name": "Chromium carbonyl",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "37337-13-6",
+      "chinese_name": "鉻化砷酸銅",
+      "english_name": "Chromated Copper Arsenate",
+      "control_measures": "自中華民國一百零五年一月一日起禁止鉻化砷酸銅製造、輸入、販賣及使用於木材防腐劑，但已取得鉻化砷酸銅使用於木材防腐劑之登記或核可文件者，得使用至該登記或核可文件有效期限屆滿為止。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "12656-85-8",
+      "chinese_name": "鉬鉻紅",
+      "english_name": "Lead chromate molybdate sulphate red (C.I. Pigment Red 104)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "1344-37-2",
+      "chinese_name": "硫鉻酸鉛",
+      "english_name": "Lead sulfochromate yellow（C.I. Pigment Yellow 34）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "88-06-2",
+      "chinese_name": "2,4,6-三氯酚",
+      "english_name": "2,4,6-Trichlorophenol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "95-95-4",
+      "chinese_name": "2,4,5-三氯酚",
+      "english_name": "2,4,5-Trichlorophenol",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "3",
+      "chinese_name": "107-30-2",
+      "english_name": "氯甲基甲基醚",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "118-74-1",
+      "chinese_name": "六氯苯",
+      "english_name": "Hexachlorobenzene",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "12035-72-2",
+      "chinese_name": "次硫化鎳",
+      "english_name": "Trinickel disulfide",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "106-93-4",
+      "chinese_name": "二溴乙烷（二溴乙烯）",
+      "english_name": "Ethylene dibromide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "75-21-8",
+      "chinese_name": "環氧乙烷",
+      "english_name": "Ethylene oxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "106-99-0",
+      "chinese_name": "1,3-丁二烯",
+      "english_name": "1,3-Butadiene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "127-18-4",
+      "chinese_name": "四氯乙烯",
+      "english_name": "Tetrachloroethylene",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "79-01-6",
+      "chinese_name": "三氯乙烯",
+      "english_name": "Trichloroethylene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "75-01-4",
+      "chinese_name": "氯乙烯",
+      "english_name": "Vinyl Chloride",
+      "control_measures": "冷卻劑。但使用於聚氯乙烯製造廠之密閉式熱交換系統者，不在此限。",
+      "usage_description": "用途：",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "50-00-0",
+      "chinese_name": "甲醛",
+      "english_name": "Formaldehyde",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "101-14-4",
+      "chinese_name": "4,4'-亞甲雙（2-氯苯胺）",
+      "english_name": "4,4'-Methylenebis(2-chloroaniline)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-08-09"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "117-81-7",
+      "chinese_name": "鄰苯二甲酸二（2-乙基己基）酯",
+      "english_name": "Di(2-ethylhexyl)phthalate（DEHP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "117-84-0",
+      "chinese_name": "鄰苯二甲酸二辛酯",
+      "english_name": "Di-n-octyl phthalate（DNOP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "85-68-7",
+      "chinese_name": "鄰苯二甲酸丁基苯甲酯",
+      "english_name": "Benzyl butyl phthalate（BBP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "28553-12-0, 68515-48-0",
+      "chinese_name": "鄰苯二甲酸二異壬酯",
+      "english_name": "Di-isononyl phthalate（DINP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "26761-40-0, 68515-49-1",
+      "chinese_name": "鄰苯二甲酸二異癸酯",
+      "english_name": "Di-isodecyl phthalate（DIDP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "84-66-2",
+      "chinese_name": "鄰苯二甲酸二乙酯",
+      "english_name": "Diethyl phthalate（DEP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "68515-42-4",
+      "chinese_name": "鄰苯二甲酸二烷基酯（C7-11支鏈及直鏈）",
+      "english_name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters (DHNUP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "71888-89-6",
+      "chinese_name": "鄰苯二甲酸二烷基酯（C6-8支鏈及直鏈，富含C7）",
+      "english_name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich (DIHP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "131-16-8",
+      "chinese_name": "鄰苯二甲酸二丙酯",
+      "english_name": "Di-n-propyl Phthalate (DPP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "84-69-5",
+      "chinese_name": "鄰苯二甲酸二異丁酯",
+      "english_name": "Di-iso-butyl Phthalate (DIBP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "131-18-0",
+      "chinese_name": "鄰苯二甲酸二戊酯",
+      "english_name": "Di-n-pentyl Phthalate (DNPP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "84-75-3",
+      "chinese_name": "鄰苯二甲酸二己酯",
+      "english_name": "Di-n-hexyl Phthalate (DNHP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "84-61-7",
+      "chinese_name": "鄰苯二甲酸二環己酯",
+      "english_name": "Dicyclohexyl Phthalate (DCHP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "27554-26-3",
+      "chinese_name": "鄰苯二甲酸二異辛酯",
+      "english_name": "Di-iso-octyl Phthalate (DIOP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "84-76-4",
+      "chinese_name": "鄰苯二甲酸二正壬酯",
+      "english_name": "Di-n-nonyl phthalate (DNP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "146-50-9",
+      "chinese_name": "鄰苯二甲酸二（4-甲基-2-戊基）酯",
+      "english_name": "Bis(4-methyl-2-pentyl) phthalate (BMPP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "117-82-8",
+      "chinese_name": "鄰苯二甲酸二甲氧乙酯",
+      "english_name": "Bis(2-methoxyethyl) phthalate (BMEP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "605-54-9",
+      "chinese_name": "鄰苯二甲酸雙-2-乙氧基乙酯",
+      "english_name": "Bis(2-ethoxyethyl) phthalate (BEEP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75673-16-4",
+      "chinese_name": "鄰苯二甲酸己基2-乙基己基酯",
+      "english_name": "Hexyl 2-ethylhexyl phthalate (HEHP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "117-83-9",
+      "chinese_name": "鄰苯二甲酸二丁氧基乙酯",
+      "english_name": "Bis(2-n-butoxyethyl) phthalate (BBEP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "84-62-8",
+      "chinese_name": "鄰苯二甲酸二苯酯",
+      "english_name": "Diphenyl phthalate (DPP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "523-31-9",
+      "chinese_name": "鄰苯二甲酸二苄酯",
+      "english_name": "Dibenzyl phthalate (DBZP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "4376-20-9",
+      "chinese_name": "鄰苯二甲酸單（2-乙基己基）酯",
+      "english_name": "Mono(2-ethylhexyl) phthalate ( MEHP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "131-70-4",
+      "chinese_name": "鄰苯二甲酸單丁酯",
+      "english_name": "Mono-n-Butyl phthalate (MNBP)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "541-73-1",
+      "chinese_name": "1,3-二氯苯",
+      "english_name": "1,3-Dichlorobenzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "95-50-1",
+      "chinese_name": "鄰-二氯苯",
+      "english_name": "o-Dichlorobenzene (1,2-Dichloro benzene)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "120-82-1",
+      "chinese_name": "1,2,4-三氯苯",
+      "english_name": "1,2,4-Trichlorobenzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "110-80-5",
+      "chinese_name": "乙二醇乙醚",
+      "english_name": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "109-86-4",
+      "chinese_name": "乙二醇甲醚",
+      "english_name": "2-Methoxyethanol (Ethylene glycol monomethyl ether)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "106-89-8",
+      "chinese_name": "環氧氯丙烷",
+      "english_name": "Epichlorohydrin (1-Chloro-2,3-epoxypropane)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "85-44-9",
+      "chinese_name": "鄰苯二甲酐",
+      "english_name": "Phthalic anhydride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "26471-62-5, 584-84-9",
+      "chinese_name": "二異氰酸甲苯",
+      "english_name": "Toluene diisocyanate (mixed isomers) Toluene-2,4-diisocyanate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "107-06-2",
+      "chinese_name": "1,2-二氯乙烷",
+      "english_name": "1,2-Dichloroethane ( Ethylene dichloride)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "79-34-5",
+      "chinese_name": "1,1,2,2-四氯乙烷",
+      "english_name": "1,1,2,2-Tetrachloroethane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "540-59-0, 156-59-2, 156-60-5",
+      "chinese_name": "1,2-二氯乙烯",
+      "english_name": "1,2-Dichloroethylene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75-35-4",
+      "chinese_name": "1,1-二氯乙烯",
+      "english_name": "1,1-Dichloroethylene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "74-87-3",
+      "chinese_name": "氯甲烷",
+      "english_name": "Chloromethane (Methyl chloride)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75-09-2",
+      "chinese_name": "二氯甲烷",
+      "english_name": "Dichloromethane(Methylenechloride)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "131-11-3",
+      "chinese_name": "鄰苯二甲酸二甲酯",
+      "english_name": "Dimethyl phthalate（DMP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "84-74-2",
+      "chinese_name": "鄰苯二甲酸二丁酯",
+      "english_name": "Dibutyl phthalate（DBP）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "98-82-8",
+      "chinese_name": "異丙苯",
+      "english_name": "Cumene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "110-82-7",
+      "chinese_name": "環己烷",
+      "english_name": "Cyclohexane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "79-11-8",
+      "chinese_name": "氯乙酸",
+      "english_name": "Chloroacetic acid",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "541-41-3",
+      "chinese_name": "氯甲酸乙酯",
+      "english_name": "Ethyl chloroformate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "51-28-5",
+      "chinese_name": "2,4-二硝基酚",
+      "english_name": "2,4-Dinitrophenol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "77-78-1",
+      "chinese_name": "硫酸二甲酯",
+      "english_name": "Dimethyl sulfate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2、3",
+      "cas_number": "151-56-4",
+      "chinese_name": "次乙亞胺",
+      "english_name": "Ethyleneimine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "108-60-1",
+      "chinese_name": "二氯異丙醚",
+      "english_name": "Bis(2-chloro-1-methylethyl) ether",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "75-15-0",
+      "chinese_name": "二硫化碳",
+      "english_name": "Carbon disulfide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "108-90-7",
+      "chinese_name": "氯苯",
+      "english_name": "Chlorobenzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "1163-19-5",
+      "chinese_name": "十溴二苯醚",
+      "english_name": "Decabromobiphenyl ether",
+      "control_measures": "禁止用於電器塑膠外殼及其零件之添加劑：如加熱式家 用電器、熨斗、風扇、浸入式加熱器（直接或間接觸電子元件），其零件添加之重量比達百分之十以上。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "32536-52-0",
+      "chinese_name": "八溴二苯醚",
+      "english_name": "Octabromodiphenyl ether",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "32534-81-9, 60348-60-9",
+      "chinese_name": "五溴二苯醚",
+      "english_name": "Pentabromodiphenyl ether",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "40088-47-9, 5436-43-1",
+      "chinese_name": "四溴二苯醚",
+      "english_name": "Tetrabromodiphenyl ether(BDE-47)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "68631-49-2",
+      "chinese_name": "2,2',4,4',5,5'-六溴二苯醚",
+      "english_name": "2,2’,4,4’,5,5’-hexabromodiphenyl ether(BDE -153)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "207122-15-4",
+      "chinese_name": "2,2',4,4',5,6'-六溴二苯醚",
+      "english_name": "2,2’,4,4’,5,6’-hexabromodiphenyl ether(BDE -154)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "446255-22-7",
+      "chinese_name": "2,2',3,3',4,5',6-七溴二苯醚",
+      "english_name": "2,2’,3,3’,4,5’,6-heptabromodiphenyl ether(BDE-175)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "207122-16-5",
+      "chinese_name": "2,2',3,4,4',5',6-七溴二苯醚",
+      "english_name": "2,2’,3,4,4’,5’,6-heptabromodiphenyl ether(BDE -183)",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "132-64-9",
+      "chinese_name": "二苯駢呋喃",
+      "english_name": "Dibenzofuran",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "123-91-1",
+      "chinese_name": "1,4-二氧陸圜",
+      "english_name": "1,4-Dioxane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "98-07-31"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1825-31-6",
+      "chinese_name": "二氯萘",
+      "english_name": "Dichloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1321-65-9",
+      "chinese_name": "三氯萘",
+      "english_name": "Trichloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1335-88-2",
+      "chinese_name": "四氯萘",
+      "english_name": "Tetrachloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1321-64-8",
+      "chinese_name": "五氯萘",
+      "english_name": "Pentachloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "1335-87-1",
+      "chinese_name": "六氯萘",
+      "english_name": "Hexachloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "32241-08-0",
+      "chinese_name": "七氯萘",
+      "english_name": "Heptachloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "2234-13-1",
+      "chinese_name": "八氯萘",
+      "english_name": "Octachloronaphthalene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "74-88-4",
+      "chinese_name": "碘甲烷",
+      "english_name": "Methyl iodide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "57-57-8",
+      "chinese_name": "β-丙內酯",
+      "english_name": "β-Propiolactone",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "110-86-1",
+      "chinese_name": "吡啶",
+      "english_name": "Pyridine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "68-12-2",
+      "chinese_name": "二甲基甲醯胺",
+      "english_name": "N,N-Dimethyl formamide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "75-12-7",
+      "chinese_name": "甲醯胺",
+      "english_name": "Formamide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "13463-39-3",
+      "chinese_name": "四羰化鎳",
+      "english_name": "Nickel carbonyl",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "107-02-8",
+      "chinese_name": "丙烯醛",
+      "english_name": "Acrolein",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "107-18-6",
+      "chinese_name": "丙烯醇",
+      "english_name": "Allyl alcohol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "122-66-7",
+      "chinese_name": "1,2-二苯基聯胺",
+      "english_name": "1,2-Diphenylhydrazine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "74-90-8",
+      "chinese_name": "氰化氫",
+      "english_name": "Hydrogen cyanide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "91-04-09"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75-07-0",
+      "chinese_name": "乙醛",
+      "english_name": "Acetaldehyde",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75-05-8",
+      "chinese_name": "乙腈",
+      "english_name": "Acetonitrile",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "100-44-7",
+      "chinese_name": "苯甲氯",
+      "english_name": "Benzyl chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "141-32-2",
+      "chinese_name": "丙烯酸丁酯",
+      "english_name": "Butyl acrylate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "123-72-8",
+      "chinese_name": "丁醛",
+      "english_name": "Butyraldehyde",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "156-62-7",
+      "chinese_name": "氰胺化鈣",
+      "english_name": "Calcium cyanamide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "115-28-6",
+      "chinese_name": "六氯內-甲烯基-四氫苯二甲酸",
+      "english_name": "Chlorendic acid",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "126-99-8",
+      "chinese_name": "氯丁二烯",
+      "english_name": "Chloroprene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "108-39-4",
+      "chinese_name": "間-甲酚",
+      "english_name": "m-Cresol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "542-75-6",
+      "chinese_name": "1,3-二氯丙烯",
+      "english_name": "1,3-Dichloropropene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "111-42-2",
+      "chinese_name": "二乙醇胺",
+      "english_name": "Diethanolamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "122-39-4",
+      "chinese_name": "二苯胺",
+      "english_name": "Diphenylamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "100-41-4",
+      "chinese_name": "乙苯",
+      "english_name": "Ethylbenzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "108-10-1",
+      "chinese_name": "甲基異丁酮",
+      "english_name": "Methyl isobutyl ketone",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "101-77-9",
+      "chinese_name": "4,4’-二胺基二苯甲烷",
+      "english_name": "4,4’-Methylenedianiline",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "139-13-9",
+      "chinese_name": "三乙酸基氨",
+      "english_name": "Nitrilotri acetic acid",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "1120-71-4",
+      "chinese_name": "1,3-丙烷礦內酯",
+      "english_name": "Propane sultone",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "121-44-8",
+      "chinese_name": "三乙胺",
+      "english_name": "Triethylamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "532-27-4",
+      "chinese_name": "α-苯氯乙酮（w-苯氯乙酮）",
+      "english_name": "α-Chloroacetophenone (w-Chloroacetophenone )",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "120-12-7",
+      "chinese_name": "蒽",
+      "english_name": "Anthracene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "74-95-3",
+      "chinese_name": "二溴甲烷",
+      "english_name": "Dibromomethane(Methylenebromide)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "75-25-2",
+      "chinese_name": "三溴甲烷（溴仿）",
+      "english_name": "Bromoform (Tribromomethane)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "75-00-3",
+      "chinese_name": "氯乙烷",
+      "english_name": "Chloroethane (Ethyl chloride)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "70-30-4",
+      "chinese_name": "六氯芬（2,2'-二羥-3,3',5,5',6,6'-六氯二苯甲烷）",
+      "english_name": "Hexachlorophene (2,2'-dihydroxy-3, 3',5,5',6,6'-hexachlorodiphenylmethane)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "98-95-3",
+      "chinese_name": "硝苯",
+      "english_name": "Nitrobenzene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "64-67-5",
+      "chinese_name": "硫酸乙酯（硫酸二乙酯）",
+      "english_name": "ethyl sulfate (Diethyl sulfate)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "680-31-9",
+      "chinese_name": "六甲基磷酸三胺",
+      "english_name": "Hexamethylphosphoramide(HMPA)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "684-93-5",
+      "chinese_name": "N-亞硝-正-甲脲",
+      "english_name": "N-Nitroso-N-methylurea",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "62-75-9",
+      "chinese_name": "N-亞硝二甲胺（二甲亞硝胺）",
+      "english_name": "Nitrosodimethylamine (DMNA)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "55-18-5",
+      "chinese_name": "N-亞硝二乙胺（二乙亞硝胺）",
+      "english_name": "Diethylamine, N-nitroso-( Nitrosamine diethyl )",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "126-72-7",
+      "chinese_name": "三（2,3-二溴丙基）-磷酸酯",
+      "english_name": "Tris-(2,3-dibromopropyl)-phosphate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "593-60-2",
+      "chinese_name": "溴乙烯",
+      "english_name": "Vinyl bromide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "534-52-1",
+      "chinese_name": "4,6-二硝基-鄰-甲酚",
+      "english_name": "4,6-Dinitro-o-cresol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "60-34-4",
+      "chinese_name": "甲基聯胺",
+      "english_name": "Methyl hydrazine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "640-19-7",
+      "chinese_name": "氟乙醯胺",
+      "english_name": "Monofluoroacetamide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "107-19-7",
+      "chinese_name": "炔丙醇（2-丙炔-1-醇）",
+      "english_name": "Propargyl alcohol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "75-55-8",
+      "chinese_name": "丙烯亞胺",
+      "english_name": "Propyleneimine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "7637-07-2",
+      "chinese_name": "三氟化硼",
+      "english_name": "Boron trifluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "4170-30-3",
+      "chinese_name": "巴豆醛（2-丁烯醛）",
+      "english_name": "Crotonaldehyde (2-butenal)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "62-56-6",
+      "chinese_name": "硫脲",
+      "english_name": "Thiourea (thiocarbamide)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "95-80-7",
+      "chinese_name": "2,4-甲苯二胺",
+      "english_name": "m-Toluylenediamine(m-Tolylene-diamine；toluene- 2,4-diamine)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "25376-45-8",
+      "chinese_name": "甲苯二胺（同分異構物混合物）",
+      "english_name": "Toluylenediamines(mixed isomers)；(toluene,diamino-) (mixed isomers)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "108-05-4",
+      "chinese_name": "醋酸乙烯酯",
+      "english_name": "Vinyl acetate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "78-87-5",
+      "chinese_name": "1,2-二氯丙烷",
+      "english_name": "1,2-Dichloropropane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "4",
+      "chinese_name": "56-35-9",
+      "english_name": "氧化三丁錫",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "4",
+      "chinese_name": "76-87-9",
+      "english_name": "氫氧化三苯錫",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "56-36-0",
+      "chinese_name": "醋酸三丁錫",
+      "english_name": "Tributyltin acetate",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "1461-23-0",
+      "chinese_name": "溴化三丁錫",
+      "english_name": "Tributyltin bromide",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "1461-22-9",
+      "chinese_name": "氯化三丁錫",
+      "english_name": "Tributyltin chloride",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "4",
+      "chinese_name": "1983-10-4",
+      "english_name": "氟化三丁錫",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、4",
+      "cas_number": "688-73-3",
+      "chinese_name": "氫化三丁錫",
+      "english_name": "Tributyltin hydride",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "3090-36-6",
+      "chinese_name": "月桂酸三丁錫",
+      "english_name": "Tributyltin laurate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "4027-18-3, 14275-57-1",
+      "chinese_name": "順丁烯二酸三丁錫",
+      "english_name": "Tributyltin maleate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "3440-79-7",
+      "chinese_name": "三正丙基乙錫",
+      "english_name": "Tri-n-propylethyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "92154-74-0",
+      "chinese_name": "三正丙基異丁錫",
+      "english_name": "Tri-n-propylisobutyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "3634-62-6",
+      "chinese_name": "三正丙基正丁錫",
+      "english_name": "Tri-n-propyl-n-butyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "7342-45-2",
+      "chinese_name": "碘化三正丙錫",
+      "english_name": "Tri-n-propyltin iodide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2847-58-7",
+      "chinese_name": "三苯基芐錫",
+      "english_name": "Triphenylbenzyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "1089-59-4",
+      "chinese_name": "三苯基甲錫",
+      "english_name": "Triphenylmethyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "15807-28-0",
+      "chinese_name": "三苯基-對-甲苯錫",
+      "english_name": "Triphenyl-p-tolyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "962-89-0",
+      "chinese_name": "溴化三苯錫",
+      "english_name": "Triphenyltin bromide",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "379-52-2",
+      "chinese_name": "氟化三苯錫",
+      "english_name": "Triphenyltin fluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "894-09-7",
+      "chinese_name": "碘化三苯錫",
+      "english_name": "Triphenyltin iodide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "4",
+      "chinese_name": "900-95-8",
+      "english_name": "醋酸三苯錫",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "639-58-7",
+      "chinese_name": "氯化三苯錫",
+      "english_name": "Triphenyltin chloride",
+      "control_measures": "",
+      "usage_description": "用途：",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "81134-67-0",
+      "chinese_name": "三苯基-α-萘錫",
+      "english_name": "Triphenyl-α-naphthyltin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2767-61-5",
+      "chinese_name": "溴化三丙錫",
+      "english_name": "Tripropyltin bromide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2279-76-7",
+      "chinese_name": "氯化三丙錫",
+      "english_name": "Tripropyltin chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "682-32-6",
+      "chinese_name": "氟化三丙錫",
+      "english_name": "Tripropyltin fluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "58436-46-7",
+      "chinese_name": "溴化三甲苯錫",
+      "english_name": "Tritolyltin bromide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-42-9",
+      "chinese_name": "氯化三甲苯錫",
+      "english_name": "Tritolyltin chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-43-0",
+      "chinese_name": "氟化三甲苯錫",
+      "english_name": "Tritolyltin fluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "228262-76-8",
+      "chinese_name": "氫氧化三甲苯錫",
+      "english_name": "Tritolyltin hydroxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-44-1",
+      "chinese_name": "碘化三甲苯錫",
+      "english_name": "Tritolyltin iodide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "50485-45-5",
+      "chinese_name": "參（三苯錫）甲烷",
+      "english_name": "Tritriphenylstannyl-methane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-45-2",
+      "chinese_name": "溴化三茬錫",
+      "english_name": "Trixylyltin bromide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-46-3",
+      "chinese_name": "氯化三茬錫",
+      "english_name": "Trixylyltin chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-47-4",
+      "chinese_name": "氟化三茬錫",
+      "english_name": "Trixylyltin fluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "353747-48-5",
+      "chinese_name": "碘化三茬錫",
+      "english_name": "Trixylyltin iodide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "67-72-1",
+      "chinese_name": "六氯乙烷",
+      "english_name": "Hexachloroethane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "87-68-3",
+      "chinese_name": "六氯-1,3-丁二烯",
+      "english_name": "Hexachloro-1,3-butadiene",
+      "control_measures": "",
+      "usage_description": "用途：1.常用作電容器及變壓器內的絕緣油。2.木材防腐、塗料和機油的添加劑。3.變壓器、液壓液或熱傳導液。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "7440-41-7",
+      "chinese_name": "鈹",
+      "english_name": "Beryllium",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "95-69-2",
+      "chinese_name": "對-氯-鄰-甲苯胺",
+      "english_name": "p-Chloro-o-toluidine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "79-44-7",
+      "chinese_name": "二甲基胺甲醯氯",
+      "english_name": "Dimethylcarbamyl chloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "96-09-3",
+      "chinese_name": "氧化苯乙烯",
+      "english_name": "Styrene oxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "96-18-4",
+      "chinese_name": "1,2,3-三氯丙烷",
+      "english_name": "1,2,3-Trichloropropane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "7782-41-4",
+      "chinese_name": "氟",
+      "english_name": "Fluorine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "94-02-23"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "7803-51-2",
+      "chinese_name": "磷化氫",
+      "english_name": "Phosphine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "90-06-21"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "7719-12-2",
+      "chinese_name": "三氯化磷",
+      "english_name": "Phosphorus trichloride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "3",
+      "cas_number": "79-19-6",
+      "chinese_name": "胺基硫脲",
+      "english_name": "Thiosemicarbazide 1-amino-2-thiourea",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "1634-04-4",
+      "chinese_name": "甲基第三丁基醚",
+      "english_name": "Methyl-tert-butyl ether",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "120-83-2",
+      "chinese_name": "2,4-二氯酚",
+      "english_name": "2,4-Dichlorophenol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "75-27-4",
+      "chinese_name": "二氯溴甲烷",
+      "english_name": "Dichlorobromomethane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "77-73-6",
+      "chinese_name": "二環戊二烯",
+      "english_name": "Dicyclopentadiene",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "302-01-2",
+      "chinese_name": "聯胺",
+      "english_name": "Hydrazine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "89-10-25"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "4",
+      "chinese_name": "25154-52-3, 84852-15-3, 104-40-5, 11066-49-2, 142731-63-3, 17404-66-9, 186825-36-5, 186825-39-8, 26543-97-5, 30784-30-6, 521947-27-3, 52427-13-1, 90481-04-2, 91672-41-2",
+      "english_name": "壬基酚（壬酚）",
+      "control_measures": "2.禁止使用於下列用途。但受控之系統、製程、防制設備，可完全回收、焚化或自廢水移除，且非於國內市場使用及販賣者，不在此限：",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、4",
+      "cas_number": "9016-45-9, 26027-38-3, 104-35-8, 1119449-37-4, 1119449-38-5, 127087-87-0, 14409-72-4, 156609-10-8, 20427-84-3, 20636-48-0, 26264-02-8, 26571-11-9, 27176-93-8, 27177-01-1, 27177-03-3, 27177-05-5, 27177-08-8, 27942-27-4, 27986-36-3, 34166-38-6, 37205-87-1, 42173-90-0, 51938-25-1, 57321-10-5, 65455-69-8, 65455-72-3, 68412-54-4, 7311-27-5, 85005-55-6, 91648-64-5",
+      "chinese_name": "壬基酚聚乙氧基醇",
+      "english_name": "Nonylphenol polyethylene glycol ether",
+      "control_measures": "2.禁止使用於下列用途。但受控之系統、製程、防制設備，可完全回收、焚化或自廢水移除，且非於國內市場使用及販賣者，不在此限：",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "80-05-7",
+      "chinese_name": "雙酚A",
+      "english_name": "4,4-isopropylidene diphenol （Bisphenol A）",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": "98-07-31"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "2385-85-5",
+      "chinese_name": "滅蟻樂",
+      "english_name": "Mirex",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "99-12-24"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "143-50-0",
+      "chinese_name": "十氯酮",
+      "english_name": "Chlordecone",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": "99-12-24"
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "4",
+      "chinese_name": "1763-23-1, 2795-39-3, 29457-72-5, 29081-56-9, 70225-14-8, 56773-42-3, 251099-16-8, 307-35-7",
+      "english_name": "全氟辛烷磺酸及其鹽類與相關化合物",
+      "control_measures": "",
+      "usage_description": "用途：紡織品及皮革製品、電鍍、食品包裝、滅火器泡沫、地板打磨、牙科清潔劑、塗料和塗料添加劑、照像和照像平板印刷行業以及航空業的液壓油。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、2",
+      "cas_number": "4",
+      "chinese_name": "335-67-1, 45285-51-6, 90480-55-0, 1882109-81-0, 1882109-80-9, 1882109-79-6, 1882109-78-5, 1882109-77-4, 1882109-76-3, 1882109-75-2, 1882109-74-1, 1882109-73-0, 1882109-72-9, 1882109-71-8, 1882109-70-7, 1882109-68-3, 1882109-67-2, 1882109-66-1, 1882109-65-0, 1882109-64-9, 1882109-63-8, 1882109-69-4, 1882109-62-7, 1882109-61-6, 1882109-60-5, 1882109-59-2, 1882109-58-1, 1812247-20-3, 1812247-19-0, 1812247-18-9, 1812247-17-8, 1192593-79-5, 1144512-36-6, 1144512-35-5, 1144512-34-4, 1144512-18-4, 909009-42-3, 705240-04-6, 207678-51-1, 123116-17-6, 35605-76-6, 15166-06-0, 90480-56-1, 3825-26-1, 335-95-5, 2395-00-8, 17125-58-5, 335-93-3, 68141-02-6, 98241-25-9, 13058-06-5, 1195164-59-0, 19742-57-5, 61436-04-2, 29457-73-6, 18017-22-6, 15739-82-9, 15715-47-6, 68333-92-6, 69278-80-4, 91032-01-8, 72968-38-8, 72623-77-9, 376-27-2, 3108-24-5, 33496-48-9, 68412-69-1, 93062-53-4, 40143-79-1, 610800-34-5, 335-66-0, 507-63-1, 307-50-6, 307-60-8, 307-63-1, 335-79-5, 376-04-5, 423-62-1, 558-97-4, 677-93-0, 3248-61-1, 3248-63-3, 90622-71-2, 2043-53-0, 2043-54-1, 30046-31-2, 65510-55-6, 65510-56-7, 68188-12-5, 68390-33-0, 21652-58-4, 30389-25-4, 60699-51-6, 176676-70-3, 39239-77-5, 1545-59-1, 865-86-1, 87017-97-8, 678-39-7, 70887-94-4, 53826-13-4, 191852-87-6, 70887-84-2, 27854-31-5, 54009-73-3, 63295-27-2, 63295-28-3, 63295-29-4, 63295-18-1, 63295-19-2, 63295-23-8, 63295-24-9, 63295-22-7, 94158-70-0, 94200-46-1, 94200-47-2, 94200-48-3, 94200-50-7, 94200-51-8, 94200-52-9, 57678-03-2, 678-41-1, 93857-44-4, 93857-45-5, 57678-05-4, 1895-26-7, 90179-37-6, 98005-85-7, 98005-84-6, 1158182-60-5, 1578186-42-1, 1158182-61-6, 93776-20-6, 93776-21-7, 63295-20-5, 63295-26-1, 2343-53-5, 1578186-53-4, 1578186-56-7, 1578186-64-7, 1578186-57-8, 149790-22-7, 441765-20-4, 16083-78-6, 4980-53-4, 6014-75-1, 16083-87-7, 52956-82-8, 74256-14-7, 74256-15-8, 17741-60-5, 2144-54-9, 27905-45-9, 1996-88-9, 85631-54-5, 91615-22-4, 94158-63-1, 94158-64-2, 94158-65-3, 146955-29-5, 76962-34-0, 93776-12-6, 93776-13-7, 93776-15-9, 94159-83-8, 94159-79-2, 94159-80-5, 94159-82-7, 99955-83-6, 302911-86-0, 3102-79-2, 74612-30-9, 101947-16-4, 146090-84-8, 78560-44-8, 83048-65-1, 123445-18-1, 246234-80-0, 1189587-64-1, 68187-42-8, 70969-47-0, 95370-51-7, 148240-85-1, 148240-87-3, 148240-89-5, 183146-60-3, 71608-61-2, 94200-45-0, 93776-00-2, 77117-48-7, 1835250-28-6, 182130-12-7, 1835250-47-9, 182130-14-9, 182130-15-0, 6145-05-7, 931415-52-0, 138472-76-1, 117146-18-6, 133310-73-3, 137338-39-7, 137338-40-0, 137338-41-1, 154478-87-2, 1835251-22-3, 1244062-17-6, 250738-42-2, 116177-54-9, 200817-54-5, 93454-70-7, 125635-85-0, 90499-29-9, 93454-71-8, 133299-41-9, 100550-08-1, 1244062-16-5, 31200-97-2, 423-56-3, 307-37-9, 307-46-0, 135984-68-8, 864551-38-2, 864551-40-6, 63967-40-8, 335-73-9, 63967-42-0, 56900-98-2, 88243-13-4, 88243-12-3, 55427-54-8, 88271-22-1, 88243-14-5, 88243-15-6, 88247-39-6, 88243-11-2, 88243-16-7, 88243-10-1, 88247-40-9, 88243-17-8, 88243-09-8, 121500-31-0, 67549-47-7, 67535-33-5, 38565-53-6, 114482-33-6, 99679-40-0, 93776-18-2, 94817-79-5, 94817-80-8, 121912-26-3, 25935-14-2, 100155-23-5, 100107-48-0, 2089109-26-0, 2089109-27-1, 145441-32-3, 171184-16-0, 171184-17-1, 171184-04-6, 2089109-30-6, 80234-03-3, 80244-66-2, 34143-74-3, 76830-13-2, 121913-10-8, 39108-34-4, 120226-60-0, 438237-73-1, 63225-57-0, 63225-58-1, 54950-06-0, 441765-12-4, 54207-62-4, 481050-04-8, 441765-14-6, 160819-47-6, 160819-50-1, 160819-49-8, 121912-28-5, 727351-53-3, 1513864-17-9, 71940-07-3, 71625-52-0, 1513863-91-6, 1513863-92-7, 704870-51-9, 1513864-01-1, 67333-62-4, 1513863-96-1, 1513863-97-2, 1383438-89-8, 1383438-90-1, 93128-66-6, 755698-73-8, 690947-60-5, 62880-96-0, 62880-98-2, 1513864-19-1, 1513864-12-4, 1513864-11-3, 80475-33-8, 34455-23-7, 34455-24-8, 438237-77-5, 34455-21-5, 34455-35-1, 34695-29-9, 34695-31-3, 441765-18-0, 98900-53-9, 115592-83-1, 129783-45-5, 144031-01-6, 116984-14-6, 74049-08-4, 65104-45-2, 53515-73-4, 93480-00-3, 934505-67-6, 142636-88-2, 90622-99-4, 71356-38-2, 85681-64-7, 125328-29-2, 325459-92-5, 326475-46-1, 39186-68-0, 41358-63-8, 24216-05-5, 53517-98-9, 335-90-0, 85938-56-3, 89685-61-0, 84029-60-7, 138473-79-7, 89932-71-8, 178766-44-4, 376-23-8, 91707-61-8, 30295-53-5, 308-01-0, 331755-02-3, 103555-98-2, 90179-39-8, 5158-52-1, 57670-46-9, 98900-76-6, 98900-75-5, 98046-76-5, 154380-30-0",
+      "english_name": "全氟辛酸及其鹽類與相關化合物",
+      "control_measures": "",
+      "usage_description": "用途：用於電子業、紡織品和皮革、廚具不沾鍋、食品包裝、滅火泡沫、清潔劑、油漆等。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "355-46-4, 111393-39-6, 1270179-82-2, 1270179-93-5, 127133-66-8, 129813-71-4, 141607-32-1, 1427176-17-7, 1427176-20-2, 147029-28-5, 148240-80-6, 148684-79-1, 149652-30-2, 160305-97-5, 160336-17-4, 160901-25-7, 160901-26-8, 161074-58-4, 1645842-67-6, 1645850-46-9, 1645852-09-0, 1645852-10-3, 1648534-82-0, 1648539-69-8, 1648540-20-8, 171561-95-8, 178094-71-8, 178535-22-3, 179005-06-2, 179005-07-3, 1893-52-3, 192662-29-6, 222716-67-8, 254889-10-6, 30295-56-8, 306973-47-7, 306974-19-6, 306974-28-7, 306974-45-8, 306974-63-0, 306975-62-2, 306975-84-8, 306975-85-9, 306976-25-0, 306976-55-6, 306977-10-6, 306977-58-2, 306978-04-1, 306978-65-4, 306979-40-8, 306980-27-8, 34455-03-3, 3871-99-6, 38850-52-1, 38850-58-7, 38850-60-1, 41997-13-1, 423-50-7, 504396-13-8, 50598-28-2, 507225-08-3, 52166-82-2, 55120-77-9, 55591-23-6, 56372-23-7, 67584-48-9, 67584-53-6, 67584-57-0, 67584-61-6, 67906-70-1, 67906-71-2, 67939-61-1, 67939-92-8, 67969-65-7, 680187-85-3, 680187-86-4, 68081-83-4, 68227-87-2, 68227-94-1, 68227-96-3, 68227-98-5, 68228-00-2, 68239-74-7, 68259-08-5, 68259-15-4, 68259-38-1, 68298-09-9, 68298-74-8, 68298-78-2, 68299-21-8, 68299-39-8, 68329-56-6, 68391-09-3, 68555-70-4, 68555-75-9, 68555-90-8, 68555-91-9, 68555-92-0, 68568-77-4, 68586-13-0, 68586-14-1, 68608-13-9, 68608-14-0, 68649-26-3, 68797-76-2, 68815-72-5, 68867-60-7, 68867-62-9, 68877-32-7, 68891-98-5, 68909-15-9, 68957-32-4, 68957-53-9, 68957-58-4, 68957-61-9, 70225-16-0, 70248-52-1, 70776-36-2, 70900-36-6, 70900-40-2, 71487-20-2, 73772-32-4, 73772-33-5, 73772-34-6, 76848-59-4, 76848-68-5, 80621-17-6, 81190-38-7, 82382-12-5, 85665-64-1, 85665-66-3, 86525-30-6, 86525-43-1, 86525-48-6, 86525-51-1, 86525-52-2, 89863-48-9, 89863-49-0, 89863-50-3, 89863-55-8, 89863-56-9, 89863-63-8, 89863-64-9, 91081-99-1, 93416-31-0, 93572-72-6, 944578-05-6",
+      "chinese_name": "全氟己烷磺酸及其鹽類與相關化合物",
+      "english_name": "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "608-93-5",
+      "chinese_name": "五氯苯",
+      "english_name": "Pentachlorobenzene",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": "99-12-24"
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "36355-01-8",
+      "chinese_name": "六溴聯苯",
+      "english_name": "Hexabromobiphenyl",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用者，不在此限。",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": "99-12-24"
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "115-29-7",
+      "chinese_name": "安殺番（工業級安殺番）",
+      "english_name": "Endosulfan（Technical endosulfan）",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "959-98-8",
+      "chinese_name": "α−安殺番",
+      "english_name": "Alpha (α) endosulfan",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "33213-65-9",
+      "chinese_name": "β−安殺番",
+      "english_name": "Beta (β) endosulfan",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "1031-07-8",
+      "chinese_name": "安殺番硫酸鹽",
+      "english_name": "Endosulfan sulfate",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用途者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "2",
+      "cas_number": "115-96-8",
+      "chinese_name": "三2-（氯乙基）磷酸酯",
+      "english_name": "Tris(2-chloroethyl) phosphate（TCEP）",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用者，不在此限。",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "3194-55-6, 25637-99-4",
+      "chinese_name": "六溴環十二烷",
+      "english_name": "Hexabromocyclododecane(HBCD) 1,2,5,6,9,10-hexabromocyclododecane",
+      "control_measures": "",
+      "usage_description": "用途：主要被用作阻燃劑，常添加於各種樹脂、橡膠、電子材料及建築相關材料中。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "134237-50-6",
+      "chinese_name": "α-六溴環十二烷",
+      "english_name": "alpha-hexabromocyclododecane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "134237-51-7",
+      "chinese_name": "β-六溴環十二烷",
+      "english_name": "beta-hexabromocyclododecane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "134237-52-8",
+      "chinese_name": "γ-六溴環十二烷",
+      "english_name": "gamma-hexabromocyclododecane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "569-64-2",
+      "chinese_name": "孔雀綠",
+      "english_name": "Malachite green",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "110-16-7",
+      "chinese_name": "順丁烯二酸(馬來酸）",
+      "english_name": "Maleic acid",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "108-31-6",
+      "chinese_name": "順丁烯二酸酐",
+      "english_name": "Maleic anhydride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "150-69-6",
+      "chinese_name": "對位乙氧基苯脲（甘精）",
+      "english_name": "(4-Ethoxyphenyl)urea、Dulcin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "7758-01-2",
+      "chinese_name": "溴酸鉀",
+      "english_name": "Potassium bromate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "624-49-7",
+      "chinese_name": "富馬酸二甲酯",
+      "english_name": "Dimethyl fumarate (DMF)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "1694-09-3",
+      "chinese_name": "芐基紫",
+      "english_name": "Benzyl violet 4B",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "587-98-4",
+      "chinese_name": "皂黃",
+      "english_name": "Metanil yellow",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "81-88-9",
+      "chinese_name": "玫瑰紅B",
+      "english_name": "Rhodamine B",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "60-11-7",
+      "chinese_name": "二甲基黃",
+      "english_name": "Butter yellow",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "6035-47-8, 149-44-0",
+      "chinese_name": "甲醛次硫酸氫鈉（吊白塊）",
+      "english_name": "Sodium hydroxymethanesulfinate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "108-78-1",
+      "chinese_name": "三聚氰胺",
+      "english_name": "Melamine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "91-64-5",
+      "chinese_name": "α-苯並吡喃酮（香豆素）",
+      "english_name": "Coumarin",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "842-07-9",
+      "chinese_name": "蘇丹1號",
+      "english_name": "Sudan 1",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "3118-97-6",
+      "chinese_name": "蘇丹2號",
+      "english_name": "Sudan 2",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "85-86-9",
+      "chinese_name": "蘇丹3號",
+      "english_name": "Sudan 3",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "85-83-6",
+      "chinese_name": "蘇丹4號",
+      "english_name": "Sudan 4",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "1229-55-6",
+      "chinese_name": "蘇丹紅G",
+      "english_name": "Sudan Red G",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2051-85-6",
+      "chinese_name": "蘇丹橙G",
+      "english_name": "Sudan Orange G",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "4197-25-5",
+      "chinese_name": "蘇丹黑B",
+      "english_name": "Sudan Black B",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "6368-72-5",
+      "chinese_name": "蘇丹紅7B",
+      "english_name": "Sudan Red 7B",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2481-94-9",
+      "chinese_name": "二乙基黃",
+      "english_name": "Diethyl yellow/Solvent yellow 56",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "532-82-1",
+      "chinese_name": "王金黃（塊黃）",
+      "english_name": "Basic orange 2",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "2465-27-2",
+      "chinese_name": "鹽基性芥黃",
+      "english_name": "Auramine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "915-67-3",
+      "chinese_name": "紅色2號",
+      "english_name": "Red No.2",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "3567-69-9",
+      "chinese_name": "氮紅",
+      "english_name": "Azorubine",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "4",
+      "cas_number": "633-96-5",
+      "chinese_name": "橘色2號",
+      "english_name": "Orange2",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1",
+      "cas_number": "85535-84-8",
+      "chinese_name": "短鏈氯化石蠟",
+      "english_name": "Short-chain chlorinated paraffins (SCCPs)",
+      "control_measures": "",
+      "usage_description": "用途：主要用作金屬加工潤滑劑、紡織品和橡膠和塑膠的阻燃劑，油漆和其他塗料的塑化劑。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "1、3",
+      "cas_number": "115-32-2, 10606-46-9",
+      "chinese_name": "大克蟎",
+      "english_name": "Dicofol",
+      "control_measures": "禁止製造、輸入、販賣及使用。但研究、試驗、教育用者，不在此限。",
+      "usage_description": "用途：殺蟲劑、殺菌劑，常用於農作物。",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "6484-52-2",
+      "chinese_name": "硝酸銨",
+      "english_name": "Ammonium Nitrate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "10124-37-5",
+      "chinese_name": "硝酸鈣",
+      "english_name": "Calcium nitrate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "7631-99-4",
+      "chinese_name": "硝酸鈉",
+      "english_name": "Sodium nitrate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "15245-12-2",
+      "chinese_name": "硝酸銨鈣",
+      "english_name": "Calcium ammonium",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "75-52-5",
+      "chinese_name": "硝基甲烷",
+      "english_name": "Nitromethane",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "26628-22-8",
+      "chinese_name": "疊氮化鈉",
+      "english_name": "Sodium azide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "7790-98-9",
+      "chinese_name": "過氯酸銨",
+      "english_name": "Ammonium perchlorate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "7601-89-0",
+      "chinese_name": "過氯酸鈉",
+      "english_name": "Sodium perchlorate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "20859-73-8",
+      "chinese_name": "磷化鋁",
+      "english_name": "Aluminium phosphide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "1317-36-8",
+      "chinese_name": "一氧化鉛",
+      "english_name": "Lead monoxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "1314-41-6",
+      "chinese_name": "四氧化三鉛",
+      "english_name": "Lead tetroxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "1313-82-2",
+      "chinese_name": "硫化鈉",
+      "english_name": "Sodium sulfide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "540-72-7",
+      "chinese_name": "硫氰酸鈉",
+      "english_name": "Sodium thiocyanate",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "135-19-3",
+      "chinese_name": "β-荼(萘)酚",
+      "english_name": "β-Naphthol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "10024-97-2",
+      "chinese_name": "一氧化二氮（笑氣）",
+      "english_name": "Nitrous Oxide",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "7664-39-3",
+      "chinese_name": "氟化氫 (氫氟酸)",
+      "english_name": "Hydrogen Fluoride",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "110-63-4",
+      "chinese_name": "1,4-丁二醇",
+      "english_name": "1,4-Butanediol",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "475-81-0",
+      "chinese_name": "海罌粟鹼",
+      "english_name": "(S)-5,6,6a,7-tetrahydro-1,2,9,10-tetramethoxy-6-methyl-4H-dibenzo[de,g]quinoline",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    },
+    {
+      "toxicity_level": "關注",
+      "cas_number": "28159-98-0",
+      "chinese_name": "N'-第三丁基-N-環丙基-6-（甲基硫基）-1,3,5-三氮𠯤-2,4-二胺（環丁烴）",
+      "english_name": "N'-tert-butyl-N-cyclopropyl-6-(methylthio)-1,3,5-triazine-2,4-diamine (Cybutryne)",
+      "control_measures": "",
+      "usage_description": "",
+      "announcement_date": ""
+    }
+  ]
+}
