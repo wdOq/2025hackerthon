@@ -444,7 +444,7 @@ def chat():
         except Exception as e:
             print(f"\n[Error] {e}\n")
         chat_history.pop()  
-    elif request_type == "lookup":
+    elif request_type == "search chemical":
         try:
             cache_message = data_from_client['target']
             for filename in cache_filelist:
@@ -461,49 +461,60 @@ def chat():
                         raw_text = cached_response
                 else:
                     print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
+                    #這邊還要新增若沒有快取資訊要回到chatbot模式
             client = OpenAI() # Automatically reads OPENAI_API_KEY
             completion = client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[  # 修正 2: 必須使用 messages 格式
                     {"role": "system", "content":f"""
-        請分析以下的文本，並提取出所有提到的「化學替代品」。
-
-            請嚴格遵守以下規則進行輸出：
-            1. **格式限制**：只回傳一個純 JSON 字串 (Array of Objects)，且該 Array 中**必須只包含一個物件 (Single Object)**。
-            2. **禁止 Markdown**：不要使用 ```json 或其他標記。
-            3. **資料聚合 (Aggregation)**：
-            - 請找出文本中「所有」提到的化學替代品。
-            - 不要為每個化學品建立單獨的物件。
-            - 請將所有化學品的資訊合併在同一個欄位中，並使用全形頓號「、」作為分隔符號。
-            - 順序必須對應：第一個 Name 對應第一個 Info，以此類推。
-
-            4. **JSON 欄位定義**：
-            - "name": 所有化學品名稱的集合字串 (用「、」分隔)
-            - "Introduction": 所有化合物簡介的集合字串 (用「、」分隔，若無則填 "N/A")
-            - "info": 所有替代理由摘要的集合字串 (用「、」分隔)
-            - "doi": 所有資料來源或 DOI 的集合字串 (用「、」分隔，若無則填 "N/A")
-
-            5. **範例格式 (請完全參照此結構，但使用雙引號)**：
-            [
-                "name": "1,4-二氧烷（1,4-Dioxane）、乙烯醇（Ethylene Glycol）、1-丁基-3-甲基咪唑鎧化物",
-                "Introduction": "毒性較低且安全性高、工業氨化製備中更為安全、有助於解決環境風險",
-                "info": "具備更好安全性、適合工業使用、可回收且低毒性",
-                "doi": "Exploring Solvent Effects (2020)、Green Catalytic Synthesis (2024)、Rapid removal of detergent (2022)"
-            ]
-        {raw_text}
-        """}]
-        )
-        # 修正 3: 正確提取內容
+                        請分析以下的文本，並提取出所有提到的「化學替代品」。
+        
+                            請嚴格遵守以下規則：
+                            1. 只回傳純 JSON 字串 (Array of Objects)。
+                            2. 不要使用 Markdown 格式 (不要寫 ```json)。
+                            3. JSON 格式必須包含以下欄位：
+                            - "introduction": 介紹有害物質本身 (字串)(這單獨一個欄位)(在所有回傳json中最前面)
+                            - "data": 替代物列表 (Array of Objects)，每個物件包含以下：
+                            - "name": 化學品名稱 (字串)
+                            - "info": 替代理由的簡短摘要 (字串)
+                            - "doi": 資料來源或doi (字串，若兩者皆無則填 "N/A")
+                            4. 回傳內容必須能被 Python 的 json.loads() 直接解析。
+                            5. 所有 key 與 value 必須使用雙引號
+                            6. 禁止使用單引號
+                            7.若有相同替代物的資訊請合併在同一個物件中，用逗號分隔
+                            範例格式如下:
+                            {{
+                                "introduction": "...",
+                                "data": [
+                                    {{
+                                    "name": "1,4-二氧六烷（1,4-Dioxane）",
+                                    "info": "被分析為在毒性擔憂下更安全的溶劑，適合於臨床生產的翻譯。",
+                                    "doi": "DOI:10.1021/acsptsci.0c00184"
+                                    }},
+                                    {{
+                                    "name": "乙二醇（Ethylene Glycol）",
+                                    "info": "提出作為安全的替代品，用於乙二胺的合成，經濟且環境友好。",
+                                    "doi": "DOI:10.1021/acsomega.4c00709"
+                                    }},
+                                    {{
+                                    "name": "1-丁基-3-甲基咪唑碘化物（1-Butyl-3-methylimidazolium iodide）",
+                                    "info": "用於丙烯酸的去污效果，解決了Dichloroethane的環境及致癌問題。",
+                                    "doi": "DOI:10.1007/s44211-022-00139-x"
+                                    }},
+                                    {{
+                                    "name": "丙烯碳酸酯、丁酸丁酯及乙基醇",
+                                    "info": "替代傳統氯化溶劑，這些溶劑被建議作為更安全的可再生溶劑。",
+                                    "doi": "DOI:10.15255/CABEQ.2018.1471"
+                                    }}
+                                ]
+                            }}
+                        """},{"role": "user","content": f"原始文本如下，請進行分析：\n{raw_text}"}], response_format={"type": "json_object"}
+            )
             content = completion.choices[0].message.content
-            
-        # 修正 4: 移除可能存在的 Markdown 標記以免 json.loads 失敗
-            content = content.replace("```json", "").replace("```", "").strip()
-            
             parsed_json = json.loads(content)
-            return jsonify({
-                "status": "success",
-                "response": parsed_json
-            })
+            #=== [關鍵修正] ===
+            # 不要用 {parsed_json}，直接傳入字典
+            return jsonify(parsed_json) 
         except Exception as e:
             return []
     else:
@@ -511,4 +522,4 @@ def chat():
     
 if __name__ == "__main__":
     # 啟動伺服器
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True) 
