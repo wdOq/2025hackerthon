@@ -93,7 +93,7 @@ def Convert_to_CID(query: str) -> dict:
             "query": query,
             "result": {"error": resp.text if resp is not None else "request failed"}
         }
-    resp = requests.get(f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cids}/property/CAS/JSON")
+    resp = requests.get(f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{cids}/property/CAS/JSON")#這行應該可以刪掉
     return {
         "source": "ConverttoCID",
         "query": query,
@@ -383,8 +383,16 @@ def chat():
         user_input = json.dumps(data_from_client, ensure_ascii=False)
         input_message = {"role": "user", "content": user_input}
         cache_message = data_from_client['target']
+        resp = requests.get(f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{cache_message}/cids/JSON")
+        try:
+            resp.raise_for_status()
+            data = resp.json()
+            cids = data.get("IdentifierList", {}).get("CID", [])
+        except Exception:
+            print("Error occurred during cache CID conversion.")
+        cid = cids[0]
         for filename in cache_filelist:
-            if filename.endswith(f'{cache_message}.json'):
+            if filename.endswith(f'{cid}.json'):
                 file_path = os.path.join(cache_path, filename)
                 if os.path.getsize(file_path) == 0: 
                     print(f"[Cache Miss] 快取檔案為空: {filename}")
@@ -447,8 +455,18 @@ def chat():
     elif request_type == "search chemical":
         try:
             cache_message = data_from_client['target']
+            resp = requests.get(f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{cache_message}/cids/JSON")
+            try:
+                resp.raise_for_status()
+                data = resp.json()
+                cids = data.get("IdentifierList", {}).get("CID", [])
+            except Exception:
+                print("Error occurred during cache CID conversion.")
+            cid = cids[0]
+            print(f"cids:{cid}")
             for filename in cache_filelist:
-                if filename.endswith(f'{cache_message}.json'):
+                print(f"現在檔案:{filename}")
+                if filename.endswith(f"{cid}.json"):
                     file_path = os.path.join(cache_path, filename)
                     if os.path.getsize(file_path) == 0: 
                         print(f"[Cache Miss] 快取檔案為空: {filename}")
