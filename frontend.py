@@ -6,7 +6,7 @@ url = "https://jerlene-transmeridional-unrecognisably.ngrok-free.dev"
 
 # 模擬您原本 input_data.json 裡的內容
 payload = {
- "request_type": "search chemical",
+ "request_type": "chatbot",
  "query": "what are some chemically similar substitutes for butyl acrylate along with detailed legal regulations for every country?",
  "target": "butyl acrylate",
  "substitution": "",

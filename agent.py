@@ -379,6 +379,8 @@ def chat():
         payload = data_from_client if data_from_client else {}
     request_type = payload.get("request_type", "chatbot")#預設為 chatbot避免舊 client 沒送這個欄位直接炸掉
     if request_type == "chatbot":
+        now = datetime.now()# 給前端用的時間戳記
+        timestamp = now.strftime("%Y%m%d")
         print(f"\n[Server] 收到客戶端資料: {data_from_client}")
         user_input = json.dumps(data_from_client, ensure_ascii=False)
         input_message = {"role": "user", "content": user_input}
@@ -405,6 +407,7 @@ def chat():
                     return jsonify({
                         "status": "success",
                         "response": cached_response,
+                        "timestamp": filename[0:8]# 回傳快取檔案的時間戳記
                     })
             else:
                 print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
@@ -447,7 +450,7 @@ def chat():
             return jsonify({
                 "status": "success",
                 "response": ai_response_content,
-                # 如果需要回傳工具呼叫細節也可以放在這
+                "timestamp": timestamp #回傳chatbot回應的時間戳記
             })
         except Exception as e:
             print(f"\n[Error] {e}\n")
@@ -465,7 +468,6 @@ def chat():
             cid = cids[0]
             print(f"cids:{cid}")
             for filename in cache_filelist:
-                print(f"現在檔案:{filename}")
                 if filename.endswith(f"{cid}.json"):
                     file_path = os.path.join(cache_path, filename)
                     if os.path.getsize(file_path) == 0: 
@@ -476,10 +478,13 @@ def chat():
                         with open(file_path, 'r', encoding='utf-8') as f:
                             cached_response = json.load(f)
                         print(f"[Cache Hit] 找到快取資料: {filename}")
+                        timestamp = filename[0:8]# 寫入快取檔案的時間戳記
+                        print(f"timestamp:{timestamp}")
                         raw_text = cached_response
                 else:
                     print(f"[Cache Miss] 未找到快取資料 {cache_message}。")
                     #這邊還要新增若沒有快取資訊要回到chatbot模式
+            print("debugpoint1")
             client = OpenAI() # Automatically reads OPENAI_API_KEY
             completion = client.chat.completions.create(
                 model="gpt-4o-mini",
@@ -528,10 +533,10 @@ def chat():
                             }}
                         """},{"role": "user","content": f"原始文本如下，請進行分析：\n{raw_text}"}], response_format={"type": "json_object"}
             )
+            print("debugpoint2")
             content = completion.choices[0].message.content
             parsed_json = json.loads(content)
-            #=== [關鍵修正] ===
-            # 不要用 {parsed_json}，直接傳入字典
+            parsed_json["timestamp"] = timestamp # 加入時間戳記
             return jsonify(parsed_json) 
         except Exception as e:
             return []
